@@ -33,6 +33,11 @@
 	font-size: 30px;
 }
 
+.oomidashi {
+	font-weight: bolder;
+	font-size: 50px;
+}
+
 @media (max-width:320px){
 .welcome-content h2 {
 	font-size: 24px;
@@ -82,4 +87,10 @@
 }
 
 .retina {
+}
+
+.kaisetuWrap {
+	padding: 30px;
+	background-color: #E1E1E1;
+	border-radius: 5px;
 }
