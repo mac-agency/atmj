@@ -1190,7 +1190,7 @@ footer {
 .faq-acc1 .panel-heading ,
 .faq-acc2 .panel-heading ,
 .faq-acc3 .panel-heading {
-	background: #fff;
+	background-color: #EAEAEA;
 	border: 1px solid #f1f1f1;
 	color: #000;
 	padding: 18px 20px;
