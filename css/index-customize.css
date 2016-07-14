@@ -97,6 +97,13 @@
 }
 
 @media (max-width:470px){
+
+.navbar-brand {
+	width: 180px;
+	padding-top: 5px;
+	margin-top: 16px;
+	height: auto;
+}
 }
 
 .retina {
@@ -113,4 +120,12 @@
 	height: 30px;
 	width: 30px;
 	margin-right: 8px;
+}
+
+.smTelwrap {
+	height: 34px;
+	width: 34px;
+	float: right;
+	margin-top: 13px;
+	margin-right: 10px;
 }
