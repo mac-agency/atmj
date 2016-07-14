@@ -2296,7 +2296,10 @@ margin-left:85px;
 }
 
 .parallax-bg3 {
-	background: url(../images/bg/parallax/3.jpg) no-repeat center center fixed !important;
+	background-repeat: no-repeat;
+	background-position: center center fixed;
+	background-image: url(../images/bg/parallax/bg1.jpg);
+	background-attachment: fixed;
 	position: relative;
 	background-size: cover !important;
 }

@@ -71,6 +71,10 @@
 	font-weight: bold;
 }
 
+.voice320 {
+	width: 280px;
+}
+
 
 }
 
@@ -104,6 +108,26 @@
 	margin-top: 16px;
 	height: auto;
 }
+
+.slideCap1 {
+	font-size: 10px;
+	line-height: 15em;
+}
+
+.slideCap2 {
+	font-size: 20px;
+	line-height: 15em;
+}
+}
+
+.slideCap1 {
+	font-size: 10px;
+	line-height: 15em;
+}
+
+.slideCap1 {
+	font-size: 10px;
+	line-height: 15em;
 }
 
 .retina {
