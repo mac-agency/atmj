@@ -11,5 +11,9 @@
                 var retinaimg = $(this).attr('href').replace(/\.(?=(?:png|jpg|jpeg)$)/i, '@2x.');
                 $(this).attr('href', retinaimg);
             });
+            $('.tp-bgimg').each( function() {
+                var retinaimg = $(this).attr('src').replace(/\.(?=(?:png|jpg|jpeg)$)/i, '@2x.');
+                $(this).attr('src', retinaimg);
+            });
         }
     });
