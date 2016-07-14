@@ -51,6 +51,10 @@
 	float: left;
 }
 
+.smTelwrap {
+	display: none;
+}
+
 #flow > div > div:nth-child(3){
 	display: none;
 }
@@ -68,6 +72,7 @@
 	font-weight: 300;
 	line-height: 1.4;
 }
+
 
 .yuitu {
 	color: #FFFFFF;
@@ -104,6 +109,14 @@
 
 #flow > div > div:nth-child(3){
 	display: block;
+}
+
+.smTelwrap {
+	display: block;
+}
+
+#header-main .yamm img {
+	margin-top: 3px;
 }
 
 
@@ -168,10 +181,12 @@
 	height: 34px;
 	width: 34px;
 	float: right;
-	margin-top: 13px;
+	margin-top: 11px;
 	margin-right: 10px;
 }
 
 #header-main .navbar {
 	margin-bottom: 7px;
 }
+
+
