@@ -85,6 +85,36 @@
 	width: 280px;
 }
 
+.info-home h3 em {
+	color: #006bb7;
+	font-size: 32px;
+	line-height: 1em;
+}
+
+.factoring {
+	color: #0077B6;
+	font-size: 37px;
+	line-height: 1.5em;
+	text-align: center;
+	font-weight: bold;
+}
+
+.genkin {
+	font-size: 32px;
+	line-height: 1.5em;
+	color: #FF0000;
+	text-align: center;
+	font-weight: bold;
+}
+
+.kariire {
+	color: #000000;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+}
+
 
 }
 
@@ -119,6 +149,36 @@
 	margin-top: 3px;
 }
 
+.info-home h3 em {
+	color: #006bb7;
+	font-size: 37px;
+	line-height: 2em;
+}
+
+.factoring {
+	color: #0077B6;
+	font-size: 37px;
+	line-height: 1.5em;
+	text-align: center;
+	font-weight: bold;
+}
+
+.genkin {
+	font-size: 32px;
+	line-height: 1.5em;
+	color: #FF0000;
+	text-align: center;
+	font-weight: bold;
+}
+
+.kariire {
+	color: #000000;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+}
+
 
 }
 
@@ -148,6 +208,39 @@
 
 	#flow > div > div:nth-child(3){
 	display: block;
+}
+
+.blueText {
+}
+
+.info-home h3 em {
+	color: #006bb7;
+	font-size: 32px;
+	line-height: 1em;
+}
+
+.factoring {
+	color: #0077B6;
+	font-size: 37px;
+	line-height: 1.5em;
+	text-align: center;
+	font-weight: bold;
+}
+
+.genkin {
+	font-size: 32px;
+	line-height: 1.5em;
+	color: #FF0000;
+	text-align: center;
+	font-weight: bold;
+}
+
+.kariire {
+	color: #000000;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
 }
 }
 
@@ -187,4 +280,31 @@
 
 #header-main .navbar {
 	margin-bottom: 7px;
+}
+
+@media (min-width:471px){
+
+.factoring {
+	color: #0077B6;
+	font-size: 37px;
+	line-height: 1.5em;
+	text-align: center;
+	font-weight: bold;
+}
+
+.genkin {
+	font-size: 32px;
+	line-height: 1.5em;
+	color: #FF0000;
+	text-align: center;
+	font-weight: bold;
+}
+
+.kariire {
+	color: #000000;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+}
 }
