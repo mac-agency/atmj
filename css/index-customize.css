@@ -51,6 +51,11 @@
 	float: left;
 }
 
+#flow > div > div:nth-child(3){
+	display: none;
+}
+
+
 @media (max-width:320px){
 .welcome-content h2 {
 	font-size: 24px;
@@ -79,7 +84,6 @@
 }
 
 
-
 @media (max-width:375px){
 
 .yuitu {
@@ -93,6 +97,16 @@
 	font-size: 25px;
 	font-weight: 500;
 }
+
+#flow > div > div:nth-child(2){
+	display: none;
+}
+
+#flow > div > div:nth-child(3){
+	display: block;
+}
+
+
 }
 
 .footerLink {
@@ -117,6 +131,10 @@
 .slideCap2 {
 	font-size: 20px;
 	line-height: 15em;
+}
+
+	#flow > div > div:nth-child(3){
+	display: block;
 }
 }
 
@@ -152,4 +170,8 @@
 	float: right;
 	margin-top: 13px;
 	margin-right: 10px;
+}
+
+#header-main .navbar {
+	margin-bottom: 7px;
 }
