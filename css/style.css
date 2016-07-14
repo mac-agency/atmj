@@ -136,8 +136,8 @@ ul, li {
 
 
 #header-main .navbar-brand img {
-    width: 123px;
-    height: 24px;
+	/* [disabled]width: 123px; */
+	height: 24px;
 }
 
 #header-main .navbar {
