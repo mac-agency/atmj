@@ -42,7 +42,7 @@
 
 .oomidashi {
 	font-weight: bolder;
-	font-size: 50px;
+	font-size: 46px;
 }
 
 .topTelno {
@@ -61,6 +61,9 @@
 
 .footerLink.text-white ul li {
 	line-height: 1.8em;
+}
+.topMargin50 {
+	margin-top: 50px;
 }
 
 
