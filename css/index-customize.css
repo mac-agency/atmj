@@ -331,3 +331,27 @@
 	text-align: center;
 }
 }
+
+/* ページトップ */
+#page-top {
+	position: fixed;
+	bottom: 10px;
+	right: 10px;
+	font-size: 34px;
+	z-index: 1;
+}
+#page-top a {
+	background-color: hsla(0, 100%, 50%, 0.8);
+	text-decoration: none;
+	color: #fff;
+	width: 55px;
+	padding: 8px 0;
+	text-align: center;
+	display: block;
+	border-radius: 10px;
+	height: auto;
+}
+#page-top a:hover {
+	text-decoration: none;
+	background-color: hsla(0, 100%, 50%, 0.8);
+}
