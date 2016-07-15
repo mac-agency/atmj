@@ -1,0 +1,216 @@
+@charset "UTF-8";
+
+
+/* ===== 「フォーム全体」の設定 ===== */
+
+/* フォーム全体の設定 */
+.aw_layout_body {
+}
+
+/* ヘッダーエリアの設定 */
+.aw_layout_header {
+	/* 余白の設定 */
+	padding: 5px;
+	/* テキストフォントの設定 */
+	font-size: small;
+}
+
+/* メインエリアの設定 */
+.aw_layout_form form {
+	display: inline;
+}
+.aw_layout_form_data {
+	/* マージンの設定 */
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* フォーム送信エリアの設定 */
+.aw_layout_form_submit {
+	/* マージンの設定 */
+	margin-top: 5px;
+	/* 余白の設定 */
+	padding: 10px;
+}
+.aw_layout_form_submit_confirm {
+	/* マージンの設定 */
+	margin-top: 5px;
+	/* 余白の設定 */
+	padding: 10px;
+}
+
+/* フッターエリアの設定 */
+.aw_layout_footer {
+	/* 余白の設定 */
+	padding: 5px;
+	/* テキストフォントの設定 */
+	font-size: small;
+}
+
+
+/* ===== 「フォーム内部」の設定 ===== */
+
+/* メインエリアの設定 */
+table.awform {
+	/* 横幅の設定 */
+	width: 500px;
+	/* マージンの設定 */
+	margin: 0 0 20px 0;
+	/* 余白の設定 */
+	padding: 0;
+	/* 枠線の設定 */
+	border-collapse: collapse;
+	border: 1px;
+	border-style: solid;
+	border-color: #C4C4C4;
+}
+
+/* セルの共通設定 */
+table.awform td,
+table.awform th {
+	/* マージンの設定 */
+	margin: 0;
+	/* 余白の設定 */
+	padding:8px 6px;
+	/* テキスト表示位置の設定 */
+	line-height:140%;
+	text-align: left;
+	vertical-align: middle;
+	/* 枠線の設定 */
+	border-collapse: collapse;
+	border: 1px;
+	border-style: solid;
+	border-color: #C4C4C4;
+}
+
+/* タイトルセルの設定 */
+table.awform thead th {
+	/* 余白の設定 */
+	padding:10px 5px;
+	/* 背景色の設定 */
+	background:url("http://124.146.216.154/rakumail/rakumail_data/template/design_form_01/bg_thead1.gif") left bottom repeat-x;
+	/* テキストフォントの設定 */
+	color:#00358D;
+	font-weight:bold;
+	font-size:12px;
+}
+
+/* 項目名セルの設定 */
+table.awform tbody th {
+	/* 横幅の設定 */
+	width: 30%;
+	/* 余白の設定 */
+	padding: 5px;
+	/* テキストフォントの設定 */
+	color: #000000;
+	font-weight: normal;
+	font-size: 12px;
+	font-style: normal;
+	/* 背景色の設定 */
+	background-color: #F5FEFF;
+}
+
+/* フォームセルの設定 */
+table.awform td {
+	/* 余白の設定 */
+	padding: 5px;
+	/* テキストフォントの設定 */
+	color: #000000;
+	font-weight: normal;
+	font-size: 12px;
+	font-style: normal;
+	/* 背景色の設定 */
+	background-color: #FFFFFF;
+}
+
+/* ラベルの設定 */
+table.awform td label {
+	margin-right: 1em;
+ 	white-space: nowrap;
+	display: inline;
+	float: none;
+}
+
+/* 横並びの場合 */
+table.awform td label.nowrap {
+	display: block;
+	float: left;
+}
+
+/* エラーメッセージの設定 */
+table.awform div.awform_alert1 {
+	clear: both; 
+	padding: 2px;
+	margin-top: 5px;
+	background: url("http://124.146.216.154/rakumail/rakumail_data/template/design_form_01/icon_alert.gif") no-repeat;
+	background-color: #FFF3F3;
+}
+table.awform div.awform_alert1 span {
+	padding-top: 3px;
+	margin-left: 26px;
+	color: #EE6666;
+	display: block;
+}
+
+/* 複合フォーム用レイアウト */
+table.awform div.nowrap {
+	float: left;
+}
+table.awform div.clearboth {
+	clear: both; 
+	height: 0; 
+	display: block; 
+	visibility: hidden;
+}
+
+/* 未入力用背景色 */
+table.awform .color_nec {
+	background-color:#FFEEEE;
+}
+
+/* 注釈 - 項目上 */
+.awform_notes1 {
+}
+/* 注釈 - 項目下 */
+.awform_notes2 {
+}
+/* 注釈 - データ上 */
+.awform_notes3 {
+}
+/* 注釈 - データ下 */
+.awform_notes4 {
+	clear: both;
+}
+/* 注釈 - データ左 */
+.awform_notes5 {
+}
+/* 注釈 - データ右 */
+.awform_notes6 {
+}
+/* 項目名 */
+.awform_name {
+	/* [disabled]width: 60%; */
+	margin-left: 11px;
+}
+/* 項目データ */
+.awform_data {
+}
+/* フリー＆複合フォーム用＆価格＆数量 */
+table.awform tr.awform_kind-free .awform_data,
+table.awform tr.awform_kind-connect .awform_data,
+table.awform tr.awform_kind-price .awform_data,
+table.awform tr.awform_kind-number .awform_data {
+	float: left;
+}
+table.awform tr.awform_kind-free .awform_notes5,
+table.awform tr.awform_kind-connect .awform_notes5,
+table.awform tr.awform_kind-price .awform_notes5,
+table.awform tr.awform_kind-number .awform_notes5 {
+	float: left;
+}
+table.awform tr.awform_kind-free .awform_notes6,
+table.awform tr.awform_kind-connect .awform_notes6,
+table.awform tr.awform_kind-price .awform_notes6,
+table.awform tr.awform_kind-number .awform_notes6 {
+	float: left;
+}
