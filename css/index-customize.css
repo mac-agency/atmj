@@ -126,6 +126,16 @@
 	padding-left: 30px;
 	padding-right: 30px;
 }
+	body > div{
+		height: 7600px;
+	}
+}
+
+@media (max-width:375px) and (min-width:374px){
+
+	body > div{
+		height: 7655px;
+	}
 
 
 }
@@ -195,7 +205,6 @@
 	padding-left: 30px;
 	padding-right: 30px;
 }
-
 
 }
 
@@ -357,4 +366,20 @@
 #page-top a:hover {
 	text-decoration: none;
 	background-color: hsla(0, 100%, 50%, 0.8);
+}
+
+footer {
+	background: white;
+}
+
+body > div > footer > div > div > div:nth-child(1) > h4 {
+	color: black;
+}
+
+body > div > footer > div > div > div:nth-child(2) > h4 {
+	color: black;
+}
+
+body > div > footer > div > div > div:nth-child(3) > h4 {
+	color: black;
 }
