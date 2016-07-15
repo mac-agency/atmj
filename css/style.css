@@ -1078,7 +1078,10 @@ height:47px;
 footer {
 	background: #282828 url(../images/footer-bg.png) no-repeat bottom right;
 	background-size: 80%;
-	padding: 80px 0 140px;
+	padding-top: 80px;
+	padding-right: 0;
+	padding-left: 0;
+	/* [disabled]padding-bottom: 140px; */
 }
 
 .hidden-heading {
@@ -1092,7 +1095,10 @@ footer {
 	top: -80px;
 	margin-bottom: -80px;
 	overflow: hidden;
-	padding: 23px 0;
+	padding-top: 23px;
+	padding-right: 0;
+	padding-left: 0;
+	/* [disabled]padding-bottom: 23px; */
 }
 
 .footer-bottom p {
@@ -6324,14 +6330,17 @@ aside {
 }
 
 .footer-bottom {
-    background: #222;
-    height: auto;
-    position: relative;
-    top: -80px;
-    margin-bottom: 0;
-    overflow: hidden;
-    padding: 23px 0px;
-    text-align: center;
+	background: #222;
+	height: auto;
+	position: relative;
+	top: -80px;
+	margin-bottom: 0;
+	overflow: hidden;
+	padding-top: 23px;
+	padding-right: 0px;
+	padding-left: 0px;
+	/* [disabled]padding-bottom: 23px; */
+	text-align: center;
 }
 
 .f-social {

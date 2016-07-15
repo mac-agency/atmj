@@ -115,6 +115,11 @@
 	text-align: center;
 }
 
+.paddingSide {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
 
 }
 
@@ -179,6 +184,11 @@
 	text-align: center;
 }
 
+.paddingSide {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
 
 }
 
@@ -241,6 +251,15 @@
 	font-weight: bold;
 	font-size: 20px;
 	text-align: center;
+}
+.marginSide {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.paddingSide {
+	padding-left: 30px;
+	padding-right: 30px;
 }
 }
 
