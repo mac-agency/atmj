@@ -59,6 +59,10 @@
 	display: none;
 }
 
+.footerLink.text-white ul li {
+	line-height: 1.8em;
+}
+
 
 @media (max-width:320px){
 .welcome-content h2 {
