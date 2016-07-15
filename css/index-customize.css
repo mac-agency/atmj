@@ -1,5 +1,6 @@
 @charset "UTF-8";
 
+
 .japanese {
 	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
 }
@@ -126,16 +127,10 @@
 	padding-left: 30px;
 	padding-right: 30px;
 }
-	body > div{
-		height: 7600px;
-	}
 }
 
 @media (max-width:375px) and (min-width:374px){
 
-	body > div{
-		height: 7650px;
-	}
 
 
 }

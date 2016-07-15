@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+@media (max-width:320px){
+.paddingSide {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+	body > div{
+		height: 7600px;
+	}
+}
+
+@media (max-width:375px) and (min-width:374px){
+
+	body > div{
+		height: 7650px;
+	}
+
+
+}
