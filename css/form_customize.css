@@ -2,3 +2,8 @@
 .formWrap {
 	margin-top: 30px;
 }
+
+.markWrap {
+	float: right;
+	padding-right: 5px;
+}
