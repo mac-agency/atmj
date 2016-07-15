@@ -7,3 +7,19 @@
 	float: right;
 	padding-right: 5px;
 }
+
+@media (max-width:767px){
+.smNon {
+	display: none;
+}
+}
+
+@media (min-width:768px){
+
+.pcNon {
+	display: none;
+}
+
+.pcNon {
+}
+}

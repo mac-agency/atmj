@@ -220,9 +220,9 @@
 @media (max-width:470px){
 
 .navbar-brand {
-	width: 180px;
+	width: 135px;
 	padding-top: 5px;
-	margin-top: 16px;
+	margin-top: 0px;
 	height: auto;
 }
 
