@@ -60,7 +60,7 @@
 }
 
 .footerLink.text-white ul li {
-	line-height: 1.8em;
+	/* [disabled]line-height: 1.8em; */
 }
 .topMargin50 {
 	margin-top: 50px;
@@ -134,7 +134,7 @@
 @media (max-width:375px) and (min-width:374px){
 
 	body > div{
-		height: 7655px;
+		height: 7650px;
 	}
 
 
