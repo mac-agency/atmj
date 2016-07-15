@@ -11,6 +11,9 @@ $(function(){
       var target = $(href == "#" || href == "" ? 'html' : href);
       // 移動先を数値で取得
       var position = target.offset().top;
+
+      position = position - 30;
+
       // スムーススクロール
       $('body,html').animate({scrollTop:position}, speed, 'swing');
       return false;
