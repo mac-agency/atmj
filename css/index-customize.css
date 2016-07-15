@@ -76,6 +76,10 @@
 	color: #525252;
 }
 
+.toHometext {
+	font-size: 31px;
+}
+
 
 @media (max-width:320px){
 .welcome-content h2 {
