@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+#privacy_policy h2 {
+	font-size: 45px;
+}
+
+.inyouRed {
+	border-left-color: #FF0000;
+}
+
+.ppText {
+	font-size: 16px;
+	line-height: 1.5em;
+}
+
+@media (max-width:375px){
+
+#privacy_policy h2 {
+	font-size: 31px;
+	font-weight: bold;
+}
+}
+
+@media (max-width:320px){
+
+#privacy_policy h2 {
+	font-size: 27px;
+	font-weight: bold;
+}
+}
