@@ -43,7 +43,7 @@
 
 .oomidashi {
 	font-weight: bolder;
-	font-size: 46px;
+	font-size: 45px;
 }
 
 .topTelno {
@@ -79,6 +79,15 @@
 .toHometext {
 	font-size: 31px;
 	color: #FFFFFF;
+}
+
+.kugiriHr {
+	border-top: 3px dotted #969696;
+}
+
+.inyouLine {
+	font-weight: bolder;
+	color: #FF0000;
 }
 
 
@@ -393,3 +402,34 @@ body > div > footer > div > div > div:nth-child(2) > h4 {
 body > div > footer > div > div > div:nth-child(3) > h4 {
 	color: black;
 }
+
+/*gridのgutter調整*/
+.row-0{
+    margin-left:0px;
+    margin-right:0px;
+
+    }
+
+.row-10{
+    margin-left:-5px;
+    margin-right:-5px;
+
+    }
+
+.row-20{
+    margin-left:-10px;
+    margin-right:-10px;
+
+    }
+
+.row-30{
+    margin-left:-15px;
+    margin-right:-15px;
+
+    }
+
+.row-40{
+    margin-left:-20px;
+    margin-right:-20px;
+
+    }
