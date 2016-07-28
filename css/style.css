@@ -1078,7 +1078,7 @@ height:47px;
 footer {
 	background: #282828 url(../images/footer-bg.png) no-repeat bottom right;
 	background-size: 80%;
-	padding-top: 80px;
+	padding-top: 50px;
 	padding-right: 0;
 	padding-left: 0;
 	/* [disabled]padding-bottom: 140px; */
@@ -1103,7 +1103,7 @@ footer {
 
 .footer-bottom p {
 	color: #666;
-	padding-top: 5px;
+	padding-top: 10px;
 	margin: 0;
 }
 
@@ -6332,11 +6332,11 @@ aside {
 .footer-bottom {
 	background: #222;
 	height: auto;
-	position: relative;
-	top: -80px;
+	/* [disabled]position: relative; */
+	/* [disabled]top: -80px; */
 	/*margin-bottom: 0;*/
 	overflow: hidden;
-	padding-top: 23px;
+	padding-top: 10px;
 	padding-right: 0px;
 	padding-left: 0px;
 	/* [disabled]padding-bottom: 23px; */

@@ -90,6 +90,10 @@
 	color: #FF0000;
 }
 
+.spaceTop10 {
+	margin-top: 10px;
+}
+
 
 @media (max-width:320px){
 .welcome-content h2 {
@@ -224,6 +228,30 @@
 	padding-right: 30px;
 }
 
+.meritText {
+	font-size: 36px;
+}
+
+.factoringText {
+	font-size: 37px;
+}
+
+.flowText {
+	font-size: 20px;
+}
+
+.criteriaText {
+	font-size: 33px;
+}
+
+.kaisetuWrap {
+	padding: 15px;
+	background-color: #E1E1E1;
+	border-radius: 5px;
+	margin-top: 15px;
+}
+
+
 }
 
 .footerLink {
@@ -295,6 +323,10 @@
 	padding-left: 30px;
 	padding-right: 30px;
 }
+
+.smnon {
+	display: none;
+}
 }
 
 .slideCap1 {
@@ -311,10 +343,10 @@
 }
 
 .kaisetuWrap {
-	padding: 30px;
+	padding: 25px;
 	background-color: #E1E1E1;
 	border-radius: 5px;
-	margin-top: 15px;
+	margin-top: 5px;
 }
 
 .topTelicon {
@@ -328,7 +360,7 @@
 	height: 34px;
 	width: 34px;
 	float: right;
-	margin-top: 11px;
+	margin-top: 6px;
 	margin-right: 10px;
 }
 
@@ -360,6 +392,10 @@
 	font-weight: bold;
 	font-size: 21px;
 	text-align: center;
+}
+
+.pcnon {
+	display: none;
 }
 }
 
