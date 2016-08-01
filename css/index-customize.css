@@ -10,7 +10,7 @@
 }
 
 .sectionSpace {
-	margin-top: 30px;
+	/* [disabled]margin-top: 30px; */
 	margin-bottom: 30px;
 }
 .topH1   {
@@ -92,6 +92,17 @@
 
 .spaceTop10 {
 	margin-top: 10px;
+}
+.leadXs {
+	font-size: 10px;
+}
+
+.marginBottomzero {
+	margin-bottom: 0px;
+}
+
+#qa .container #accordion-alt1 {
+	margin-bottom: 0px;
 }
 
 
@@ -237,7 +248,7 @@
 }
 
 .flowText {
-	font-size: 20px;
+	font-size: 28px;
 }
 
 .criteriaText {
@@ -249,6 +260,10 @@
 	background-color: #E1E1E1;
 	border-radius: 5px;
 	margin-top: 15px;
+}
+
+.topMarginzero {
+	margin-top: 0px;
 }
 
 
@@ -326,6 +341,18 @@
 
 .smnon {
 	display: none;
+}
+
+.leadXs {
+	font-size: 10px;
+}
+
+.kaisetuWrap .lead.readTextcolor.leadXs {
+	font-size: 13px;
+}
+
+.kaisetuWrap .lead.readTextcolor {
+	font-size: 13px;
 }
 }
 

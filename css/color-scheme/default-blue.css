@@ -95,7 +95,7 @@ a:hover {
 }
 
 #accordion.panel-group .panel.active .panel-title a span {
-	background: #006bb7;
+	background-color: #FF0000;
 }
 
 .block-heading h3 {
