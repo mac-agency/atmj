@@ -637,10 +637,12 @@ background:transparent !important;
   border-left: 1px solid rgba(0, 0, 0, 0.07);
 }
 #top-bar .top-bar-content {
-  height: 100%;
-  float: left;
-  padding-right: 12px;
-  border-right: 1px solid rgba(0, 0, 0, 0.07);
+	height: 100%;
+	float: left;
+	padding-right: 12px;
+	/* [disabled]border-right-color: rgba(0, 0, 0, 0.07); */
+	/* [disabled]border-right-style: solid; */
+	/* [disabled]border-right-width: 1px; */
 }
 #top-bar .top-bar-content p {
   margin: 0;
@@ -6252,9 +6254,9 @@ padding: 0 !important;
 }
 
 .container {
-	width:100%;
-	max-width:500px;
-	margin:0 auto;
+	width: 100%;
+	/* [disabled]max-width:500px; */
+	margin: 0 auto;
 }
 
 aside {
