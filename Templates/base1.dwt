@@ -105,37 +105,37 @@
 				<div id="navbar-collapse-1" class="navbar-collapse collapse navbar-right">
 					<ul class="nav navbar-nav">
 						<li class="dropdown yamm-fw">
-							<a href="#" data-toggle="dropdown" class="dropdown-toggle">
+							<a href="index.html" data-toggle="dropdown" class="dropdown-toggle">
 								Home 
 							</a>
 						</li>
 
 				  <li class="dropdown yamm-fw">
-							<a href="#top">
+							<a href="index.html#top">
 								ファクタリングで解決 
 							</a>
 						</li>
 				  <li class="dropdown">
-							<a href="#merit">
+							<a href="index.html#merit">
 								メリット 
 							</a>
 						</li>
 				  <li class="dropdown">
-							<a href="#factoring">
+							<a href="index.html#factoring">
 								ファクタリング 
 							</a>
 						</li>
 				  <li class="dropdown">
-							<a href="#flow">
+							<a href="index.html#flow">
 								フロー 
 							</a>
 						</li>
 				  <li class="dropdown yamm-fw">
-							<a href="#qa"> Q&amp;A
+							<a href="../faq.html"> Q&amp;A
 							</a>
 						</li>
 				  <li class="dropdown">
-							<a href="#voice">
+							<a href="index.html#voice">
 								お客様の声 
 								<!--<div class="arrow-up"><i class="fa fa-angle-down"></i></div>-->
 							</a>
@@ -192,22 +192,22 @@
 				<p class="readTextcolor">ファクタリングをご利用するにあたり様々なメリットが御座います。</p>
 			</div>
 			<div class="row smnon">
-				<div class="col-lg-6 space10"><img src="../images/short.png" class="img-responsive retina" alt="資金ショートを大幅改善　弊社が売掛金を買い取らせていただくことで、お客様は早期に豊富な資金を調達でき、事業拡大などによる取引増につなげることが可能です。"></div>
-				<div class="col-lg-6 space10"><img src="../images/anshin.png" class="img-responsive retina" alt="もしものときにも安心　ファクタリングは、貴社が保有する売掛金を完全に買取るサービスです。万一、売掛先企業様が倒産した場合でも、貴社が支払い義務を負うことはありません。"></div>
+				<div class="col-lg-6 space10"><img src="../images/short.png" class="img-responsive retina center-block" alt="資金ショートを大幅改善　弊社が売掛金を買い取らせていただくことで、お客様は早期に豊富な資金を調達でき、事業拡大などによる取引増につなげることが可能です。"></div>
+				<div class="col-lg-6 space10"><img src="../images/anshin.png" class="img-responsive retina center-block" alt="もしものときにも安心　ファクタリングは、貴社が保有する売掛金を完全に買取るサービスです。万一、売掛先企業様が倒産した場合でも、貴社が支払い義務を負うことはありません。"></div>
 			</div>
 			<div class="row pcnon">
-				<div class="col-lg-6 space10"><img src="../images/sm_short.png" class="img-responsive retina" alt="資金ショートを大幅改善"></div>
-				<div class="col-lg-6 space10"><img src="../images/sm_anshin.png" class="img-responsive retina" alt="Placeholder image"></div>
+				<div class="col-lg-6 space10"><img src="../images/sm_short.png" class="img-responsive retina center-block" alt="資金ショートを大幅改善　弊社が売掛金を買い取らせていただくことで、お客様は早期に豊富な資金を調達でき、事業拡大などによる取引増につなげることが可能です。"></div>
+				<div class="col-lg-6 space10"><img src="../images/sm_anshin.png" class="img-responsive retina center-block" alt="もしものときにも安心　ファクタリングは、貴社が保有する売掛金を完全に買取るサービスです。万一、売掛先企業様が倒産した場合でも、貴社が支払い義務を負うことはありません。"></div>
 			</div>
 		</div>
 		<div class="container space30">
 			<div class="row smnon">
-				<div class="col-lg-6 space10"><img src="../images/kariiredenai.png" class="img-responsive retina" alt="借入金ではありません！　売掛債務の売買契約なので、一切負債にはなりません。負債にならないということは、他の融資などにも影響しません。"></div>
-				<div class="col-lg-6 space10"><img src="../images/shirarenai.png" class="img-responsive retina" alt="取引先に知られません！　ファクタリングの取引方法は２種類あり、貴社、売掛先企業様、弊社の間で契約する３社間取引と、貴社と弊社のみで契約する２社間取引があります。２社間取引は、最後まで売掛先企業様に知られずに資金調達が可能なので、貴社の信用を損なう心配がありません。"></div>
+				<div class="col-lg-6 space10"><img src="../images/kariiredenai.png" class="img-responsive retina center-block" alt="借入金ではありません！　売掛債務の売買契約なので、一切負債にはなりません。負債にならないということは、他の融資などにも影響しません。"></div>
+				<div class="col-lg-6 space10"><img src="../images/shirarenai.png" class="img-responsive retina center-block" alt="取引先に知られません！　ファクタリングの取引方法は２種類あり、貴社、売掛先企業様、弊社の間で契約する３社間取引と、貴社と弊社のみで契約する２社間取引があります。２社間取引は、最後まで売掛先企業様に知られずに資金調達が可能なので、貴社の信用を損なう心配がありません。"></div>
 			</div>
 			<div class="row pcnon">
-				<div class="col-lg-6 space10"><img src="../images/sm_kariiredenai.png" class="img-responsive retina" alt="取引先に知られません！"></div>
-				<div class="col-lg-6 space10"><img src="../images/sm_shirarenai.png" class="img-responsive retina" alt="Placeholder image"></div>
+				<div class="col-lg-6 space10"><img src="../images/sm_kariiredenai.png" class="img-responsive retina center-block" alt="借入金ではありません！　売掛債務の売買契約なので、一切負債にはなりません。負債にならないということは、他の融資などにも影響しません。"></div>
+				<div class="col-lg-6 space10"><img src="../images/sm_shirarenai.png" class="img-responsive retina center-block" alt="取引先に知られません！　ファクタリングの取引方法は２種類あり、貴社、売掛先企業様、弊社の間で契約する３社間取引と、貴社と弊社のみで契約する２社間取引があります。２社間取引は、最後まで売掛先企業様に知られずに資金調達が可能なので、貴社の信用を損なう心配がありません。"></div>
 			</div>
 		</div>
 	</section>
@@ -602,7 +602,7 @@
 							<li><a href="#merit">メリット</a></li>
 							<li><a href="#factoring">ファクタリング</a></li>
 							<li><a href="#flow">フロー</a></li>
-							<li><a href="#qa">Q&amp;A</a></li>
+							<li><a href="../faq.html">Q&amp;A</a></li>
 							<li><a href="#voice">お客様の声</a></li>
 							<li><a href="../contact.html">お問合せ</a></li>
 							<li><a href="../privacy_policy.html">プライバシーポリシー</a></li>
