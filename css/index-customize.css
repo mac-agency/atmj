@@ -538,3 +538,7 @@ body > div > footer > div > div > div:nth-child(3) > h4 {
 	margin-left: 10px;
 }
 }
+
+.owl-theme .owl-controls .owl-page span {
+	background: rgb(255, 255, 255);
+}
