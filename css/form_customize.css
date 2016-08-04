@@ -20,6 +20,11 @@
 	color: #3A3A3A;
 }
 
+.btOrenge   {
+	width: 320px;
+	height: 65px;
+}
+
 
 @media (max-width:767px){
 .smNon {
