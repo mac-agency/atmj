@@ -546,6 +546,7 @@ body > div > footer > div > div > div:nth-child(3) > h4 {
 }
 }
 
+<<<<<<< HEAD
 @media (min-width:376px){
 
 .inyouRed {
@@ -554,4 +555,8 @@ body > div > footer > div > div > div:nth-child(3) > h4 {
 	border-left: 5px solid #FF0000;
 	margin-right: 5px;
 }
+=======
+.owl-theme .owl-controls .owl-page span {
+	background: rgb(255, 255, 255);
+>>>>>>> 860079ab0a8829577f82226d9d27d97e49bbb26a
 }
