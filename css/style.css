@@ -3501,7 +3501,7 @@ footer p {
 	background: transparent url("../images/map.png") no-repeat scroll left bottom / 55% auto;
 	background-position: 0 100%;
 	overflow: visible;
-	padding-bottom: 78px;
+	/* [disabled]padding-bottom: 78px; */
 }
 
 .c-info li i {
