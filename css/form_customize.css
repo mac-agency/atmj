@@ -41,3 +41,23 @@
 .pcNon {
 }
 }
+
+@media (min-width:376px){
+
+.inyouRed {
+	/* [disabled]padding: 10px 20px; */
+	font-size: 40px;
+	border-left: 5px solid #FF0000;
+	margin-right: 5px;
+}
+}
+
+@media (max-width:375px){
+
+.inyouRed {
+	/* [disabled]padding: 10px 20px; */
+	font-size: 30px;
+	border-left: 5px solid #FF0000;
+	margin-right: 5px;
+}
+}

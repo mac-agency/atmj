@@ -116,6 +116,11 @@
 	margin-top: 5px;
 }
 
+.marginReset {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
 
 @media (max-width:320px){
 .welcome-content h2 {
@@ -255,19 +260,19 @@
 }
 
 .meritText {
-	font-size: 36px;
+	font-size: 24px;
 }
 
 .factoringText {
-	font-size: 37px;
+	font-size: 24px;
 }
 
 .flowText {
-	font-size: 28px;
+	font-size: 23px;
 }
 
 .criteriaText {
-	font-size: 33px;
+	font-size: 23px;
 }
 
 .kaisetuWrap {
@@ -279,6 +284,13 @@
 
 .topMarginzero {
 	margin-top: 0px;
+}
+
+.inyouRed {
+	/* [disabled]padding: 10px 20px; */
+	font-size: 20px;
+	border-left: 5px solid #FF0000;
+	margin-right: 5px;
 }
 
 
@@ -375,6 +387,7 @@
 	margin-top: 0px;
 	margin-bottom: 0px;
 }
+
 }
 
 .slideCap1 {
@@ -408,7 +421,7 @@
 	height: 34px;
 	width: 34px;
 	float: right;
-	margin-top: 10px;
+	margin-top: 14px;
 	margin-right: 10px;
 }
 
@@ -518,12 +531,6 @@ body > div > footer > div > div > div:nth-child(3) > h4 {
 
     }
 
-.inyouRed {
-	/* [disabled]padding: 10px 20px; */
-	font-size: 40px;
-	border-left: 5px solid #FF0000;
-	margin-right: 5px;
-}
 
 @media (min-width:321px) and (max-width:375px){
 
@@ -536,5 +543,15 @@ body > div > footer > div > div > div:nth-child(3) > h4 {
 
 .footerLeft {
 	margin-left: 10px;
+}
+}
+
+@media (min-width:376px){
+
+.inyouRed {
+	/* [disabled]padding: 10px 20px; */
+	font-size: 40px;
+	border-left: 5px solid #FF0000;
+	margin-right: 5px;
 }
 }

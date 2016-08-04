@@ -131,7 +131,7 @@ ul, li {
 }
 
 #header-main .navbar-brand {
-    padding: 7px 0 0;
+	padding: 12px 0 0;
 }
 
 
@@ -6184,8 +6184,8 @@ font-size: 11px;
 }
 
 .navbar-toggle {
-    margin-top: 14px;
-    margin-right: 0;
+	margin-top: 17px;
+	margin-right: 0;
 }
 
 #header-main .navbar-nav > li > a {
