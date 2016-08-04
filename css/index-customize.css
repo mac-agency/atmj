@@ -105,6 +105,10 @@
 	margin-bottom: 0px;
 }
 
+.bottomP {
+	margin-bottom: 3px;
+}
+
 
 @media (max-width:320px){
 .welcome-content h2 {
