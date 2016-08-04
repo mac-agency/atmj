@@ -45,6 +45,9 @@
 	font-weight: bolder;
 	font-size: 45px;
 }
+.midashiTop {
+	margin-top: 20px;
+}
 
 .topTelno {
 	font-size: 26px;
@@ -107,6 +110,10 @@
 
 .bottomP {
 	margin-bottom: 3px;
+}
+
+.top5 {
+	margin-top: 5px;
 }
 
 
@@ -362,6 +369,11 @@
 
 .kaisetuWrap .lead.readTextcolor {
 	font-size: 13px;
+}
+
+.midashiBottomzero {
+	margin-top: 0px;
+	margin-bottom: 0px;
 }
 }
 
