@@ -25,6 +25,12 @@
 	height: 65px;
 }
 
+.nenText {
+	line-height: 30px;
+	margin-left: 5px;
+	margin-bottom: 0px;
+}
+
 
 @media (max-width:767px){
 .smNon {
