@@ -121,6 +121,14 @@
 	margin-bottom: 0px;
 }
 
+.voiceKomidashi {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: #FFFFFF;
+	text-shadow: 1px 1px 1px #000000;
+}
+
 
 @media (max-width:320px){
 .welcome-content h2 {
