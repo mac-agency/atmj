@@ -124,9 +124,34 @@
 .voiceKomidashi {
 	font-style: normal;
 	font-weight: bold;
-	font-size: 20px;
+	font-size: 19px;
 	color: #FFFFFF;
 	text-shadow: 1px 1px 1px #000000;
+}
+
+.tableText {
+	color: #FFFFFF;
+	text-shadow: 1px 1px 0px #000000;
+}
+
+.cyoutatuText {
+	color: #FFFFFF;
+	line-height: 1.4em;
+	text-shadow: 1px 1px #000000;
+}
+.textYellow   {
+	color: #FFFB00;
+}
+
+.voiceMidashi {
+	font-size: 28px;
+}
+
+.bgWhite {
+	background-color: #FFFFFF;
+	color: #000000;
+	text-shadow: 0px 0px;
+	width: 25%;
 }
 
 

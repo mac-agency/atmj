@@ -3434,7 +3434,7 @@ h2.title {
 
 .hq-info p {
 	font-size: 18px;
-	color: #fff;
+	/* [disabled]color: #fff; */
 	font-weight: 300;
 	font-style: italic;
 }
