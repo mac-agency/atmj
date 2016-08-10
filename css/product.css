@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+.zaikoRead {
+	font-size: 15px;
+}
+
+.otorihiki_bg {
+	background-color: #F8A707;
+	border-radius: 5px;
+}
+
+.otorihikiMidashi {
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 20px;
+	line-height: 2em;
+}
+
+.otorihikiRead {
+	font-size: 17px;
+	line-height: 1.5em;
+}
+
+@media (max-width:375px){
+
+
+.otorihikiRead {
+	font-size: 13px;
+	line-height: 1.5em;
+	text-align: center;
+	font-weight: bold;
+}
+}
