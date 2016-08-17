@@ -17,6 +17,7 @@
 	color: #525252;
 	font-size: 15px;
 	margin-top: 10px;
+	line-height: 57px;
 }
 .topTelwrap   {
 	color: #525252;
@@ -156,6 +157,35 @@
 
 .topMargin10 {
 	margin-top: 10px;
+}
+
+.tel-fax {
+	color: #525252;
+	font-size: 15px;
+	margin-top: 5px;
+	float: right;
+	width: 300px;
+}
+
+.denwaNo {
+	font-size: 16px;
+	margin-bottom: 0px;
+	float: right;
+	clear: both;
+}
+
+.faxNo {
+	font-size: 16px;
+	margin-bottom: 3px;
+	float: right;
+	clear: both;
+}
+
+.otoiawase {
+	font-size: 12px;
+	margin-bottom: 0px;
+	float: right;
+	clear: both;
 }
 
 
