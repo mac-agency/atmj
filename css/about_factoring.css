@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+.tableWrap {
+	padding: 5px;
+}
+
+@media (max-width:470px){
+
+.jyoukenTitle {
+	font-size: 15px;
+	font-weight: bold;
+	vertical-align: middle;
+	display: table-cell;
+}
+
+.jyoukenRead {
+	font-size: 14px;
+	line-height: 1.5em;
+}
+}
+
+@media (min-width:471px){
+
+.jyoukenTitle {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.jyoukenRead {
+	font-size: 15px;
+	line-height: 1.5em;
+}
+}
