@@ -188,6 +188,10 @@
 	clear: both;
 }
 
+.marginNashi {
+	margin-right: 1px;
+}
+
 
 @media (max-width:320px){
 .welcome-content h2 {
@@ -628,4 +632,18 @@ body > div > footer > div > div > div:nth-child(3) > h4 {
 .owl-theme .owl-controls .owl-page span {
 	background: rgb(255, 255, 255);
 
+}
+
+.telNumber {
+	float: right;
+	width: 87px;
+	line-height: 45px;
+	font-size: 10px;
+	margin-left: 0px;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+
+.telMargin {
+	float: right;
+	margin-right: 0px;
 }
