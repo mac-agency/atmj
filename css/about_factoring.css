@@ -4,6 +4,10 @@
 	padding: 5px;
 }
 
+.jyoukenWide {
+	width: 30%;
+}
+
 @media (max-width:470px){
 
 .jyoukenTitle {

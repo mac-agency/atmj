@@ -74,6 +74,7 @@
 .midashiTexteffect {
 	text-shadow: 3px 3px 5px #969696;
 	color: #3A3A3A;
+	line-height: 1.3em;
 }
 
 .readTextcolor {
@@ -190,6 +191,16 @@
 
 .marginNashi {
 	margin-right: 1px;
+}
+
+.tableWide {
+	width: 100%;
+}
+
+.readBorder {
+	border: 2px solid #969696;
+	border-radius: 10px;
+	padding: 10px;
 }
 
 
