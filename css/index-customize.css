@@ -203,6 +203,45 @@
 	padding: 10px;
 }
 
+.cyoutatuhouRead {
+	width: 100%;
+	color: #787878;
+	font-size: 16px;
+	line-height: 1.4em;
+	padding-top: 5px;
+	text-align: left;
+	padding-bottom: 5px;
+}
+
+.daijyoubu_text {
+	font-size: 18px;
+	line-height: 1.4em;
+}
+
+.riyuu_back {
+	background-color: #F2F2F2;
+	border: 13px solid #FE9635;
+	border-radius: 21px;
+	-webkit-box-shadow: 2px 2px 2px 2px #969696;
+	box-shadow: 2px 2px 2px 2px #969696;
+}
+
+.riyuu_midashi {
+	font-size: 32px;
+	font-weight: bold;
+	color: #FF0000;
+}
+
+.riyuu_read {
+	color: #000000;
+	font-size: 25px;
+	line-height: 1.4em;
+	font-weight: bold;
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+}
+
+
 
 @media (max-width:320px){
 .welcome-content h2 {
@@ -373,6 +412,39 @@
 	font-size: 20px;
 	border-left: 5px solid #FF0000;
 	margin-right: 5px;
+}
+
+.at_text {
+	font-size: 19px;
+}
+
+.wake_text {
+	font-size: 25px;
+}
+
+.riyuu_back {
+	background-color: #F2F2F2;
+	border: 8px solid #FE9635;
+	border-radius: 21px;
+	-webkit-box-shadow: 2px 2px 2px 2px #969696;
+	box-shadow: 2px 2px 2px 2px #969696;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.riyuu_midashi {
+	font-size: 22px;
+	font-weight: bold;
+	color: #FF0000;
+}
+
+.riyuu_read {
+	color: #000000;
+	font-size: 15px;
+	line-height: 1.4em;
+	font-weight: bold;
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
 }
 
 
@@ -637,6 +709,15 @@ body > div > footer > div > div > div:nth-child(3) > h4 {
 	border-left: 5px solid #FF0000;
 	margin-right: 5px;
 }
+
+.at_text {
+	font-size: 42px;
+}
+
+.wake_text {
+	font-size: 30px;
+}
+
 
 }
 
