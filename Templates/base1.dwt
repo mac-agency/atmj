@@ -129,42 +129,42 @@
 							</a>
 						</li>
 
-				  	<li class="dropdown"> <a href="../about_factoring.html"> ファクタリングとは </a> </li>
+				  	<li class="dropdown"> <a href="../about_factoring/index.html"> ファクタリングとは </a> </li>
 				  	<li class="dropdown">
-							<a href="../factoring_menu.html" data-toggle="dropdown" class="dropdown-toggle">
+							<a href="../factoring_menu/index.html" data-toggle="dropdown" class="dropdown-toggle">
 								ファクタリングメニュー 
 							<div class="arrow-up"><i class="fa fa-angle-down"></i></div>
 							</a>
 							<ul class="dropdown-menu" role="menu">
 								<li class="dropdown-submenu">
-									<a href="../urikake.html">売掛金ファクタリング</a>
+									<a href="../urikake/index.html">売掛金ファクタリング</a>
 								</li>
 								<li class="dropdown-submenu">
-									<a href="../shinryou.html">診療報酬ファクタリングサービス</a>
+									<a href="../shinryou/index.html">診療報酬ファクタリングサービス</a>
 								</li>
 								<li class="dropdown-submenu">
-									<a href="../kaigo.html">介護報酬ファクタリングサービス</a>
+									<a href="../kaigo/index.html">介護報酬ファクタリングサービス</a>
 								</li>
 								<!--<li class="dropdown-submenu">
 									<a href="#">手形ファクタリングサービス</a>
 								</li>-->
 								<li class="dropdown-submenu">
-									<a href="../product.html">商品在庫ファクタリングサービス</a>
+									<a href="../product/index.html">商品在庫ファクタリングサービス</a>
 									</li>
 								<li class="dropdown-submenu">
-									<a href="../yachin.html">家賃収入ファクタリング</a>
+									<a href="../yachin/index.html">家賃収入ファクタリング</a>
 								</li>
 							</ul>
 
 						</li>
 				  <li class="dropdown">
-							<a href="../factoring_menu.html">
+							<a href="../factoring_menu/index.html">
 								サービス一覧 
 							</a>
 						</li>
 				  
 				  <li class="dropdown">
-							<a href="../performance.html">
+							<a href="../performance/index.html">
 								実績 
 							</a>
 						</li>
@@ -176,16 +176,16 @@
 						
 						
 				  <li class="dropdown yamm-fw">
-							<a href="../faq.html"> Q&amp;A
+							<a href="../faq/index.html"> Q&amp;A
 							</a>
 						</li>
 				  <li class="dropdown">
-							<a href="index.html#voice">
+							<a href="../index.html#voice">
 								お客様の声 
 							</a>
 						</li>
 					<li class="dropdown">
-							<a href="../contact.html">
+							<a href="../contact/index.html">
 								お問合せ 
 								<!--<div class="arrow-up"><i class="fa fa-angle-down"></i></div>-->
 							</a>
@@ -638,15 +638,15 @@
 					<div class="footerLink text-white footerLeft">
 						<ul>
 							<li><a href="../index.html">HOME</a></li>
-							<li><a href="../about_factoring.html">ファクタリングとは</a></li>
-							<li><a href="../factoring_menu.html">ファクタリングメニュー</a></li>
-							<li><a href="../factoring_menu.html">サービス一覧</a></li>
-							<li><a href="../performance.html">実績</a></li>
-							<li><a href="../faq.html">Q&amp;A</a></li>
+							<li><a href="../about_factoring/index.html">ファクタリングとは</a></li>
+							<li><a href="../factoring_menu/index.html">ファクタリングメニュー</a></li>
+							<li><a href="../factoring_menu/index.html">サービス一覧</a></li>
+							<li><a href="../performance/index.html">実績</a></li>
+							<li><a href="../faq/index.html">Q&amp;A</a></li>
 							<li><a href="../index.html#voice">お客様の声</a></li>
-							<li><a href="../contact.html">お問合せ</a></li>
-							<li><a href="../privacy_policy.html">プライバシーポリシー</a></li>
-							<li><a href="../site_map.html">サイトマップ</a></li>
+							<li><a href="../contact/index.html">お問合せ</a></li>
+							<li><a href="../privacy_policy/index.html">プライバシーポリシー</a></li>
+							<li><a href="../site_map/index.html">サイトマップ</a></li>
 						</ul>
 					</div>
 					
