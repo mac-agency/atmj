@@ -523,7 +523,6 @@
 <!--<script type="text/javascript" src="js/scroll.js"></script>-->
 <script type="text/javascript" src="../js/analytics.js"></script>
 <script src="../js/main.js"></script>
-<!-- InstanceEndEditable -->
 
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -539,7 +538,42 @@ var google_remarketing_only = true;
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/875008450/?value=0&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
- 
+
+<!-- Google Code for &#38651;&#35441;&#21839;&#12356;&#21512;&#12431;&#12379; Conversion Page
+In your html page, add the snippet and call
+goog_report_conversion when someone clicks on the
+phone number link or button. -->
+<script type="text/javascript">
+	/* <![CDATA[ */
+	goog_snippet_vars = function() {
+		var w = window;
+		w.google_conversion_id = 875008450;
+		w.google_conversion_label = "L7kSCMPlkGoQwqOeoQM";
+		w.google_remarketing_only = false;
+	}
+	// DO NOT CHANGE THE CODE BELOW.
+	goog_report_conversion = function(url) {
+		goog_snippet_vars();
+		window.google_conversion_format = "3";
+		var opt = new Object();
+		opt.onload_callback = function() {
+			if (typeof(url) != 'undefined') {
+				window.location = url;
+			}
+		}
+		var conv_handler = window['google_trackConversion'];
+		if (typeof(conv_handler) == 'function') {
+			conv_handler(opt);
+		}
+	}
+	/* ]]> */
+</script>
+<script type="text/javascript"
+		src="//www.googleadservices.com/pagead/conversion_async.js">
+</script>
+
+<!-- InstanceEndEditable -->
+
 </body>
 <!-- InstanceEnd --></html>
 
