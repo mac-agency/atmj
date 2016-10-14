@@ -1,0 +1,77 @@
+@charset "UTF-8";
+
+.hrDeco {
+	border-top-color: #008DD7;
+	border-top-width: 1px;
+	-webkit-box-shadow: 0px 5px 4px 2px hsla(0,0%,0%,0.20);
+	box-shadow: 0px 5px 4px 2px hsla(0,0%,0%,0.20);
+}
+
+.cyoutatuhouRead {
+	color: hsla(0,0%,47%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 14px;
+	line-height: 1.5em;
+	text-align: left;
+}
+
+.meritText {
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 16px;
+	line-height: 1.4em;
+	font-weight: normal;
+	color: hsla(0,0%,47%,1);
+	text-align: left;
+	clear: both;
+	width: 80%;
+	margin-top: 10px;
+}
+
+.percentTitle {
+	width: 100%;
+	color: hsla(201,100%,42%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 26px;
+	text-align: center;
+}
+
+.featureWrap {
+	background-color: hsla(201,100%,42%,1);
+	width: 100%;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	height: 500px;
+}
+
+.featureText {
+	color: hsla(0,0%,100%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 19px;
+	text-align: center;
+	width: 100%;
+	line-height: 2.5em;
+	clear: both;
+}
+
+.featureKomidashi {
+	color: hsla(0,0%,100%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 16px;
+	line-height: 1.4em;
+	width: 100%;
+	clear: both;
+	text-align: center;
+	margin-bottom: 10px;
+	margin-top: 5px;
+}
+
+.featureRead {
+	color: hsla(0,0%,100%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	text-align: left;
+	line-height: 1.5em;
+}
