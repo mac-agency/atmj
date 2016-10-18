@@ -345,6 +345,10 @@
 	margin-top: 3px;
 }
 
+.navbar-header a .img-responsive.retina.topMargin10 {
+	margin-top: 10px;
+}
+
 .info-home h3 em {
 	color: #006bb7;
 	font-size: 37px;
@@ -445,6 +449,10 @@
 	font-weight: bold;
 	-webkit-box-shadow: 0px 0px;
 	box-shadow: 0px 0px;
+}
+
+.topMargin10 {
+	margin-top: 10px;
 }
 
 

@@ -313,9 +313,26 @@
 	height: auto;
 	float: left;
 }
+
+.smTopspace10 {
+	margin-top: 10px;
+}
+
+.smTopspace20 {
+	margin-top: 20px;
+}
+
+.top10px {
+	margin-top: 10px;
+	padding-top: 10px;
+}
 }
 
 @media (min-width:376px){
+
+.smTopspace10 {
+	margin-top: 10px;
+}
 
 .pcHide {
 	display: none;
