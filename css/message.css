@@ -1,0 +1,169 @@
+@charset "UTF-8";
+
+
+.titleText {
+	color: hsla(0,0%,0%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-weight: bold;
+	font-size: 31px;
+	line-height: 2em;
+	text-align: center;
+}
+.trPadding {
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+.accessMidashi {
+	color: hsla(0,0%,32%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.accessText {
+	color: hsla(0,0%,47%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 14px;
+}
+
+.companyText {
+	font-size: 11px;
+}
+
+.messageIntro {
+	color: hsla(0,0%,32%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-weight: normal;
+	line-height: 1.8em;
+	font-size: 17px;
+}
+
+.logoRead {
+	color: hsla(0,0%,32%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 12px;
+	line-height: 1.5em;
+	width: 100%;
+	padding: 10px;
+	background-color: hsla(0,0%,96%,1.00);
+}
+
+.messageRead {
+	color: hsla(0,0%,32%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 16px;
+	line-height: 1.7em;
+}
+
+.syamei {
+	color: hsla(0,0%,32%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 14px;
+	clear: both;
+	float: right;
+}
+
+.yakusyoku {
+	color: hsla(0,0%,59%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 14px;
+}
+
+.name {
+	color: hsla(0,0%,32%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 25px;
+}
+
+@media (max-width:375px){
+
+.smHide {
+	display: none;
+}
+
+.companyText {
+	font-size: 9px;
+}
+
+.accessText {
+	color: hsla(0,0%,47%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 10px;
+}
+
+.accessMidashi {
+	color: hsla(0,0%,32%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.messageIntro {
+	color: hsla(0,0%,32%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-weight: normal;
+	line-height: 1.8em;
+	font-size: 14px;
+}
+
+.messageRead {
+	color: hsla(0,0%,32%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 14px;
+	line-height: 1.7em;
+}
+}
+
+@media (min-width:376px){
+
+.pcHide {
+	display: none;
+}
+
+.companyText {
+	font-size: 15px;
+}
+
+.accessMidashi {
+	color: hsla(0,0%,32%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+}
+
+.accessText {
+	color: hsla(0,0%,47%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 15px;
+}
+
+}
+
+.ggmap {
+position: relative;
+padding-bottom: 56.25%;
+padding-top: 30px;
+height: 0;
+overflow: hidden;
+}
+ 
+.ggmap iframe,
+.ggmap object,
+.ggmap embed {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+
+td, th {
+	padding: 5px 30px;
+}
+
+.nameWrap {
+	float: right;
+	clear: both;
+	margin-top: 5px;
+}

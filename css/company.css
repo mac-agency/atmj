@@ -1,0 +1,102 @@
+@charset "UTF-8";
+
+.titleText {
+	color: hsla(0,0%,0%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-weight: bold;
+	font-size: 31px;
+	line-height: 2em;
+	text-align: center;
+}
+.trPadding {
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+.accessMidashi {
+	color: hsla(0,0%,32%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.accessText {
+	color: hsla(0,0%,47%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 14px;
+}
+
+.companyText {
+	font-size: 11px;
+}
+
+@media (max-width:375px){
+
+.smHide {
+	display: none;
+}
+
+.companyText {
+	font-size: 9px;
+}
+
+.accessText {
+	color: hsla(0,0%,47%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 10px;
+}
+
+.accessMidashi {
+	color: hsla(0,0%,32%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+}
+
+@media (min-width:376px){
+
+.pcHide {
+	display: none;
+}
+
+.companyText {
+	font-size: 15px;
+}
+
+.accessMidashi {
+	color: hsla(0,0%,32%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+}
+
+.accessText {
+	color: hsla(0,0%,47%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 15px;
+}
+
+}
+
+.ggmap {
+position: relative;
+padding-bottom: 56.25%;
+padding-top: 30px;
+height: 0;
+overflow: hidden;
+}
+ 
+.ggmap iframe,
+.ggmap object,
+.ggmap embed {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+
+td, th {
+	padding: 5px 30px;
+}

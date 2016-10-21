@@ -165,7 +165,7 @@
 	font-size: 15px;
 	margin-top: 5px;
 	float: right;
-	width: 200px;
+	width: 190px;
 }
 
 .denwaNo {
@@ -750,8 +750,8 @@ body > div > footer > div > div > div:nth-child(3) > h4 {
 
 .contactBn {
 	height: 75px;
-	width: 530px;
-	float: left;
+	width: 575px;
+	float: right;
 	padding-top: 13px;
 	padding-bottom: 7px;
 	padding-left: 30px;
