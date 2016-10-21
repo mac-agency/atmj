@@ -32,11 +32,11 @@
 }
 
 .messageIntro {
-	color: hsla(0,0%,32%,1.00);
+	color: hsla(0,0%,26%,1.00);
 	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
 	font-weight: normal;
 	line-height: 1.8em;
-	font-size: 17px;
+	font-size: 18px;
 }
 
 .logoRead {
@@ -52,8 +52,12 @@
 .messageRead {
 	color: hsla(0,0%,32%,1.00);
 	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
-	font-size: 16px;
+	font-size: 15px;
 	line-height: 1.7em;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: hsla(0,0%,95%,1.00);
+	padding: 20px;
 }
 
 .syamei {
