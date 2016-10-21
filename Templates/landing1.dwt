@@ -81,16 +81,18 @@
 				<div class="col-md-12">
 				<!-- TemplateBeginEditable name="h1area" -->
 					<div class="top-bar-content">
-						<h1 class="topH1">ファクタリングは売掛金買取で融資ではない即日資金調達方法</h1>
+						<h1 class="topH1">ファクタリングは売掛金買取で融資ではない資金調達方法</h1>
 					</div>
 				<!-- TemplateEndEditable -->
-				<div class="contactBn"><a href="http://shikin-pro.com/office/6535" target="_blank"><img src="http://shikin-pro.com/banners/14.jpg" alt="資金調達プロ"></a></div>
+				
 				
 				<div class="tel-fax"> 
 					<p class="otoiawase">お問合せ・お申込みはこちら</p>
 				<p class="denwaNo">TEL. 0120-818-988</p>
 				<p class="faxNo">FAX. 03-5643-5262</p>
 			</div>
+			<div class="contactBn"><a href="http://shikin-pro.com/office/6535" target="_blank"><img src="http://shikin-pro.com/banners/11.jpg" class="pull-right" alt="資金調達プロ"></a></div>
+			
 <!--<div class="topTelwrap">
 	<p class="topTelno">0120-818-988</p>
 						<div class="topTelicon retina"><img src="../images/pc_tel.png" width="30" height="30" alt=""/></div>
@@ -407,7 +409,7 @@
 							<div class="col-lg-12 space10"><img src="../images/choice1.png" class="img-responsive retina" alt="1.資金繰り改善率93％以上　ファクタリングによるつなぎ資金での資金繰り改善はもちろん、借入ではないので銀行融資にも支障をきたしません。"></div>
 							<div class="col-lg-12 space10"><img src="../images/choice2.png" class="img-responsive retina" alt="2.全国対応　日本全国、どちらの地域でも対応しております。可能な限り、多くの方をサポートさせて頂きたいと考えておりますので、遠方の企業様もぜひ、お申し込み下さい。"></div>
 							<div class="col-lg-12 space10"><img src="../images/choice3.png" class="img-responsive retina" alt="3.少額の買い取りから最大5,000万円まで買取可能　大口でまとまった資金調達が可能。100万円から最大5,000万円まで買い取りが可能です。"></div>
-							<div class="col-lg-12 space10"><img src="../images/choice4.png" class="img-responsive retina" alt="4.即日審査、即日実行であなたの資金ショートからお守りします　ファクタリングは金融機関とは審査方法が全く違うので、売掛先さえあれば即日資金化することが可能となります。"></div>
+							<div class="col-lg-12 space10"><img src="../images/choice4.png" class="img-responsive retina" alt="4.即日審査、実行であなたの資金ショートからお守りします　ファクタリングは金融機関とは審査方法が全く違うので、売掛先さえあれば即日資金化することが可能となります。"></div>
 						</div>
 						<!--<div class="panel-group" id="accordion">
 						<div class="panel panel-default">
@@ -457,7 +459,7 @@
 							<div class="panel-heading">
 								<h4 class="panel-title">
 									<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFour1">
-									4.即日審査、即日実行であなたの資金ショートからお守り致します。
+									4.即日審査、実行であなたの資金ショートからお守り致します。
 									<span class="fa fa-plus"></span>
 									</a>
 								</h4>
