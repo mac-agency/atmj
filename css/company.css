@@ -30,6 +30,11 @@
 	font-size: 11px;
 }
 
+.clearBoth {
+	float: left;
+	clear: both;
+}
+
 @media (max-width:375px){
 
 .smHide {
