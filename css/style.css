@@ -115,14 +115,15 @@ ul, li {
 }
 
 #header-main {
-    padding: 0px;
-    position: relative;
-    background-color: #FFF;
-    top: 0px;
-    left: 0px;
-    right: 0px;
-    font-family: raleway;
-    z-index: 99999;
+	padding: 0px;
+	position: relative;
+	background-color: #FFF;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	font-family: raleway;
+	z-index: 99999;
+	margin-bottom: 0px;
 }
 
 #header-main .navbar-default {
@@ -131,12 +132,15 @@ ul, li {
 }
 
 #header-main .navbar-brand {
-	padding: 12px 0 0;
+	/* [disabled]padding-top: 12px; */
+	padding-right: 0;
+	padding-left: 0;
+	padding-bottom: 0;
 }
 
 
 #header-main .navbar-brand img {
-	/* [disabled]width: 123px; */
+	/* [disabled]width: 100px; */
 	/* [disabled]height: 24px; */
 }
 
@@ -216,7 +220,7 @@ ul, li {
 }
 
 #header-main .yamm img {
-	margin-bottom: 10px;
+	/* [disabled]margin-bottom: 10px; */
 }
 
 #header-main .dropdown-menu,
@@ -6184,7 +6188,7 @@ font-size: 11px;
 }
 
 .navbar-toggle {
-	margin-top: 17px;
+	/* [disabled]margin-top: 17px; */
 	margin-right: 0;
 }
 
@@ -6348,6 +6352,11 @@ aside {
 .f-social {
     float: none !important;
     margin: 0px auto;
+}
+
+#header-main .navbar-brand img {
+	width: 100px;
+	/* [disabled]height: 24px; */
 }
 
 }

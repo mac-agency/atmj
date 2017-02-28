@@ -268,6 +268,14 @@
 	box-shadow: 2px 2px 3px 1px hsla(0,0%,57%,1.00);
 }
 
+.bg-white {
+	background-color: hsla(0,0%,100%,1.00);
+}
+
+.logo_cyousei {
+	margin-top: 10px;
+}
+
 
 
 @media (max-width:320px){
@@ -631,12 +639,12 @@
 	height: 34px;
 	width: 34px;
 	float: right;
-	margin-top: 14px;
+	margin-top: 5px;
 	margin-right: 10px;
 }
 
 #header-main .navbar {
-	margin-bottom: 7px;
+	/* [disabled]margin-bottom: 7px; */
 }
 
 @media (min-width:471px){
@@ -754,6 +762,18 @@ body > div > footer > div > div > div:nth-child(3) > h4 {
 .footerLeft {
 	margin-left: 10px;
 }
+
+.nav_height_cyousei {
+	height: 50px;
+}
+
+.smTelwrap {
+	height: 34px;
+	width: 34px;
+	float: right;
+	margin-top: 5px;
+	margin-right: 10px;
+}
 }
 
 
@@ -803,4 +823,11 @@ body > div > footer > div > div > div:nth-child(3) > h4 {
 	padding-top: 13px;
 	padding-bottom: 7px;
 	padding-left: 30px;
+}
+
+@media (min-width:768px){
+
+#header-main .yamm img {
+	margin-top: -16px;
+}
 }
