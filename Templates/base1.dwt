@@ -105,10 +105,10 @@
 	</div>
 
 	<!-- HEADER -->
-	<header id="header-main">
+	<header id="header-main" class="nav_height_cyousei">
 		<div class="container">
 			<div class="navbar yamm navbar-default">
-				<div class="navbar-header">
+				<div class="navbar-header nav_height_cyousei">
 					
 				
 					<button type="button" data-toggle="collapse" data-target="#navbar-collapse-1" class="navbar-toggle">
@@ -221,7 +221,7 @@
 
 	<!-- TOP --><!-- TemplateBeginEditable name="content1" -->
 	<section id="top">
-		<div class="container spaceTop10">
+		<div class="container spaceTop10 bg-white">
 			<div class="row">
 				<div class="col-lg-12"> <img src="../images/kaitorimasu.png" class="img-responsive retina" alt="Placeholder image"></div>
 			</div>
