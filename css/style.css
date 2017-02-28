@@ -127,7 +127,7 @@ ul, li {
 }
 
 #header-main .navbar-default {
-	background-color: transparent;
+	/* [disabled]background-color: transparent; */
 	border: none;
 }
 
@@ -6184,7 +6184,7 @@ font-size: 11px;
     position: relative;
 }
 .navbar-brand {
-    margin-top: 14px;
+	margin-top: -4px;
 }
 
 .navbar-toggle {

@@ -276,6 +276,9 @@
 	margin-top: 10px;
 }
 
+.sm_navimage {
+}
+
 
 
 @media (max-width:320px){
@@ -377,7 +380,11 @@
 }
 
 #header-main .yamm img {
-	margin-top: 3px;
+	margin-top: 1px;
+}
+
+.logoBicyousei {
+	margin-top: 5px;
 }
 
 .navbar-header a .img-responsive.retina.topMargin10 {
@@ -511,6 +518,22 @@
 	margin-bottom: 5px;
 }
 
+.sm_navimage {
+	margin-top: 2px;
+}
+
+.telMargin {
+	float: right;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-left: 0px;
+}
+
+.xl_tel_cyousei {
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
 
 
 }
@@ -525,7 +548,7 @@
 .navbar-brand {
 	width: 135px;
 	padding-top: 5px;
-	margin-top: 0px;
+	margin-top: 5px;
 	height: auto;
 }
 
@@ -687,7 +710,7 @@
 	z-index: 1;
 }
 #page-top a {
-	background-color: hsla(0, 100%, 50%, 0.8);
+	background-color: hsla(0,100%,50%,0.45);
 	text-decoration: none;
 	color: #fff;
 	width: 55px;
@@ -771,8 +794,20 @@ body > div > footer > div > div > div:nth-child(3) > h4 {
 	height: 34px;
 	width: 34px;
 	float: right;
-	margin-top: 5px;
+	margin-top: 7px;
 	margin-right: 10px;
+	display: block;
+}
+
+.telNumber {
+	float: right;
+	width: 87px;
+	line-height: 45px;
+	font-size: 10px;
+	margin-left: 0px;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	margin-bottom: 0px;
+	margin-top: 2px;
 }
 }
 
@@ -829,5 +864,25 @@ body > div > footer > div > div > div:nth-child(3) > h4 {
 
 #header-main .yamm img {
 	margin-top: -16px;
+}
+}
+
+@media (max-width:376px) and (min-width:767px){
+
+.telMargin {
+	float: right;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 5px;
+}
+
+.telNumber {
+	float: right;
+	width: 87px;
+	line-height: 45px;
+	font-size: 10px;
+	margin-left: 0px;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	margin-top: 0px;
 }
 }
