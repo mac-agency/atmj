@@ -262,10 +262,7 @@
 }
 
 .manga_hr {
-	border-bottom: 8px double hsla(216,100%,66%,1.00);
-	height: 2px;
-	-webkit-box-shadow: 2px 2px 3px 1px hsla(0,0%,57%,1.00);
-	box-shadow: 2px 2px 3px 1px hsla(0,0%,57%,1.00);
+	border-bottom: 3px solid hsla(216,100%,66%,1.00);
 }
 
 .bg-white {
