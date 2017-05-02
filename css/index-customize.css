@@ -276,6 +276,18 @@
 .sm_navimage {
 }
 
+.paddingReset {
+	padding: 0px;
+}
+
+.width30 {
+	width: 30%;
+}
+
+.thankyouText {
+	font-size: 19px;
+}
+
 
 
 @media (max-width:320px){
