@@ -1,0 +1,3470 @@
+@charset "UTF-8";
+
+.top_margin5 {
+	margin-top: 5px;
+}
+.top_margin10 {
+	margin-top: 10px;
+}
+.top_margin20 {
+	margin-top: 20px;
+}
+.top_margin30 {
+	margin-top: 30px;
+}
+.top_margin40 {
+	margin-top: 40px;
+}
+.top_margin50 {
+	margin-top: 40px;
+}
+
+.bottom_margin5 {
+	margin-bottom: 5px;
+}
+.bottom_margin10 {
+	margin-bottom: 10px;
+}
+.bottom_margin20 {
+	margin-bottom: 20px;
+}
+.bottom_margin30 {
+	margin-bottom: 30px;
+}
+.bottom_margin40 {
+	margin-bottom: 40px;
+}
+.bottom_margin50 {
+	margin-bottom: 50px;
+}
+
+.top_padding5 {
+	padding-top: 5px;
+}
+.top_padding10 {
+	padding-top: 10px;
+}
+.top_padding20 {
+	padding-top: 20px;
+}
+.top_padding30 {
+	padding-top: 30px;
+}
+.top_padding40 {
+	padding-top: 40px;
+}
+.top_padding50 {
+	padding-top: 40px;
+}
+
+.wf-sawarabimincho { font-family: "Sawarabi Mincho"; }
+
+.japanese {
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+}
+
+.text-white {
+	color: #FFFFFF;
+}
+
+.sectionSpace {
+	/* [disabled]margin-top: 30px; */
+	margin-bottom: 30px;
+}
+.topH1   {
+	color: #525252;
+	font-size: 18px;
+	margin-top: 10px;
+	line-height: 57px;
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-weight: bold;
+}
+.topTelwrap   {
+	color: #525252;
+	font-size: 15px;
+	margin-top: 5px;
+	float: right;
+	width: 300px;
+}
+
+.yuitu {
+	color: #FFFFFF;
+	font-size: 51px;
+	padding: 10px;
+	font-weight: bold;
+}
+
+.backG-red {
+	background-color: #FF0000;
+}
+
+.bigTitle {
+	font-size: 30px;
+}
+
+.oomidashi {
+	font-weight: bolder;
+	font-size: 31px;
+}
+.midashiTop {
+	margin-top: 20px;
+}
+
+.topTelno {
+	font-size: 26px;
+	line-height: 30px;
+	float: right;
+}
+
+.smTelwrap {
+	display: none;
+}
+
+#flow > div > div:nth-child(3){
+	display: none;
+}
+
+.footerLink.text-white ul li {
+	/* [disabled]line-height: 1.8em; */
+}
+.topMargin50 {
+	margin-top: 50px;
+}
+
+.midashiTexteffect {
+	text-shadow: 3px 3px 5px #969696;
+	color: #3A3A3A;
+	line-height: 1.3em;
+}
+
+.readTextcolor {
+	color: #525252;
+}
+
+.toHometext {
+	font-size: 31px;
+	color: #FFFFFF;
+}
+
+.kugiriHr {
+	border-top: 3px dotted #969696;
+}
+
+.inyouLine {
+	font-weight: bolder;
+	color: #FF0000;
+}
+
+.spaceTop10 {
+	margin-top: 10px;
+}
+.leadXs {
+	font-size: 10px;
+}
+
+.marginBottomzero {
+	margin-bottom: 0px;
+}
+
+#qa .container #accordion-alt1 {
+	margin-bottom: 0px;
+}
+
+.bottomP {
+	margin-bottom: 3px;
+}
+
+.top5 {
+	margin-top: 5px;
+}
+
+.marginReset {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.voiceKomidashi {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 19px;
+	color: #FFFFFF;
+	text-shadow: 1px 1px 1px #000000;
+}
+
+.tableText {
+	color: #FFFFFF;
+	text-shadow: 1px 1px 0px #000000;
+}
+
+.cyoutatuText {
+	color: #FFFFFF;
+	line-height: 1.4em;
+	text-shadow: 1px 1px #000000;
+}
+.textYellow   {
+	color: #FFFB00;
+}
+
+.voiceMidashi {
+	font-size: 28px;
+}
+
+.bgWhite {
+	background-color: #FFFFFF;
+	color: #000000;
+	text-shadow: 0px 0px;
+	width: 25%;
+}
+
+.topMargin10 {
+	margin-top: 10px;
+}
+
+.tel-fax {
+	color: #525252;
+	font-size: 15px;
+	margin-top: 5px;
+	float: right;
+	width: 410px;
+}
+
+.denwaNo {
+	font-size: 16px;
+	margin-bottom: 0px;
+	float: right;
+	clear: both;
+}
+
+.faxNo {
+	font-size: 16px;
+	margin-bottom: 3px;
+	float: right;
+	clear: both;
+}
+
+.otoiawase {
+	font-size: 12px;
+	margin-bottom: 0px;
+	float: right;
+	clear: both;
+}
+
+.marginNashi {
+	margin-right: 1px;
+}
+
+.tableWide {
+	width: 100%;
+}
+
+.readBorder {
+	border: 2px solid #969696;
+	border-radius: 10px;
+	padding: 10px;
+}
+
+.cyoutatuhouRead {
+	width: 100%;
+	color: #787878;
+	font-size: 16px;
+	line-height: 1.4em;
+	padding-top: 5px;
+	text-align: left;
+	padding-bottom: 5px;
+}
+
+.daijyoubu_text {
+	font-size: 18px;
+	line-height: 1.4em;
+}
+
+.riyuu_back {
+	background-color: #F2F2F2;
+	border: 13px solid #FE9635;
+	border-radius: 21px;
+	-webkit-box-shadow: 2px 2px 2px 2px #969696;
+	box-shadow: 2px 2px 2px 2px #969696;
+}
+
+.riyuu_midashi {
+	font-size: 32px;
+	font-weight: bold;
+	color: #FF0000;
+}
+
+.riyuu_read {
+	color: #000000;
+	font-size: 25px;
+	line-height: 1.4em;
+	font-weight: bold;
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+}
+
+.bottom10 {
+	margin-bottom: 10px;
+}
+
+.bottom20 {
+	margin-bottom: 20px;
+}
+
+.bottom30 {
+	margin-bottom: 30px;
+}
+
+.infoRead {
+	font-size: 16px;
+}
+
+.bottom40 {
+	margin-bottom: 40px;
+}
+
+.manga_hr {
+	border-bottom: 3px solid hsla(216,100%,66%,1.00);
+}
+
+.bg-white {
+	background-color: hsla(0,0%,100%,1.00);
+}
+
+.logo_cyousei {
+	margin-top: 10px;
+}
+
+.sm_navimage {
+}
+
+.paddingReset {
+	padding: 0px;
+}
+
+.width30 {
+	width: 30%;
+	max-width: 33%;
+}
+
+.thankyouText {
+	font-size: 19px;
+	color: hsla(0,0%,25%,1.00);
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	line-height: 1.5em;
+}
+
+.menuText {
+	font-size: 9px;
+	line-height: 1.4em;
+}
+
+.indexThwidth {
+	width: 15%;
+}
+
+.panFont {
+	font-size: 14px;
+}
+
+.side_menuText {
+	font-size: 18px;
+	color: rgba(255,255,255,1.00);
+	font-weight: normal;
+	line-height: 33px;
+}
+.side_menuText:hover {
+	font-size: 18px;
+	color: rgba(103,116,255,1.00);
+}
+.side_menuText:link {
+	font-size: 15px;
+	color: rgba(255,255,255,1.00);
+}
+.side_menuText:visited {
+	/* [disabled]font-size: 18px; */
+	color: rgba(255,255,255,1.00);
+}
+
+.btn.btn-default.btn-block.side_menuText.bg-menu:hover {
+	color: rgba(97,160,255,1.00);
+}
+
+.bg-menu {
+  background : -moz-linear-gradient(50% 0% -90deg,rgba(0, 151, 224, 1) 0%,rgba(23, 28, 97, 1) 100%);
+  background : -webkit-linear-gradient(-90deg, rgba(0, 151, 224, 1) 0%, rgba(23, 28, 97, 1) 100%);
+  background : -webkit-gradient(linear,50% 0% ,50% 100% ,color-stop(0,rgba(0, 151, 224, 1) ),color-stop(1,rgba(23, 28, 97, 1) ));
+  background : -o-linear-gradient(-90deg, rgba(0, 151, 224, 1) 0%, rgba(23, 28, 97, 1) 100%);
+  background : -ms-linear-gradient(-90deg, rgba(0, 151, 224, 1) 0%, rgba(23, 28, 97, 1) 100%);
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#0097E0', endColorstr='#171C61' ,GradientType=0)";
+  background : linear-gradient(180deg, rgba(0, 151, 224, 1) 0%, rgba(23, 28, 97, 1) 100%);
+  opacity : 0.85;
+  filter: alpha(opacity=85) 
+}
+
+.contentLeftpadding {
+	padding-left: 20px;
+}
+
+.contentPadding {
+	padding: 10px 10px 5px;
+}
+
+.contentMargin {
+	margin-left: 10px;
+}
+
+
+.logotopSecond {
+	margin-top: 11px;
+}
+
+.toplogoWrap {
+	/* [disabled]padding-top: 15px; */
+	padding-right: 15px;
+	/* [disabled]padding-left: 15px; */
+	padding-bottom: 5px;
+	float: left;
+	font-size: 18px;
+	line-height: 20px;
+}
+
+.bnPadding {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.newsTitle {
+	color: rgba(91,91,91,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-weight: bold;
+	font-size: 27px;
+	line-height: 1.5em;
+}
+
+.bg-gray {
+	background-color: rgba(244,244,244,1.00);
+	border: 2px solid hsla(0,0%,25%,1.00);
+}
+
+.titleHead {
+	text-align: center;
+	font-size: 17px;
+	color: #FFFFFF;
+	line-height: 1.5em;
+}
+
+.bg-orenge {
+	background-color: #F15A24;
+	/* [disabled]border-radius: 10px; */
+}
+
+.title-h2 {
+	color: #FFFFFF;
+	text-align: center;
+	font-weight: bold;
+	font-size: 43px;
+	line-height: 1.5em;
+}
+.urikake_title-h2 {
+	color: #FFFFFF;
+	text-align: center;
+	font-weight: bold;
+	font-size: 43px;
+	line-height: 1.5em;
+}
+
+.factoringBt {
+	background : -moz-linear-gradient(50% 0% -90deg,rgba(242, 242, 242, 1) 0%,rgba(204, 204, 204, 1) 100%);
+	background : -webkit-linear-gradient(-90deg, rgba(242, 242, 242, 1) 0%, rgba(204, 204, 204, 1) 100%);
+	background : -webkit-gradient(linear,50% 0% ,50% 100% ,color-stop(0,rgba(242, 242, 242, 1) ),color-stop(1,rgba(204, 204, 204, 1) ));
+	background : -o-linear-gradient(-90deg, rgba(242, 242, 242, 1) 0%, rgba(204, 204, 204, 1) 100%);
+	background : -ms-linear-gradient(-90deg, rgba(242, 242, 242, 1) 0%, rgba(204, 204, 204, 1) 100%);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#F2F2F2', endColorstr='#CCCCCC' ,GradientType=0)";
+	background : linear-gradient(180deg, rgba(242, 242, 242, 1) 0%, rgba(204, 204, 204, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#F2F2F2',endColorstr='#CCCCCC' , GradientType=0);
+	padding-left: 10px;
+}
+
+.factoring_bttext {
+	color: #5B5B5B;
+	text-align: left;
+	font-size: 20px;
+	line-height: 3em;
+	font-weight: bold;
+}
+
+.side-margin {
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.bg-green {
+	background-color: #55AE47;
+	/* [disabled]border-radius: 10px; */
+}
+
+.bnText1 {
+	color: #FFFFFF;
+	font-size: 28px;
+	line-height: 2.5em;
+	text-align: center;
+	font-weight: bold;
+}
+
+.fuan_omoi {
+	color: #5B5B5B;
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	font-size: 22px;
+	line-height: 1.5em;
+}
+
+ul .fuan_omoi {
+	margin-top: 10px;
+	padding-left: 15px;
+}
+
+.bg-blue {
+	background-color: #0066FF;
+	/* [disabled]border-radius: 10px; */
+}
+
+.genkinkaText {
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-size: 21px;
+	line-height: 1.5em;
+	text-align: center;
+}
+
+.genkinkaCatch {
+	text-align: center;
+	color: #FF0004;
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	font-size: 28px;
+	line-height: 1.5em;
+}
+
+.downloadText {
+	color: #FFFFFF;
+	font-size: 56px;
+	line-height: 1.5em;
+}
+
+.downloadText:hover {
+	color: #B3B3B3;
+}
+
+.footer_about {
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-size: 15px;
+	padding-right: 10px;
+}
+
+.allPadding10 {
+	padding: 10px;
+}
+
+.row-center{
+text-align:center;
+letter-spacing:-0.4em;
+}
+.row-center > [class*='col-'] {
+display:inline-block;
+letter-spacing:0;
+vertical-align:top;
+float:none !important;
+}
+
+.row-center.va-middle > [class*='col-'] {
+vertical-align:middle;
+}
+.row-center.va-bottom > [class*='col-'] {
+vertical-align:bottom;
+}
+
+.sayuuPadding5 {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.sayuuPadding10 {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.allPadding5 {
+	padding: 5px;
+}
+
+.policyInyou {
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 24px;
+	border-left: 4px solid rgba(255,0,4,1.00);
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-left: 5px;
+}
+
+.recruitYohaku {
+	width: 100px;
+}
+
+.recruitRead {
+	color: rgba(91,91,91,1.00);
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 17px;
+	font-weight: bold;
+	margin-top: 10px;
+	margin-bottom: 200px;
+}
+
+.bg-sitemapBt {
+    background : -moz-linear-gradient(50% 0% -90deg,rgba(102, 188, 129, 1) 0%,rgba(0, 153, 68, 1) 50%,rgba(0, 138, 67, 1) 100%);
+  background : -webkit-linear-gradient(-90deg, rgba(102, 188, 129, 1) 0%, rgba(0, 153, 68, 1) 50%, rgba(0, 138, 67, 1) 100%);
+  background : -webkit-gradient(linear,50% 0% ,50% 100% ,color-stop(0,rgba(102, 188, 129, 1) ),color-stop(0.5,rgba(0, 153, 68, 1) ),color-stop(1,rgba(0, 138, 67, 1) ));
+  background : -o-linear-gradient(-90deg, rgba(102, 188, 129, 1) 0%, rgba(0, 153, 68, 1) 50%, rgba(0, 138, 67, 1) 100%);
+  background : -ms-linear-gradient(-90deg, rgba(102, 188, 129, 1) 0%, rgba(0, 153, 68, 1) 50%, rgba(0, 138, 67, 1) 100%);
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#66BC81', endColorstr='#008A43' ,GradientType=0)";
+  background : linear-gradient(180deg, rgba(102, 188, 129, 1) 0%, rgba(0, 153, 68, 1) 50%, rgba(0, 138, 67, 1) 100%);
+  opacity : 0.85;
+}
+
+.siteMidashi1 {
+	margin-top: 10px;
+	color: rgba(91,91,91,1.00);
+	font-size: 16px;
+}
+
+.siteMidashi2 {
+	margin-top: 62px;
+	color: rgba(91,91,91,1.00);
+	font-size: 16px;
+}
+
+.newsTdwidth {
+	width: 15%;
+}
+
+.documentText {
+	color: hsla(0,0%,100%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: 100;
+	font-size: 22px;
+	line-height: 3em;
+	text-align: center;
+}
+.youiText {
+	color: hsla(0,0%,100%,1.00);
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-weight: 100;
+	font-size: 16px;
+	line-height: 3em;
+	text-align: center;
+}
+
+.flowMidashi {
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: 100;
+	font-size: 26px;
+	line-height: 2em;
+	text-align: center;
+}
+
+.youiTitle {
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: 200;
+	font-size: 37px;
+	line-height: 2em;
+	text-align: center;
+}
+
+.voiceProfile {
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: 200;
+	font-size: 15px;
+	color: hsla(0,0%,100%,1.00);
+	line-height: 2em;
+}
+
+.voiceTablewidth {
+	width: 25%;
+}
+
+.voiceTabletext {
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-size: 13px;
+}
+
+.cyoutatuGaku {
+	color: hsla(0,0%,100%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: 400;
+	font-size: 17px;
+}
+
+.voiceRead {
+	color: hsla(67,100%,50%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-size: 14px;
+	line-height: 1.5em;
+}
+
+.shihouPadding5 {
+	padding: 5px;
+}
+
+.shihouPadding10 {
+	padding: 10px;
+}
+
+.bg-voice {
+	background-image: url(../voice/images/bg1.jpg);
+	background-position: right 0%;
+}
+
+.textEffect {
+	text-shadow: 1px 1px 1px hsla(0,0%,0%,1.00);
+}
+
+.thankyouLinktext {
+	line-height: 2em;
+	font-size: 19px;
+}
+
+.managementTitle {
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-size: 29px;
+	line-height: 1.7em;
+	text-align: center;
+}
+
+.managementRead {
+	color: hsla(0,0%,30%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-size: 14px;
+	line-height: 1.5em;
+	text-align: left;
+}
+
+.managementMidashi {
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 21px;
+}
+
+.managementBtntext {
+	color: hsla(0,0%,100%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-size: 17px;
+	line-height: 2em;
+	text-align: center;
+}
+
+.radius5 {
+	border-radius: 5px;
+}
+
+.topMargin5 {
+	margin-top: 5px;
+}
+
+.managementInyou {
+	font-size: 21px;
+	border-left: 5px solid #FF0000;
+	margin-right: 5px;
+}
+
+.mincyouText {
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	color: hsla(0,0%,25%,1.00);
+}
+
+.carousel-fade .carousel-inner .item {
+  opacity: 0;
+  -webkit-transition-property: opacity;
+  -moz-transition-property: opacity;
+  -o-transition-property: opacity;
+  transition-property: opacity;
+}
+.carousel-fade .carousel-inner .active {
+	opacity: 1;
+}
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+  left: 0;
+  opacity: 0;
+  z-index: 1;
+}
+.carousel-fade .carousel-inner .next.left,
+.carousel-fade .carousel-inner .prev.right {
+  opacity: 1;
+}
+.carousel-fade .carousel-control {
+  z-index: 2;
+}
+
+.topRead {
+	font-size: 17px;
+	font-weight: bold;
+}
+
+.urikakeText {
+	font-size: 15px;
+	color: hsla(0,0%,25%,1.00);
+}
+
+.inyouBlue {
+	font-size: 35px;
+	border-left: 5px solid #0071BC;
+	margin-right: 5px;
+}
+.downloadText2 {
+	color: #FFFFFF;
+	font-size: 27px;
+	line-height: 1.5em;
+}
+
+.sectionBottom {
+	margin-bottom: 50px;
+}
+
+.kasen1 {
+	border-bottom: 1px solid hsla(0,0%,70%,1.00);
+}
+
+.youiKomidasi {
+	color: hsla(0,0%,35%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 12px;
+	line-height: 2em;
+	text-align: center;
+}
+
+.hrFutosa1 {
+	border-top-width: 2px;
+	border-top-color: hsla(0,0%,85%,1.00);
+	-webkit-box-shadow: 1px 1px 1px hsla(0,0%,35%,1.00);
+	box-shadow: 1px 1px 1px hsla(0,0%,35%,1.00);
+}
+
+.text-red {
+	color: hsla(359,100%,50%,1.00);
+}
+
+.youiMidashi {
+	font-size: 35px;
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	text-align: center;
+}
+
+.bg-green-grad {
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0.00, #0cdb00), color-stop(1.00, #169900));
+background: -webkit-linear-gradient(#0cdb00, #169900);
+background: -moz-linear-gradient(#0cdb00, #169900);
+background: -o-linear-gradient(#0cdb00, #169900);
+background: -ms-linear-gradient(#0cdb00, #169900);
+background: linear-gradient(#0cdb00, #169900);
+}
+
+.slideText1 {
+	font-size: 38px;
+	color: hsla(0,0%,35%,1.00);
+}
+
+.slidetextPadding {
+	padding-bottom: 30px;
+}
+
+.syazeRead {
+	color: hsla(0,0%,10%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-size: 15px;
+	line-height: 1.5em;
+}
+
+.syazeHonbun {
+	color: hsla(0,0%,0%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	font-size: 28px;
+	line-height: 1.2em;
+}
+
+.syazeHokori {
+	color: hsla(0,0%,0%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bolder;
+	font-size: 52px;
+	line-height: 2em;
+}
+
+.syazeTitle {
+	color: hsla(0,0%,0%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	font-size: 39px;
+	line-height: 2em;
+	text-align: center;
+}
+
+.mainNewspadding {
+	/* [disabled]padding-right: 15px; */
+}
+
+.newsUnder {
+	border-bottom: 2px solid #0071BC;
+}
+
+.newsBg {
+	background-color: hsla(218,53%,91%,1.00);
+}
+
+.newsDate {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: hsla(0,0%,100%,1.00);
+	font-family: "Sawarabi Mincho";
+	font-size: 16px;
+	text-align: center;
+	background-color: hsla(204,100%,37%,1.00);
+	margin-left: 10px;
+	line-height: 3em;
+	padding: 5px 10px;
+}
+.newsDate1 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: hsla(0,0%,100%,1.00);
+	font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN W3", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 16px;
+	text-align: center;
+	background-color: hsla(204,100%,37%,1.00);
+	margin-left: 10px;
+	line-height: 3em;
+	padding: 5px 10px;
+}
+.newsDate2 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: hsla(0,0%,100%,1.00);
+	font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN W3", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 16px;
+	text-align: center;
+	background-color: hsla(204,100%,37%,1.00);
+	margin-left: 10px;
+	line-height: 3em;
+	padding: 5px 10px;
+}
+.newsDate3 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: hsla(0,0%,100%,1.00);
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 16px;
+	text-align: center;
+	background-color: #0071BC;
+	margin-left: 10px;
+	line-height: 3em;
+	padding: 5px 10px;
+}
+
+.newsContent {
+	padding-left: 15px;
+	font-family: "ヒラギノ明朝 ProN W6", HiraMinProN-W6, "HG明朝E", "ＭＳ Ｐ明朝", "MS PMincho", "MS 明朝", serif;
+	font-weight: bold;
+	font-size: 17px;
+}
+.newsContent1 {
+	padding-left: 15px;
+	font-family: "Sawarabi Mincho";
+	/* [disabled]font-weight: bold; */
+	font-size: 14px;
+}
+.newsContent3 {
+	padding-left: 15px;
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	/* [disabled]font-weight: bold; */
+	font-size: 14px;
+}
+.newsContent2 {
+	padding-left: 15px;
+	font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN W3", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	/* [disabled]font-weight: bold; */
+	font-size: 14px;
+}
+
+.graOrange {
+background : -moz-linear-gradient(0% 50% 0deg,rgba(231, 56, 40, 1) 0%,rgba(235, 96, 43, 1) 42.52%,rgba(240, 147, 46, 1) 100%);
+  background : -webkit-linear-gradient(0deg, rgba(231, 56, 40, 1) 0%, rgba(235, 96, 43, 1) 42.52%, rgba(240, 147, 46, 1) 100%);
+  background : -webkit-gradient(linear,0% 50% ,100% 50% ,color-stop(0,rgba(231, 56, 40, 1) ),color-stop(0.4252,rgba(235, 96, 43, 1) ),color-stop(1,rgba(240, 147, 46, 1) ));
+  background : -o-linear-gradient(0deg, rgba(231, 56, 40, 1) 0%, rgba(235, 96, 43, 1) 42.52%, rgba(240, 147, 46, 1) 100%);
+  background : -ms-linear-gradient(0deg, rgba(231, 56, 40, 1) 0%, rgba(235, 96, 43, 1) 42.52%, rgba(240, 147, 46, 1) 100%);
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#E73828', endColorstr='#F0932E' ,GradientType=0)";
+  background : linear-gradient(90deg, rgba(231, 56, 40, 1) 0%, rgba(235, 96, 43, 1) 42.52%, rgba(240, 147, 46, 1) 100%);
+}
+
+.graBlue {
+background : -moz-linear-gradient(0% 50% 0deg,rgba(0, 159, 232, 1) 0%,rgba(23, 28, 97, 1) 100%);
+  background : -webkit-linear-gradient(0deg, rgba(0, 159, 232, 1) 0%, rgba(23, 28, 97, 1) 100%);
+  background : -webkit-gradient(linear,0% 50% ,100% 50% ,color-stop(0,rgba(0, 159, 232, 1) ),color-stop(1,rgba(23, 28, 97, 1) ));
+  background : -o-linear-gradient(0deg, rgba(0, 159, 232, 1) 0%, rgba(23, 28, 97, 1) 100%);
+  background : -ms-linear-gradient(0deg, rgba(0, 159, 232, 1) 0%, rgba(23, 28, 97, 1) 100%);
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#009FE8', endColorstr='#171C61' ,GradientType=0)";
+  background : linear-gradient(90deg, rgba(0, 159, 232, 1) 0%, rgba(23, 28, 97, 1) 100%);
+}
+
+.graGreen {
+ background : -moz-linear-gradient(0% 50% 0deg,rgba(0, 105, 52, 1) 0%,rgba(148, 184, 51, 1) 100%);
+  background : -webkit-linear-gradient(0deg, rgba(0, 105, 52, 1) 0%, rgba(148, 184, 51, 1) 100%);
+  background : -webkit-gradient(linear,0% 50% ,100% 50% ,color-stop(0,rgba(0, 105, 52, 1) ),color-stop(1,rgba(148, 184, 51, 1) ));
+  background : -o-linear-gradient(0deg, rgba(0, 105, 52, 1) 0%, rgba(148, 184, 51, 1) 100%);
+  background : -ms-linear-gradient(0deg, rgba(0, 105, 52, 1) 0%, rgba(148, 184, 51, 1) 100%);
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#006934', endColorstr='#94B833' ,GradientType=0)";
+  background : linear-gradient(90deg, rgba(0, 105, 52, 1) 0%, rgba(148, 184, 51, 1) 100%);
+}
+
+.subMenutitle {
+	text-align: center;
+	color: hsla(0,0%,100%,1.00);
+	font-size: 17px;
+	line-height: 1.8em;
+}
+
+.subMenutitle a {
+	color: hsla(0,0%,100%,1.00);
+}
+
+.fact_underbar {
+	border-bottom: 2px solid hsla(113,100%,28%,1.00);
+}
+
+.newToptitle {
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-weight: bold;
+	font-size: 16pt;
+	line-height: 1.5em;
+	color: hsla(0,0%,25%,1.00);
+}
+
+.factSubtitle {
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 1.4em;
+}
+
+.contentWaku {
+	border: 2px solid hsla(0,0%,35%,1.00);
+	border-radius: 10px;
+	padding: 10px;
+}
+
+.fact_topread {
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 13pt;
+	line-height: 1.5em;
+	/* [disabled]font-weight: bold; */
+}
+
+.menu_under {
+	border-bottom: 3px solid hsla(148,100%,30%,1.00);
+	width: 80%;
+	text-align: center;
+	height: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+}
+
+.ikuraText {
+	color: hsla(0,0%,100%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	font-size: 33px;
+	line-height: 1.6em;
+	text-align: center;
+}
+
+.menu_word {
+	width: 148px;
+	text-align: center;
+	color: #FFFFFF;
+	height: 28px;
+	margin-top: 0px;
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-weight: normal;
+}
+
+.right_b {
+	border-right: 3px groove #FFFFFF;
+	/* [disabled]font-size: medium; */
+}
+
+.marginNagare {
+	margin-bottom: -10px;
+}
+
+.omoushikomiWaku {
+	padding: 10px;
+	border: 2px solid hsla(204,100%,37%,1.00);
+	border-radius: 5px;
+}
+
+.syoruiWaku {
+	border: 2px solid hsla(204,100%,37%,1.00);
+}
+
+.moushikomiHouhou {
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 18px;
+	line-height: 2em;
+}
+
+.moushikomiTejyun {
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: 600;
+	font-size: 21px;
+	line-height: 1.5em;
+}
+
+.right_padding10 {
+	padding-left: 10px;
+}
+
+.youiIchiran {
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 18px;
+	line-height: 2em;
+}
+
+.newsIchiran {
+	font-size: 18px;
+	line-height: 35px;
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	color: #DB1D3D;
+}
+.newsIchiran a:visited {
+	font-size: 18px;
+	line-height: 35px;
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	color: #0009FF;
+}
+.newsIchiran a:link {
+	font-size: 18px;
+	line-height: 35px;
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	color: #0071BC;
+}
+.newsIchiran:hover {
+	font-size: 18px;
+	line-height: 35px;
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	color: #DB1D3D;
+}
+
+.rinenFont {
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 22pt;
+	line-height: 1.8em;
+	color: hsla(0,0%,0%,1.00);
+}
+
+.fac_menu {
+	font-size: 17px;
+}
+
+.strongTitle {
+	font-size: 16pt;
+}
+
+.strongRead {
+	font-size: 12pt;
+}
+
+.yuumou {
+	font-size: 36px;
+	line-height: 2em;
+	text-align: center;
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	color: hsla(0,0%,0%,1.00);
+	font-weight: bold;
+}
+
+.rinenFont2 {
+	color: hsla(0,0%,0%,1.00);
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 27px;
+	line-height: 1.8em;
+	padding-left: 45px;
+}
+
+.syakunText3 {
+	color: hsla(0,0%,0%,1.00);
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 27px;
+	line-height: 2em;
+	text-align: center;
+}
+
+.nav_margin_cyousei {
+	margin-bottom: 114px;
+}
+
+.b-right_non {
+	border-right-style: none;
+	border-right-width: 1px;
+}
+
+.left_p_cyousei {
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.max_width_cyousei {
+	max-width: 25%;
+}
+
+.left-right_p_cyousei {
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.about_fac_text1 {
+	font-size: 17px;
+	color: hsla(0,0%,25%,1.00);
+	font-weight: bold;
+	line-height: 1.5em;
+}
+
+.left_b_table {
+	border-left: 1px solid #ddd;
+}
+
+.table_right_text {
+	color: #5A5A5A;
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 15px;
+	line-height: 1.5em;
+	padding-left: 30px;
+}
+
+.footer_table_right_text {
+	color: #5A5A5A;
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 13px;
+	line-height: 1.4em;
+	padding-left: 15px;
+}
+
+.table_b_non {
+	border: 0px none #FFFFFF;
+}
+
+.footer_right_text {
+	font-size: 13px;
+}
+
+.footer_table_left_text {
+	font-size: 13px;
+	line-height: 1.2em;
+	text-align: left;
+}
+
+.footer_nov {
+	padding-left: 0px;
+	font-size: 13px;
+	line-height: 1em;
+}
+
+
+.item img {
+width:100%;}
+ 
+.fluid2 {
+padding:0;}
+
+a:hover img {
+    opacity: 0.8;
+  filter: alpha(opacity=80);
+  -moz-opacity: 0.8;
+  -webkit-transition: 0.3s ease-in-out;
+  -moz-transition: 0.3s ease-in-out;
+  -o-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+
+.sayuuMargin0 {
+	margin-left: 0px;
+}
+
+.line_heght2 {
+	line-height: 2em;
+}
+
+.formFont1 {
+	color: #5A5A5A;
+	font-size: 19px;
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+}
+
+.select_heght {
+	height: 25px;
+}
+
+.shindanTitle {
+	font-size: 18px;
+	text-align: center;
+}
+
+.mainFormtext {
+	font-size: 18px;
+	text-align: center;
+}
+
+.access_underbar {
+	border-bottom: 1px solid #5A5A5A;
+	padding-bottom: 3px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+
+
+
+@media (max-width:375px) and (min-width:374px){
+
+
+
+}
+
+
+@media (max-width:375px){
+
+.table_right_text {
+	color: #5A5A5A;
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 15px;
+	line-height: 1.5em;
+	padding-left: 30px;
+}
+
+.table_right_text {
+	color: #5A5A5A;
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 13px;
+	line-height: 1.5em;
+	padding-left: 5px;
+}
+.right_padding20 {
+	padding-left: 20px;
+}
+.right_padding30 {
+	padding-left: 30px;
+}
+
+.yuitu {
+	color: #FFFFFF;
+	font-size: 16px;
+	padding: 10px;
+	font-weight: bold;
+}
+
+.welcome-content h2 {
+	font-size: 25px;
+	font-weight: 500;
+}
+
+#flow > div > div:nth-child(2){
+	display: none;
+}
+
+#flow > div > div:nth-child(3){
+	display: block;
+}
+
+.smTelwrap {
+	display: block;
+}
+
+#header-main .yamm img {
+	margin-top: 1px;
+}
+
+.logoBicyousei {
+	margin-top: 5px;
+}
+
+.navbar-header a .img-responsive.retina.topMargin10 {
+	margin-top: 10px;
+}
+
+.info-home h3 em {
+	color: #006bb7;
+	font-size: 37px;
+	line-height: 2em;
+}
+
+.factoring {
+	color: #0077B6;
+	font-size: 37px;
+	line-height: 1.5em;
+	text-align: center;
+	font-weight: bold;
+}
+
+.genkin {
+	font-size: 32px;
+	line-height: 1.5em;
+	color: #FF0000;
+	text-align: center;
+	font-weight: bold;
+}
+
+.kariire {
+	color: #000000;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+}
+
+.paddingSide {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.meritText {
+	font-size: 24px;
+}
+
+.factoringText {
+	font-size: 24px;
+}
+
+.flowText {
+	font-size: 23px;
+}
+
+.criteriaText {
+	font-size: 23px;
+}
+
+.kaisetuWrap {
+	padding: 15px;
+	background-color: #E1E1E1;
+	border-radius: 5px;
+	margin-top: 15px;
+}
+
+.topMarginzero {
+	margin-top: 0px;
+}
+
+.inyouRed {
+	/* [disabled]padding: 10px 20px; */
+	font-size: 20px;
+	border-left: 5px solid #FF0000;
+	margin-right: 5px;
+}
+
+.at_text {
+	font-size: 19px;
+}
+
+.wake_text {
+	font-size: 25px;
+}
+
+.riyuu_back {
+	background-color: #F2F2F2;
+	border: 8px solid #FE9635;
+	border-radius: 21px;
+	-webkit-box-shadow: 2px 2px 2px 2px #969696;
+	box-shadow: 2px 2px 2px 2px #969696;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.riyuu_midashi {
+	font-size: 22px;
+	font-weight: bold;
+	color: #FF0000;
+}
+
+.riyuu_read {
+	color: #000000;
+	font-size: 15px;
+	line-height: 1.4em;
+	font-weight: bold;
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+}
+
+.topMargin10 {
+	margin-top: 10px;
+}
+
+.infoRead {
+	font-size: 14px;
+}
+
+.infoTitle {
+	font-size: 22px;
+}
+
+.infoPadding {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.manga_topMargin {
+	margin-top: 10px;
+}
+
+.manga_bottomMargin {
+	margin-bottom: 5px;
+}
+
+.sm_navimage {
+	margin-top: 2px;
+}
+
+.telMargin {
+	float: right;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-left: 0px;
+}
+
+.xl_tel_cyousei {
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+.indexThwidth {
+	width: 15%;
+}
+
+.bnPadding {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+
+
+}
+
+.footerLink {
+	padding: 10px;
+	width: 100%;
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+}
+
+@media (max-width:470px){
+
+.navbar-brand {
+	width: 129px;
+	padding-top: 5px;
+	margin-top: 5px;
+	height: auto;
+}
+
+.slideCap1 {
+	font-size: 10px;
+	line-height: 15em;
+}
+
+.slideCap2 {
+	font-size: 20px;
+	line-height: 15em;
+}
+
+	#flow > div > div:nth-child(3){
+	display: block;
+}
+
+.blueText {
+}
+
+.info-home h3 em {
+	color: #006bb7;
+	font-size: 32px;
+	line-height: 1em;
+}
+
+.factoring {
+	color: #0077B6;
+	font-size: 37px;
+	line-height: 1.5em;
+	text-align: center;
+	font-weight: bold;
+}
+
+.genkin {
+	font-size: 32px;
+	line-height: 1.5em;
+	color: #FF0000;
+	text-align: center;
+	font-weight: bold;
+}
+
+.kariire {
+	color: #000000;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+}
+.marginSide {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.paddingSide {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.smnon {
+	display: none;
+}
+
+.leadXs {
+	font-size: 10px;
+}
+
+.kaisetuWrap .lead.readTextcolor.leadXs {
+	font-size: 13px;
+}
+
+.kaisetuWrap .lead.readTextcolor {
+	font-size: 13px;
+}
+
+.midashiBottomzero {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.sm_non {
+	display: none;
+}
+
+}
+
+.slideCap1 {
+	font-size: 10px;
+	line-height: 15em;
+}
+
+.slideCap1 {
+	font-size: 10px;
+	line-height: 15em;
+}
+
+.retina {
+}
+
+.kaisetuWrap {
+	padding: 20px;
+	background-color: #E1E1E1;
+	border-radius: 5px;
+	margin-top: 5px;
+}
+
+.topTelicon {
+	float: right;
+	height: 30px;
+	width: 30px;
+	margin-right: 8px;
+}
+
+.smTelwrap {
+	height: 34px;
+	width: 34px;
+	float: right;
+	margin-top: 5px;
+	margin-right: 10px;
+}
+
+#header-main .navbar {
+	/* [disabled]margin-bottom: 7px; */
+}
+
+@media (min-width:471px){
+
+.factoring {
+	color: #0077B6;
+	font-size: 37px;
+	line-height: 1.5em;
+	text-align: center;
+	font-weight: bold;
+}
+
+.genkin {
+	font-size: 32px;
+	line-height: 1.5em;
+	color: #FF0000;
+	text-align: center;
+	font-weight: bold;
+}
+
+.kariire {
+	color: #000000;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-weight: bold;
+	font-size: 21px;
+	text-align: center;
+}
+
+.pcnon {
+	display: none;
+}
+
+.pc_non {
+	display: none;
+}
+}
+
+/* ページトップ */
+#page-top {
+	position: fixed;
+	bottom: 10px;
+	right: 10px;
+	font-size: 34px;
+	z-index: 1;
+}
+#page-top a {
+	background-color: hsla(0,100%,50%,0.45);
+	text-decoration: none;
+	color: #fff;
+	width: 55px;
+	padding: 8px 0;
+	text-align: center;
+	display: block;
+	border-radius: 10px;
+	height: auto;
+}
+#page-top a:hover {
+	text-decoration: none;
+	background-color: hsla(0, 100%, 50%, 0.8);
+}
+
+footer {
+	background: white;
+}
+
+body > div > footer > div > div > div:nth-child(1) > h4 {
+	color: black;
+}
+
+body > div > footer > div > div > div:nth-child(2) > h4 {
+	color: black;
+}
+
+body > div > footer > div > div > div:nth-child(3) > h4 {
+	color: black;
+}
+
+/*gridのgutter調整*/
+.row-0{
+    margin-left:0px;
+    margin-right:0px;
+
+    }
+
+.row-10{
+    margin-left:-5px;
+    margin-right:-5px;
+
+    }
+
+.row-20{
+    margin-left:-10px;
+    margin-right:-10px;
+
+    }
+
+.row-30{
+    margin-left:-15px;
+    margin-right:-15px;
+
+    }
+
+.row-40{
+    margin-left:-20px;
+    margin-right:-20px;
+
+    }
+
+
+
+
+
+@media (min-width:321px) and (max-width:375px){
+
+.br375 {
+	display: block;
+}
+}
+
+@media (max-width:768px){
+
+.footerLeft {
+	margin-left: 10px;
+}
+
+.nav_height_cyousei {
+	height: 50px;
+}
+
+.smTelwrap {
+	height: 34px;
+	width: 34px;
+	float: right;
+	margin-top: 7px;
+	margin-right: 10px;
+	display: block;
+}
+
+.telNumber {
+	float: right;
+	width: 87px;
+	line-height: 45px;
+	font-size: 10px;
+	margin-left: 0px;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	margin-bottom: 0px;
+	margin-top: 2px;
+	color: #FFFFFF;
+}
+
+.menu_word {
+	width: 180px;
+	text-align: center;
+	font-size: 15px;
+	color: #3F3F3F;
+}
+
+.right_b {
+	/* [disabled]font-size: medium; */
+	border-right-color: hsla(0,0%,100%,1.00);
+}
+
+.sm_drop {
+	background-color: #FFFFFF;
+}
+}
+
+
+@media (min-width:376px){
+
+.inyouRed {
+	/* [disabled]padding: 10px 20px; */
+	font-size: 35px;
+	border-left: 5px solid #FF0000;
+	margin-right: 5px;
+}
+
+.at_text {
+	font-size: 42px;
+}
+
+.wake_text {
+	font-size: 30px;
+}
+
+
+
+
+}
+
+.owl-theme .owl-controls .owl-page span {
+	background: rgb(255, 255, 255);
+
+}
+
+.telNumber {
+	float: right;
+	width: 87px;
+	line-height: 45px;
+	font-size: 10px;
+	margin-left: 0px;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	color: #FFFFFF;
+}
+.telNumber a:link {
+	color: #FFFFFF;
+}
+.telNumber:hover {
+	color: #FFFFFF;
+}
+.telNumber:visited {
+	color: #FFFFFF;
+}
+
+.telMargin {
+	float: right;
+	margin-right: 0px;
+}
+
+.contactBn {
+	height: 75px;
+	width: 125px;
+	float: right;
+	padding-top: 13px;
+	padding-bottom: 7px;
+	padding-left: 30px;
+}
+
+@media (min-width:768px){
+
+#header-main .yamm img {
+	/* [disabled]margin-top: -16px; */
+}
+
+.nav_height_cyousei {
+	height: 45px;
+}
+
+.logotopCyousei {
+	margin-top: -16px;
+}
+
+.contPdding {
+	/* [disabled]padding-left: 10px; */
+}
+	
+ul.nav li.dropdown:hover > ul.dropdown-menu {
+    display: block;    
+  }
+
+}
+
+@media (max-width:376px) and (min-width:769px){
+
+.telMargin {
+	float: right;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 5px;
+}
+
+.telNumber {
+	float: right;
+	width: 87px;
+	line-height: 45px;
+	font-size: 10px;
+	margin-left: 0px;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	margin-top: 0px;
+}
+}
+
+
+@media (max-width:768px){
+
+.miniTate {
+	display: block;
+}
+
+.right_b {
+	/* [disabled]font-size: medium; */
+	border-right-style: none;
+	border-right-width: 0px;
+}
+}
+
+@media (min-width:769px){
+
+.miniTate {
+	display: none;
+}
+.navbar-collapse.collapse {
+	padding-bottom: 0;
+	display: block;
+	height: auto;
+	overflow: visible;
+	visibility: visible;
+}
+}
+
+@media (max-width:767px){
+
+.contPdding {
+	padding-right: 0px;
+}
+
+.siteMidashi2 {
+	margin-top: 10px;
+	color: rgba(91,91,91,1.00);
+	font-size: 16px;
+}
+}
+
+@media (max-width:414px){
+
+.smSidepadding {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.smSidemargin {
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+}
+
+
+@media (max-width:320px){
+
+.shihouPadding5 {
+	padding: 5px;
+}
+
+.siteMidashi1 {
+	margin-top: 10px;
+	color: rgba(91,91,91,1.00);
+	font-size: 16px;
+}
+
+.siteMidashi1 {
+	margin-top: 10px;
+	color: rgba(91,91,91,1.00);
+	font-size: 16px;
+}
+
+.welcome-content h2 {
+	font-size: 24px;
+	font-weight: 300;
+}
+
+.lead {
+	margin-bottom: 20px;
+	font-size: 14px;
+	font-weight: 300;
+	line-height: 1.4;
+}
+
+
+.yuitu {
+	color: #FFFFFF;
+	font-size: 17px;
+	padding: 10px;
+	font-weight: bold;
+}
+
+.voice320 {
+	width: 280px;
+}
+
+.info-home h3 em {
+	color: #006bb7;
+	font-size: 32px;
+	line-height: 1em;
+}
+
+.factoring {
+	color: #0077B6;
+	font-size: 37px;
+	line-height: 1.5em;
+	text-align: center;
+	font-weight: bold;
+}
+
+.genkin {
+	font-size: 32px;
+	line-height: 1.5em;
+	color: #FF0000;
+	text-align: center;
+	font-weight: bold;
+}
+
+.kariire {
+	color: #000000;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+}
+
+.paddingSide {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.br320 {
+	display: block;
+}
+
+.titleHead {
+	text-align: center;
+	font-size: 13px;
+	color: #FFFFFF;
+	line-height: 1.5em;
+}
+.urikake_titleHead {
+	text-align: center;
+	font-size: 11px;
+	color: #FFFFFF;
+	line-height: 1.5em;
+}
+
+.title-h2 {
+	color: #FFFFFF;
+	text-align: center;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 1.5em;
+}
+
+.bnText1 {
+	color: #FFFFFF;
+	font-size: 11px;
+	line-height: 2em;
+	text-align: center;
+	font-weight: bold;
+}
+
+.fuan_omoi {
+	color: #5B5B5B;
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	font-size: 11px;
+	line-height: 1.5em;
+}
+
+.factoring_bttext {
+	color: #5B5B5B;
+	text-align: left;
+	font-size: 16px;
+	line-height: 3em;
+	font-weight: bold;
+}
+
+.genkinkaText {
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-size: 13px;
+	line-height: 1.5em;
+	text-align: center;
+}
+
+.genkinkaCatch {
+	text-align: center;
+	color: #FF0004;
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	font-size: 22px;
+	line-height: 1.5em;
+}
+
+.downloadText {
+	color: #FFFFFF;
+	font-size: 20px;
+	line-height: 1.5em;
+}
+
+.iPhone5-non {
+	display: none;
+}
+
+.footer_about {
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 12px;
+}
+
+.policyInyou {
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-size: 18px;
+	border-left: 4px solid rgba(255,0,4,1.00);
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-left: 5px;
+}
+
+.flowMidashi {
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: 100;
+	font-size: 11px;
+	line-height: 2em;
+	text-align: center;
+}
+
+.youiTitle {
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: 200;
+	font-size: 18px;
+	line-height: 2em;
+	text-align: center;
+}
+
+.documentText {
+	color: hsla(0,0%,100%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: 100;
+	font-size: 14px;
+	line-height: 3em;
+	text-align: center;
+}
+
+.voiceTabletext {
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 11px;
+}
+
+.voiceProfile {
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-weight: 200;
+	font-size: 11px;
+	color: hsla(0,0%,100%,1.00);
+	line-height: 2em;
+}
+
+.cyoutatuGaku {
+	color: hsla(0,0%,100%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: 400;
+	font-size: 13px;
+}
+
+.managementTitle {
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-size: 14px;
+	line-height: 1.7em;
+	text-align: center;
+}
+
+.managementRead {
+	color: hsla(0,0%,30%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-size: 12px;
+	line-height: 1.5em;
+	text-align: left;
+}
+
+.managementMidashi {
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 16px;
+}
+
+.managementInyou {
+	font-size: 16px;
+	border-left: 5px solid #FF0000;
+	margin-right: 5px;
+}
+
+.topRead {
+	font-size: 15px;
+	line-height: 1.5em;
+}
+
+.urikakeText {
+	font-size: 13px;
+	line-height: 1.5em;
+}
+
+.inyouBlue {
+	font-size: 20px;
+	border-left: 5px solid #0071BC;
+	margin-right: 5px;
+}
+
+.downloadText2 {
+	color: #FFFFFF;
+	font-size: 20px;
+	line-height: 1.5em;
+}
+
+.urikake_title-h2 {
+	color: #FFFFFF;
+	text-align: center;
+	font-weight: bold;
+	font-size: 17px;
+	line-height: 1.5em;
+}
+
+.youiMidashi {
+	font-size: 17px;
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	text-align: center;
+}
+
+.slideText1 {
+	font-size: 15px;
+	color: hsla(0,0%,35%,1.00);
+	line-height: 1.4em;
+}
+
+.slidetextPadding {
+	padding: 0px;
+}
+
+.syazeTitle {
+	color: hsla(0,0%,0%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	font-size: 27px;
+	line-height: 2em;
+	text-align: center;
+}
+
+.syazeRead {
+	color: hsla(0,0%,10%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-size: 13px;
+	line-height: 1.5em;
+}
+
+.syazeHonbun {
+	color: hsla(0,0%,0%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 1.2em;
+}
+
+.syazeHokori {
+	color: hsla(0,0%,0%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bolder;
+	font-size: 33px;
+	line-height: 2em;
+}
+
+.sm_drop {
+	background-color: #FFFFFF;
+}
+
+.newsIchiran a:link {
+	font-size: 14px;
+	line-height: 35px;
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	color: #0071BC;
+}
+
+.newToptitle {
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-weight: bold;
+	font-size: 13pt;
+	line-height: 1.5em;
+	color: hsla(0,0%,25%,1.00);
+}
+
+.about_fac_text1 {
+	font-size: 13px;
+	color: hsla(0,0%,25%,1.00);
+	font-weight: bold;
+	line-height: 1.5em;
+}
+
+.factSubtitle {
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 1.4em;
+}
+
+.table_right_text {
+	color: #5A5A5A;
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 8px;
+	line-height: 1.5em;
+	padding-left: 15px;
+}
+
+.recruitRead {
+	color: rgba(91,91,91,1.00);
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 15px;
+	font-weight: bold;
+	margin-top: 10px;
+	margin-bottom: 200px;
+}
+
+.fact_topread {
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 9pt;
+	line-height: 1.5em;
+	/* [disabled]font-weight: bold; */
+}
+
+.fac_menu {
+	font-size: 10px;
+}
+
+.control_komidashi {
+	color: hsla(0,0%,100%,1.00);
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-weight: bold;
+	font-size: 12px;
+	line-height: 1.4em;
+	background-color: hsla(129,50%,45%,1.00);
+	text-align: left;
+	padding-left: 5px;
+	padding-right: 5px;
+	margin-bottom: 5px;
+}
+
+.control_kajyou {
+	color: hsla(0,0%,30%,1.00);
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-weight: bold;
+	font-size: 11px;
+	line-height: 1.4em;
+}
+
+.control_kaisetu {
+	color: hsla(359,100%,50%,1.00);
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-weight: bold;
+	font-size: 15px;
+	text-align: left;
+	line-height: 1.4em;
+}
+
+.moushikomiTejyun {
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: 600;
+	font-size: 15px;
+	line-height: 1.5em;
+}
+
+.moushikomiHouhou {
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 12px;
+	line-height: 1.5em;
+}
+
+.youiIchiran {
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 15px;
+	line-height: 2em;
+}
+
+.youiText {
+	color: hsla(0,0%,100%,1.00);
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-weight: 100;
+	font-size: 12px;
+	line-height: 3em;
+	text-align: center;
+}
+
+.side_menuText:link {
+	font-size: 13px;
+	color: rgba(255,255,255,1.00);
+}
+
+.shindanTitle {
+	font-size: 12px;
+	text-align: center;
+}
+
+.formFont1 {
+	color: #5A5A5A;
+	font-size: 15px;
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+}
+
+.mainFormtext {
+	font-size: 17px;
+	text-align: center;
+}
+}
+
+
+@media (min-width:321px) and (max-width:375px){
+
+.titleHead {
+	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
+	line-height: 1.5em;
+}
+
+.title-h2 {
+	color: #FFFFFF;
+	text-align: center;
+	font-weight: bold;
+	font-size: 22px;
+	line-height: 1.5em;
+}
+
+.bnText1 {
+	color: #FFFFFF;
+	font-size: 13px;
+	line-height: 2em;
+	text-align: center;
+	font-weight: bold;
+}
+
+.fuan_omoi {
+	color: #5B5B5B;
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	font-size: 11px;
+	line-height: 1.5em;
+}
+
+.factoring_bttext {
+	color: #5B5B5B;
+	text-align: left;
+	font-size: 18px;
+	line-height: 3em;
+	font-weight: bold;
+}
+
+.genkinkaText {
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-size: 16px;
+	line-height: 1.5em;
+	text-align: center;
+}
+
+.genkinkaCatch {
+	text-align: center;
+	color: #FF0004;
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	font-size: 26px;
+	line-height: 1.5em;
+}
+
+.downloadText {
+	color: #FFFFFF;
+	font-size: 23px;
+	line-height: 1.5em;
+}
+
+.footer_about {
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 11px;
+}
+
+.policyInyou {
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-size: 21px;
+	border-left: 4px solid rgba(255,0,4,1.00);
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-left: 5px;
+}
+
+.flowMidashi {
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: 100;
+	font-size: 13px;
+	line-height: 2em;
+	text-align: center;
+}
+
+.youiTitle {
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: 200;
+	font-size: 22px;
+	line-height: 2em;
+	text-align: center;
+}
+
+.documentText {
+	color: hsla(0,0%,100%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: 100;
+	font-size: 14px;
+	line-height: 3em;
+	text-align: center;
+}
+
+.voiceTabletext {
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 11px;
+}
+
+.voiceProfile {
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-weight: 200;
+	font-size: 13px;
+	color: hsla(0,0%,100%,1.00);
+	line-height: 2em;
+}
+
+.cyoutatuGaku {
+	color: hsla(0,0%,100%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: 400;
+	font-size: 15px;
+}
+
+.managementTitle {
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-size: 17px;
+	line-height: 1.7em;
+	text-align: center;
+}
+
+.managementRead {
+	color: hsla(0,0%,30%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-size: 12px;
+	line-height: 1.5em;
+	text-align: left;
+}
+
+.managementMidashi {
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 18px;
+}
+
+.managementInyou {
+	font-size: 18px;
+	border-left: 5px solid #FF0000;
+	margin-right: 5px;
+}
+
+.topRead {
+	font-size: 15px;
+	line-height: 1.4em;
+}
+
+.urikakeText {
+	font-size: 13px;
+	line-height: 1.5em;
+}
+
+.inyouBlue {
+	font-size: 24px;
+	border-left: 5px solid #0071BC;
+	margin-right: 5px;
+}
+
+.downloadText2 {
+	color: #FFFFFF;
+	font-size: 24px;
+	line-height: 1.5em;
+}
+
+.urikake_titleHead {
+	text-align: center;
+	font-size: 13px;
+	color: #FFFFFF;
+	line-height: 1.5em;
+}
+
+.urikake_title-h2 {
+	color: #FFFFFF;
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 1.5em;
+}
+
+.youiMidashi {
+	font-size: 20px;
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	text-align: center;
+}
+
+.slideText1 {
+	font-size: 18px;
+	color: hsla(0,0%,35%,1.00);
+	line-height: 1.4em;
+}
+
+.slidetextPadding {
+	padding: 0px;
+}
+
+.syazeTitle {
+	color: hsla(0,0%,0%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	font-size: 31px;
+	line-height: 2em;
+	text-align: center;
+}
+
+.syazeRead {
+	color: hsla(0,0%,10%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-size: 13px;
+	line-height: 1.5em;
+}
+
+.syazeHonbun {
+	color: hsla(0,0%,0%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 1.2em;
+}
+
+.syazeHokori {
+	color: hsla(0,0%,0%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bolder;
+	font-size: 39px;
+	line-height: 2em;
+}
+
+.newsIchiran a:link {
+	font-size: 14px;
+	line-height: 35px;
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	color: #0071BC;
+}
+
+.about_fac_text1 {
+	font-size: 14px;
+	color: hsla(0,0%,25%,1.00);
+	font-weight: bold;
+	line-height: 1.5em;
+}
+
+.factSubtitle {
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 1.4em;
+}
+
+.fact_topread {
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 11pt;
+	line-height: 1.5em;
+	/* [disabled]font-weight: bold; */
+}
+
+.fac_menu {
+	font-size: 12px;
+}
+
+.control_komidashi {
+	color: hsla(0,0%,100%,1.00);
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-weight: bold;
+	font-size: 12px;
+	line-height: 1.4em;
+	background-color: hsla(129,50%,45%,1.00);
+	text-align: left;
+	padding-left: 5px;
+	padding-right: 5px;
+	margin-bottom: 5px;
+}
+
+.control_kajyou {
+	color: hsla(0,0%,30%,1.00);
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-weight: bold;
+	font-size: 11px;
+	line-height: 1.4em;
+}
+
+.control_kaisetu {
+	color: hsla(359,100%,50%,1.00);
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-weight: bold;
+	font-size: 15px;
+	text-align: left;
+	line-height: 1.4em;
+}
+
+.moushikomiTejyun {
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: 600;
+	font-size: 15px;
+	line-height: 1.5em;
+}
+
+.moushikomiHouhou {
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 15px;
+	line-height: 1.5em;
+}
+
+.shindanTitle {
+	font-size: 14px;
+	text-align: center;
+}
+
+.formFont1 {
+	color: #5A5A5A;
+	font-size: 18px;
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+}
+
+.mainFormtext {
+	font-size: 17px;
+	text-align: center;
+}
+}
+
+
+@media (min-width:376px) and (max-width:414px){
+
+.titleHead {
+	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
+	line-height: 1.5em;
+}
+
+.title-h2 {
+	color: #FFFFFF;
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+	line-height: 1.5em;
+}
+
+.bnText1 {
+	color: #FFFFFF;
+	font-size: 15px;
+	line-height: 2em;
+	text-align: center;
+	font-weight: bold;
+}
+
+.fuan_omoi {
+	color: #5B5B5B;
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	font-size: 12px;
+	line-height: 1.5em;
+}
+
+.factoring_bttext {
+	color: #5B5B5B;
+	text-align: left;
+	font-size: 18px;
+	line-height: 3em;
+	font-weight: bold;
+}
+
+.genkinkaText {
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-size: 17px;
+	line-height: 1.5em;
+	text-align: center;
+}
+
+.genkinkaCatch {
+	text-align: center;
+	color: #FF0004;
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	font-size: 29px;
+	line-height: 1.5em;
+}
+
+.downloadText {
+	color: #FFFFFF;
+	font-size: 33px;
+	line-height: 1.5em;
+}
+
+.footer_about {
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 13px;
+}
+
+.flowMidashi {
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: 100;
+	font-size: 15px;
+	line-height: 2em;
+	text-align: center;
+}
+
+.youiTitle {
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: 200;
+	font-size: 27px;
+	line-height: 2em;
+	text-align: center;
+}
+
+.documentText {
+	color: hsla(0,0%,100%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: 100;
+	font-size: 16px;
+	line-height: 3em;
+	text-align: center;
+}
+
+.cyoutatuGaku {
+	color: hsla(0,0%,100%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: 400;
+	font-size: 16px;
+}
+
+.managementTitle {
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-size: 19px;
+	line-height: 1.7em;
+	text-align: center;
+}
+
+.managementRead {
+	color: hsla(0,0%,30%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-size: 13px;
+	line-height: 1.5em;
+	text-align: left;
+}
+
+.managementMidashi {
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 20px;
+}
+
+.managementInyou {
+	font-size: 20px;
+	border-left: 5px solid #FF0000;
+	margin-right: 5px;
+}
+
+.topRead {
+	font-size: 15px;
+	line-height: 1.4em;
+}
+
+.urikakeText {
+	font-size: 13px;
+	line-height: 1.5em;
+}
+
+.inyouRed {
+	/* [disabled]padding: 10px 20px; */
+	font-size: 28px;
+	border-left: 5px solid #FF0000;
+	margin-right: 5px;
+}
+
+.inyouBlue {
+	font-size: 28px;
+	border-left: 5px solid #0071BC;
+	margin-right: 5px;
+}
+
+.downloadText2 {
+	color: #FFFFFF;
+	font-size: 27px;
+	line-height: 1.5em;
+}
+
+.urikake_titleHead {
+	text-align: center;
+	font-size: 14px;
+	color: #FFFFFF;
+	line-height: 1.5em;
+}
+
+.urikake_title-h2 {
+	color: #FFFFFF;
+	text-align: center;
+	font-weight: bold;
+	font-size: 22px;
+	line-height: 1.5em;
+}
+
+.youiMidashi {
+	font-size: 23px;
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	text-align: center;
+}
+
+.slideText1 {
+	font-size: 19px;
+	color: hsla(0,0%,35%,1.00);
+	line-height: 1.4em;
+}
+
+.slidetextPadding {
+	padding: 0px;
+}
+
+.syazeTitle {
+	color: hsla(0,0%,0%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	font-size: 30px;
+	line-height: 2em;
+	text-align: center;
+}
+
+.syazeRead {
+	color: hsla(0,0%,10%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-size: 14px;
+	line-height: 1.5em;
+}
+
+.syazeHonbun {
+	color: hsla(0,0%,0%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	font-size: 27px;
+	line-height: 1.2em;
+}
+
+.syazeHokori {
+	color: hsla(0,0%,0%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bolder;
+	font-size: 43px;
+	line-height: 2em;
+}
+
+.newsIchiran a:link {
+	font-size: 18px;
+	line-height: 35px;
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	color: #0071BC;
+}
+
+.about_fac_text1 {
+	font-size: 14px;
+	color: hsla(0,0%,25%,1.00);
+	font-weight: bold;
+	line-height: 1.5em;
+}
+
+.factSubtitle {
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 1.4em;
+}
+
+.table_right_text {
+	color: #5A5A5A;
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 11px;
+	line-height: 1.5em;
+	padding-left: 10px;
+}
+
+.companyText {
+	font-size: 12px;
+}
+
+.fact_topread {
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 10pt;
+	line-height: 1.5em;
+	/* [disabled]font-weight: bold; */
+}
+
+.fac_menu {
+	font-size: 13px;
+}
+
+.control_komidashi {
+	color: hsla(0,0%,100%,1.00);
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-weight: bold;
+	font-size: 12px;
+	line-height: 1.4em;
+	background-color: hsla(129,50%,45%,1.00);
+	text-align: left;
+	padding-left: 5px;
+	padding-right: 5px;
+	margin-bottom: 5px;
+}
+
+.control_kajyou {
+	color: hsla(0,0%,30%,1.00);
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-weight: bold;
+	font-size: 11px;
+	line-height: 1.4em;
+}
+
+.control_kaisetu {
+	color: hsla(359,100%,50%,1.00);
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-weight: bold;
+	font-size: 15px;
+	text-align: left;
+	line-height: 1.4em;
+}
+
+.moushikomiTejyun {
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 1.5em;
+}
+
+.moushikomiHouhou {
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 13px;
+	line-height: 1.5em;
+}
+
+.shindanTitle {
+	font-size: 15px;
+	text-align: center;
+}
+
+.formFont1 {
+	color: #5A5A5A;
+	font-size: 21px;
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+}
+
+.mainFormtext {
+	font-size: 14px;
+	text-align: center;
+}
+}
+
+@media (min-width:415px) and (max-width:736px){
+
+.urikake_titleHead {
+	text-align: center;
+	font-size: 19px;
+	color: #FFFFFF;
+	line-height: 1.5em;
+}
+
+.urikake_title-h2 {
+	color: #FFFFFF;
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+	line-height: 1.5em;
+}
+
+.bnText1 {
+	color: #FFFFFF;
+	font-size: 22px;
+	line-height: 2em;
+	text-align: center;
+	font-weight: bold;
+}
+
+.slideText1 {
+	font-size: 23px;
+	color: hsla(0,0%,35%,1.00);
+	line-height: 1.3em;
+}
+
+.slidetextPadding {
+	padding: 0px;
+}
+
+.syazeTitle {
+	color: hsla(0,0%,0%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	font-size: 36px;
+	line-height: 2em;
+	text-align: center;
+}
+
+.syazeRead {
+	color: hsla(0,0%,10%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-size: 17px;
+	line-height: 1.5em;
+}
+
+.syazeHonbun {
+	color: hsla(0,0%,0%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	font-size: 33px;
+	line-height: 1.2em;
+}
+
+.syazeHokori {
+	color: hsla(0,0%,0%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bolder;
+	font-size: 63px;
+	line-height: 2em;
+}
+
+.downloadText {
+	color: #FFFFFF;
+	font-size: 36px;
+	line-height: 1.5em;
+}
+
+.genkinkaCatch {
+	text-align: center;
+	color: #FF0004;
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 1.5em;
+}
+
+.fuan_omoi {
+	color: #5B5B5B;
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 1.5em;
+}
+
+.title-h2 {
+	color: #FFFFFF;
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+	line-height: 1.5em;
+}
+
+.fact_topread {
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 10pt;
+	line-height: 1.5em;
+	/* [disabled]font-weight: bold; */
+}
+
+.fac_menu {
+	font-size: 14px;
+}
+
+.control_komidashi {
+	color: hsla(0,0%,100%,1.00);
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-weight: bold;
+	font-size: 22px;
+	line-height: 1.4em;
+	background-color: hsla(129,50%,45%,1.00);
+	text-align: left;
+	padding-left: 5px;
+	padding-right: 5px;
+	margin-bottom: 10px;
+}
+
+.control_kajyou {
+	color: hsla(0,0%,30%,1.00);
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-weight: bold;
+	font-size: 21px;
+	line-height: 1.4em;
+}
+
+.control_kaisetu {
+	color: hsla(359,100%,50%,1.00);
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-weight: bold;
+	font-size: 23px;
+	text-align: left;
+	line-height: 1.4em;
+}
+}
+
+
+
+@media (min-width:737px) and (max-width:768px){
+
+.downloadText {
+	color: #FFFFFF;
+	font-size: 46px;
+	line-height: 1.5em;
+}
+
+.urikake_titleHead {
+	text-align: center;
+	font-size: 20px;
+	color: #FFFFFF;
+	line-height: 1.5em;
+}
+
+.slideText1 {
+	font-size: 24px;
+	color: hsla(0,0%,35%,1.00);
+	line-height: 1.4em;
+}
+
+.ipad_cyuosei {
+	padding-bottom: 0px;
+}
+
+.slidetextPadding {
+	padding-bottom: 5px;
+}
+
+.syazeTitle {
+	color: hsla(0,0%,0%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	font-size: 27px;
+	line-height: 2em;
+	text-align: center;
+}
+
+.syazeRead {
+	color: hsla(0,0%,10%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-size: 13px;
+	line-height: 1.5em;
+}
+
+.syazeHonbun {
+	color: hsla(0,0%,0%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	font-size: 26px;
+	line-height: 1.2em;
+}
+
+.syazeHokori {
+	color: hsla(0,0%,0%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bolder;
+	font-size: 42px;
+	line-height: 2em;
+}
+
+.fact_topread {
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 10pt;
+	line-height: 1.5em;
+	/* [disabled]font-weight: bold; */
+}
+
+.fac_menu {
+	font-size: 14px;
+}
+}
+
+@media (min-width:769px) and (max-width:1024px){
+
+.urikake_titleHead {
+	text-align: center;
+	font-size: 23px;
+	color: #FFFFFF;
+	line-height: 1.5em;
+}
+
+.slidetextPadding {
+	padding-bottom: 15px;
+}
+
+.syazeTitle {
+	color: hsla(0,0%,0%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	font-size: 37px;
+	line-height: 2em;
+	text-align: center;
+}
+
+.syazeRead {
+	color: hsla(0,0%,10%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-size: 19px;
+	line-height: 1.5em;
+}
+
+.syazeHonbun {
+	color: hsla(0,0%,0%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	font-size: 31px;
+	line-height: 1.2em;
+}
+
+.syazeHokori {
+	color: hsla(0,0%,0%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bolder;
+	font-size: 52px;
+	line-height: 2em;
+}
+}
+
+@media (min-width:1025px){
+
+.urikake_titleHead {
+	text-align: center;
+	font-size: 26px;
+	color: #FFFFFF;
+	line-height: 1.5em;
+}
+
+.oshiraseCyousei {
+	margin-left: -20px;
+}
+}
+
+
+/* navbar collapse for iPad (bootstrap) */
+@media (max-width: 991px) {
+    .navbar-header {
+        float: none;
+    }
+    .navbar-toggle {
+        display: block;
+    }
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+    .navbar-collapse.collapse {
+        display: none!important;
+    }
+    .navbar-nav {
+        float: none!important;
+        margin: 7.5px -15px;
+    }
+    /*.navbar-nav>li {
+        float: none;
+    }*/
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .navbar-text {
+        float: none;
+        margin: 15px 0;
+    }
+    .navbar-collapse.collapse.in {
+        display: block!important;
+    }
+    .collapsing {
+        overflow: hidden!important;
+    }
+
+.nav_margin_cyousei {
+	margin-bottom: 65px;
+}
+}

@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+.awform h2{
+  padding-bottom: 7px;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 15px;
+}
+.alert {
+   padding: 5px !important;
+   margin: 10px;
+}
+.awform_data > label {
+   font-weight: normal;
+}
+.awform_free {
+	margin-left: 0 !important;
+	/* [disabled]margin-top: 5px; */
+	margin-bottom: 5px;
+}
+.awform_notes2 {
+   margin-top: 7px;
+}
+.awform_kind-connect div[id$="_child"] {
+   padding-right: 15px !important;
+}
+.awform_kind-optin .awform_data {
+   margin-top: 15px;
+}
+.awform_kind-price .awform_data {
+   margin-top: 7px;
+   font-size: 1.5em;
+}
+.awform_name {
+   padding-top:0 !important;
+}
+.body-confirm .awform_label {
+   padding-top:0 !important;
+}
+.jyougePadding {
+	padding-bottom: 10px;
+	padding-top: 3px;
+}
+
+select{
+	-moz-appearance: none;
+	-webkit-appearance: none;
+	appearance: none;
+	background-color: rgb(255, 152, 0, 0.1);
+	border: 1px solid #dddddd;
+	border-radius: 5px;
+	padding: 5px 20px;
+	color: #666666;
+}

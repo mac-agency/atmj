@@ -1,0 +1,129 @@
+@charset "UTF-8";
+
+.jyuuyouseiTitle {
+	color: hsla(0,0%,100%,1.00);
+	font-size: 32px;
+	line-height: 2em;
+	text-align: center;
+}
+
+.kaisetuTitle {
+	color: hsla(0,0%,25%,1.00);
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 21px;
+	line-height: 1.4em;
+	font-weight: bold;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+}
+
+.kaisetuRead {
+	color: hsla(0,0%,25%,1.00);
+	font-size: 16px;
+	line-height: 1.4em;
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+}
+
+@media (max-width:320px){
+
+.jyuuyouseiTitle {
+	color: hsla(0,0%,100%,1.00);
+	font-size: 20px;
+	line-height: 2em;
+	text-align: center;
+}
+
+.kaisetuTitle {
+	color: hsla(0,0%,25%,1.00);
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 15px;
+	line-height: 1.4em;
+	font-weight: bold;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+}
+
+.kaisetuRead {
+	color: hsla(0,0%,25%,1.00);
+	font-size: 12px;
+	line-height: 1.4em;
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+}
+}
+
+@media (min-width:321px) and (max-width:375px){
+
+.jyuuyouseiTitle {
+	color: hsla(0,0%,100%,1.00);
+	font-size: 23px;
+	line-height: 2em;
+	text-align: center;
+}
+
+.kaisetuRead {
+	color: hsla(0,0%,25%,1.00);
+	font-size: 13px;
+	line-height: 1.4em;
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+}
+
+.kaisetuTitle {
+	color: hsla(0,0%,25%,1.00);
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 16px;
+	line-height: 1.4em;
+	font-weight: bold;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+}
+}
+
+@media (min-width:376px) and (max-width:414px){
+
+.jyuuyouseiTitle {
+	color: hsla(0,0%,100%,1.00);
+	font-size: 26px;
+	line-height: 2em;
+	text-align: center;
+}
+
+.kaisetuTitle {
+	color: hsla(0,0%,25%,1.00);
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-size: 15px;
+	line-height: 1.4em;
+	font-weight: bold;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+}
+
+.kaisetuRead {
+	color: hsla(0,0%,25%,1.00);
+	font-size: 14px;
+	line-height: 1.4em;
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+}
+}
+
+@media (min-width:415px) and (max-width:768px){
+
+.jyuuyouseiTitle {
+	color: hsla(0,0%,100%,1.00);
+	font-size: 30px;
+	line-height: 2em;
+	text-align: center;
+}
+}
+
+@media (min-width:769px) and (max-width:1024px){
+
+.jyuuyouseiTitle {
+	color: hsla(0,0%,100%,1.00);
+	font-size: 35px;
+	line-height: 2em;
+	text-align: center;
+}
+}
+
+@media (min-width:1025px){
+}

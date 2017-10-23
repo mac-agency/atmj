@@ -1,0 +1,76 @@
+@charset "UTF-8";
+
+.soredewa {
+	background-color: #008DD7;
+	text-align: center;
+	width: 100%;
+	color: #FFFFFF;
+	font-size: 34px;
+}
+
+.voiceBg {
+	background-color: #ED732C;
+	padding-bottom: 20px;
+}
+
+.customerVoice {
+	width: 100%;
+	margin-bottom: 10px;
+	color: #000000;
+	font-size: 15px;
+	/* [disabled]border-color: #FFFFFF; */
+	/* [disabled]border-style: solid; */
+	/* [disabled]border-width: 2px; */
+	border-radius: 10px;
+	padding: 10px;
+	background-color: #FFFFFF;
+}
+
+.voiceKansou {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: #000000;
+	text-shadow: 1px 1px #FFFFFF;
+}
+
+.topMargin20 {
+	margin-top: 20px;
+}
+
+hr.kyoukai {
+	border: 0;
+	height: 0;
+	border-top: 1px solid rgba(0, 0, 0, 0.1);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+	margin-top: 50px;
+}
+
+@media (max-width:375px){
+
+.soredewa {
+	background-color: #008DD7;
+	text-align: center;
+	width: 100%;
+	color: #FFFFFF;
+	font-size: 12px;
+	line-height: 3em;
+}
+
+}
+
+.voiceWrap {
+	width: 100%;
+}
+
+@media (max-width:767px){
+	
+.bottom20 {
+	margin-bottom: 20px;
+}
+.bottom50 {
+	margin-bottom: 50px;
+}
+	
+	
+}

@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+#privacy_policy h2 {
+	font-size: 45px;
+}
+
+.inyouRed {
+	border-left-color: #FF0000;
+}
+
+.ppText {
+	font-size: 16px;
+	line-height: 1.5em;
+}
+
+.inyouRed {
+	/* [disabled]padding: 10px 20px; */
+	font-size: 40px;
+	border-left: 5px solid #FF0000;
+	margin-right: 5px;
+}
+
+.komidashi {
+	font-size: 26px;
+}
+
+.midashiTexteffect {
+	text-shadow: 3px 3px 5px #969696;
+	color: #3A3A3A;
+}
+
+
+@media (max-width:375px){
+
+#privacy_policy h2 {
+	font-size: 31px;
+	font-weight: bold;
+}
+
+.inyouRed {
+	/* [disabled]padding: 10px 20px; */
+	font-size: 25px;
+	border-left: 5px solid #FF0000;
+	margin-right: 5px;
+}
+
+}
+
+@media (max-width:320px){
+
+#privacy_policy h2 {
+	font-size: 27px;
+	font-weight: bold;
+}
+}
+
+
+@media (min-width:376px){
+
+.inyouRed {
+	/* [disabled]padding: 10px 20px; */
+	font-size: 37px;
+	border-left: 5px solid #FF0000;
+	margin-right: 5px;
+}
+}

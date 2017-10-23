@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+.inyouRed {
+	/* [disabled]padding: 10px 20px; */
+	font-size: 40px;
+	border-left: 5px solid #FF0000;
+	margin-right: 5px;
+}
+
+.midashiTexteffect {
+	text-shadow: 3px 3px 5px #969696;
+	color: #3A3A3A;
+}
+
+@media (min-width:376px){
+
+.inyouRed {
+	/* [disabled]padding: 10px 20px; */
+	font-size: 40px;
+	border-left: 5px solid #FF0000;
+	margin-right: 5px;
+}
+}
+
+@media (max-width:375px){
+
+.inyouRed {
+	/* [disabled]padding: 10px 20px; */
+	font-size: 30px;
+	border-left: 5px solid #FF0000;
+	margin-right: 5px;
+}
+}

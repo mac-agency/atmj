@@ -1,0 +1,391 @@
+@charset "UTF-8";
+
+.tableWrap {
+	padding: 5px;
+}
+
+.jyoukenWide {
+	width: 30%;
+}
+
+.urikakekin {
+	font-size: 31px;
+	text-align: center;
+	line-height: 2em;
+	color: hsla(0,0%,100%,1.00);
+}
+
+.oshiharai {
+	color: hsla(0,0%,100%,1.00);
+	font-size: 30px;
+	line-height: 2em;
+	text-align: center;
+}
+
+.oshiharaiRead {
+	font-size: 42px;
+	line-height: 1.4em;
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+}
+
+.factoringMidashi {
+	font-size: 35px;
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	text-align: center;
+}
+
+.meritRead {
+	font-size: 15px;
+	line-height: 1.4em;
+}
+
+.demeritTitle {
+	color: hsla(359,100%,50%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	font-size: 30px;
+	line-height: 2em;
+}
+
+.demeritRead {
+	color: hsla(0,0%,25%,1.00);
+	font-size: 16px;
+	line-height: 1.4em;
+}
+
+.meritReadTitle {
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-weight: bold;
+	font-size: 25px;
+	line-height: 1.5em;
+}
+
+.importantText {
+	font-size: 38px;
+	font-weight: bold;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+
+.importantIcon {
+	font-size: 30px;
+	padding-left: 20px;
+	color: hsla(359,100%,50%,1.00);
+}
+
+.importantRead {
+	color: hsla(0,0%,25%,1.00);
+	font-size: 21px;
+	line-height: 1.4em;
+}
+
+@media (max-width:470px){
+
+.jyoukenTitle {
+	font-size: 13px;
+	font-weight: bold;
+	vertical-align: middle;
+	display: table-cell;
+}
+
+.jyoukenRead {
+	font-size: 12px;
+	line-height: 1.5em;
+}
+}
+
+@media (min-width:471px){
+
+.jyoukenTitle {
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.jyoukenRead {
+	font-size: 13px;
+	line-height: 1.5em;
+}
+}
+
+@media (max-width:320px){
+
+.urikakekin {
+	font-size: 20px;
+	text-align: center;
+	line-height: 2em;
+	color: hsla(0,0%,100%,1.00);
+}
+
+.oshiharai {
+	color: hsla(0,0%,100%,1.00);
+	font-size: 12px;
+	line-height: 2em;
+	text-align: center;
+}
+
+.oshiharaiRead {
+	font-size: 18px;
+	line-height: 1.4em;
+	font-weight: bold;
+}
+
+.factoringMidashi {
+	font-size: 20px;
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	text-align: center;
+}
+
+.demeritTitle {
+	color: hsla(359,100%,50%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 2em;
+}
+
+.demeritRead {
+	color: hsla(0,0%,25%,1.00);
+	font-size: 13px;
+	line-height: 1.4em;
+}
+
+.meritRead {
+	font-size: 12px;
+	line-height: 1.4em;
+}
+
+.meritReadTitle {
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 13px;
+	line-height: 1.5em;
+	font-weight: bold;
+}
+
+.importantText {
+	font-size: 22px;
+	font-weight: bold;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+
+.importantRead {
+	color: hsla(0,0%,25%,1.00);
+	font-size: 14px;
+	line-height: 1.4em;
+}
+}
+
+@media (min-width:321px) and (max-width:375px){
+
+.urikakekin {
+	font-size: 25px;
+	text-align: center;
+	line-height: 2em;
+	color: hsla(0,0%,100%,1.00);
+}
+
+.oshiharai {
+	color: hsla(0,0%,100%,1.00);
+	font-size: 14px;
+	line-height: 2em;
+	text-align: center;
+}
+
+.oshiharaiRead {
+	font-size: 16px;
+	line-height: 1.4em;
+	font-weight: bold;
+}
+
+.factoringMidashi {
+	font-size: 24px;
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	text-align: center;
+}
+
+.demeritTitle {
+	color: hsla(359,100%,50%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 2em;
+}
+
+.demeritRead {
+	color: hsla(0,0%,25%,1.00);
+	font-size: 15px;
+	line-height: 1.4em;
+}
+
+.meritRead {
+	font-size: 14px;
+	line-height: 1.4em;
+}
+
+.meritReadTitle {
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 13px;
+	line-height: 1.5em;
+	font-weight: bold;
+}
+
+.importantText {
+	font-size: 22px;
+	font-weight: bold;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+
+.importantRead {
+	color: hsla(0,0%,25%,1.00);
+	font-size: 15px;
+	line-height: 1.4em;
+}
+}
+
+@media (min-width:376px) and (max-width:414px){
+
+.urikakekin {
+	font-size: 23px;
+	text-align: center;
+	line-height: 2em;
+	color: hsla(0,0%,100%,1.00);
+}
+
+.oshiharai {
+	color: hsla(0,0%,100%,1.00);
+	font-size: 16px;
+	line-height: 2em;
+	text-align: center;
+}
+
+.oshiharaiRead {
+	font-size: 16px;
+	line-height: 1.4em;
+	font-weight: bold;
+}
+
+.factoringMidashi {
+	font-size: 28px;
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	text-align: center;
+}
+
+.demeritTitle {
+	color: hsla(359,100%,50%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-weight: bold;
+	font-size: 23px;
+	line-height: 2em;
+}
+
+.demeritRead {
+	color: hsla(0,0%,25%,1.00);
+	font-size: 17px;
+	line-height: 1.4em;
+}
+
+.meritRead {
+	font-size: 15px;
+	line-height: 1.4em;
+}
+
+.meritReadTitle {
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 15px;
+	line-height: 1.5em;
+	font-weight: bold;
+}
+
+.importantText {
+	font-size: 23px;
+	font-weight: bold;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+
+.importantRead {
+	color: hsla(0,0%,25%,1.00);
+	font-size: 16px;
+	line-height: 1.4em;
+}
+
+}
+
+@media (min-width:415px) and (max-width:768px){
+
+.oshiharaiRead {
+	font-size: 27px;
+	line-height: 1.4em;
+}
+
+.meritReadTitle {
+	color: hsla(0,0%,25%,1.00);
+	font-family: "ＭＳ ゴシック", "MS Gothic", "Osaka－等幅", Osaka-mono, monospace;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 1.5em;
+}
+
+.demeritTitle {
+	color: hsla(359,100%,50%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 2em;
+}
+
+.importantText {
+	font-size: 28px;
+	font-weight: bold;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+
+.importantRead {
+	color: hsla(0,0%,25%,1.00);
+	font-size: 17px;
+	line-height: 1.5em;
+}
+
+.oshiharai {
+	color: hsla(0,0%,100%,1.00);
+	font-size: 20px;
+	line-height: 2em;
+	text-align: center;
+}
+}
+
+@media (min-width:769px) and (max-width:1024px){
+
+.demeritTitle {
+	color: hsla(359,100%,50%,1.00);
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 2em;
+}
+
+.importantText {
+	font-size: 40px;
+	font-weight: bold;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+
+.importantRead {
+	color: hsla(0,0%,25%,1.00);
+	font-size: 25px;
+	line-height: 1.5em;
+}
+}
+
+@media (min-width:1025px){
+}
