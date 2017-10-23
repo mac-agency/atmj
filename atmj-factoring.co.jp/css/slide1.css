@@ -71,11 +71,11 @@
 }
 .slideShow .mainView .btnPrev {
 	left: 0;
-	/* [disabled]background: #ccc url(../../atmj/img/btnPrev.png) no-repeat center center; */
+	/* [disabled]background: #ccc url(../img/btnPrev.png) no-repeat center center; */
 }
 .slideShow .mainView .btnNext {
 	right: 0;
-	/* [disabled]background: #ccc url(../../atmj/img/btnNext.png) no-repeat center center; */
+	/* [disabled]background: #ccc url(../img/btnNext.png) no-repeat center center; */
 }
  
  

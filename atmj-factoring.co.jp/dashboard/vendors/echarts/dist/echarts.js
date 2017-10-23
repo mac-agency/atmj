@@ -3134,11 +3134,11 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	    function encodeHTML(source) {
 	        return String(source)
-	            .replace(/&/g, '&')
+	            .replace(/&/g, '&amp;')
 	            .replace(/</g, '&lt;')
-	            .replace(/>/g, '>')
-	            .replace(/"/g, '"')
-	            .replace(/'/g, ''');
+	            .replace(/>/g, '&gt;')
+	            .replace(/"/g, '&quot;')
+	            .replace(/'/g, '&#39;');
 	    }
 
 	    var TPL_VAR_ALIAS = ['a', 'b', 'c', 'd', 'e', 'f', 'g'];
@@ -53732,7 +53732,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	            var lang = model.get('lang');
 	            var html = ''
 	                + '<body style="margin:0;">'
-	                + '<img src="../../../../../atmj/dashboard/vendors/echarts/dist/' + url + '" style="max-width:100%;" title="' + ((lang && lang[0]) || '') + '" />'
+	                + '<img src="' + url + '" style="max-width:100%;" title="' + ((lang && lang[0]) || '') + '" />'
 	                + '</body>';
 	            var tab = window.open();
 	            tab.document.write(html);
@@ -55022,7 +55022,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	    };
 
 	    var encodeHtmlAttribute = function (s) {
-	        return String(s).replace(/&/g, '&').replace(/"/g, '"');
+	        return String(s).replace(/&/g, '&amp;').replace(/"/g, '&quot;');
 	    };
 
 	    var rgb2Str = function (r, g, b) {

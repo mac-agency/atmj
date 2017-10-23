@@ -92,7 +92,7 @@
 	border-radius: 50%;
 	box-shadow: 0 1px 2px #c4c4c4;
 
-	background: #ff855f url(../../atmj/images/btn-bg.png) repeat-x top;
+	background: #ff855f url(../images/btn-bg.png) repeat-x top;
 
 	cursor: pointer;
 
@@ -168,22 +168,22 @@
 	font-size: 13px;
 }
 
-.bg-pattern1 {background: #fff url(../../atmj/images/pattern/pattern1.png);}
-.bg-pattern2 {background: #fff url(../../atmj/images/pattern/pattern2.png);}
-.bg-pattern3 {background: #fff url(../../atmj/images/pattern/pattern3.png);}
-.bg-pattern4 {background: #fff url(../../atmj/images/pattern/pattern4.png);}
-.bg-pattern5 {background: #fff url(../../atmj/images/pattern/pattern5.png);}
-.bg-pattern6 {background: #fff url(../../atmj/images/pattern/pattern6.png);}
-.bg-pattern7 {background: #fff url(../../atmj/images/pattern/pattern7.png);}
-.bg-pattern8 {background: #fff url(../../atmj/images/pattern/pattern8.png);}
-.bg-pattern9 {background: #fff url(../../atmj/images/pattern/pattern9.png);}
-.bg-pattern10 {background: #fff url(../../atmj/images/pattern/pattern10.png);}
-.bg-pattern11 {background: #fff url(../../atmj/images/pattern/pattern11.png);}
-.bg-pattern12 {background: #fff url(../../atmj/images/pattern/pattern12.png);}
-.bg-pattern13 {background: #fff url(../../atmj/images/pattern/pattern13.png);}
-.bg-pattern14 {background: #fff url(../../atmj/images/pattern/pattern14.png);}
-.bg-pattern15 {background: #fff url(../../atmj/images/pattern/pattern15.png);}
-.bg-pattern16 {background: #fff url(../../atmj/images/pattern/pattern16.png);}
-.bg-pattern17 {background: #fff url(../../atmj/images/pattern/pattern17.png);}
-.bg-pattern18 {background: #fff url(../../atmj/images/pattern/pattern18.png);}
+.bg-pattern1 {background: #fff url(../images/pattern/pattern1.png);}
+.bg-pattern2 {background: #fff url(../images/pattern/pattern2.png);}
+.bg-pattern3 {background: #fff url(../images/pattern/pattern3.png);}
+.bg-pattern4 {background: #fff url(../images/pattern/pattern4.png);}
+.bg-pattern5 {background: #fff url(../images/pattern/pattern5.png);}
+.bg-pattern6 {background: #fff url(../images/pattern/pattern6.png);}
+.bg-pattern7 {background: #fff url(../images/pattern/pattern7.png);}
+.bg-pattern8 {background: #fff url(../images/pattern/pattern8.png);}
+.bg-pattern9 {background: #fff url(../images/pattern/pattern9.png);}
+.bg-pattern10 {background: #fff url(../images/pattern/pattern10.png);}
+.bg-pattern11 {background: #fff url(../images/pattern/pattern11.png);}
+.bg-pattern12 {background: #fff url(../images/pattern/pattern12.png);}
+.bg-pattern13 {background: #fff url(../images/pattern/pattern13.png);}
+.bg-pattern14 {background: #fff url(../images/pattern/pattern14.png);}
+.bg-pattern15 {background: #fff url(../images/pattern/pattern15.png);}
+.bg-pattern16 {background: #fff url(../images/pattern/pattern16.png);}
+.bg-pattern17 {background: #fff url(../images/pattern/pattern17.png);}
+.bg-pattern18 {background: #fff url(../images/pattern/pattern18.png);}
 

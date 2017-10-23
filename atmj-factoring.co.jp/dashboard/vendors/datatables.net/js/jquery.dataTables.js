@@ -11787,15 +11787,15 @@
 		 *     </li>
 		 *     <li>The following syntax is expected:
 		 *       <ul>
-		 *         <li>'<' and '>' - div elements</li>
-		 *         <li>'<"class" and '>' - div with a class</li>
-		 *         <li>'<"#id" and '>' - div with an ID</li>
+		 *         <li>'&lt;' and '&gt;' - div elements</li>
+		 *         <li>'&lt;"class" and '&gt;' - div with a class</li>
+		 *         <li>'&lt;"#id" and '&gt;' - div with an ID</li>
 		 *       </ul>
 		 *     </li>
 		 *     <li>Examples:
 		 *       <ul>
-		 *         <li>'<"wrapper"flipt>'</li>
-		 *         <li>'<lf<t>ip>'</li>
+		 *         <li>'&lt;"wrapper"flipt&gt;'</li>
+		 *         <li>'&lt;lf&lt;t&gt;ip&gt;'</li>
 		 *       </ul>
 		 *     </li>
 		 *   </ul>
@@ -11809,7 +11809,7 @@
 		 *  @example
 		 *    $(document).ready( function() {
 		 *      $('#example').dataTable( {
-		 *        "dom": '<"top"i>rt<"bottom"flp><"clear">'
+		 *        "dom": '&lt;"top"i&gt;rt&lt;"bottom"flp&gt;&lt;"clear"&gt;'
 		 *      } );
 		 *    } );
 		 */
@@ -12503,7 +12503,7 @@
 		 *          "targets": [ 0 ],
 		 *          "data": "download_link",
 		 *          "render": function ( data, type, full ) {
-		 *            return '<a href="../../../../../atmj/dashboard/vendors/datatables.net/js/'+data+'">Download</a>';
+		 *            return '<a href="'+data+'">Download</a>';
 		 *          }
 		 *        } ]
 		 *      } );
@@ -14140,7 +14140,7 @@
 			 *        }
 			 *
 			 *        // Check prefixed by currency
-			 *        if ( data.charAt(0) == '$' || data.charAt(0) == '£' ) {
+			 *        if ( data.charAt(0) == '$' || data.charAt(0) == '&pound;' ) {
 			 *          return 'currency';
 			 *        }
 			 *        return null;
@@ -14530,7 +14530,7 @@
 	
 							switch ( button ) {
 								case 'ellipsis':
-									container.append('<span class="ellipsis">…</span>');
+									container.append('<span class="ellipsis">&#x2026;</span>');
 									break;
 	
 								case 'first':
@@ -14890,7 +14890,7 @@
 	
 	var __htmlEscapeEntities = function ( d ) {
 		return typeof d === 'string' ?
-			d.replace(/</g, '&lt;').replace(/>/g, '>').replace(/"/g, '"') :
+			d.replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;') :
 			d;
 	};
 	

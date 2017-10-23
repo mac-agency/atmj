@@ -2266,8 +2266,8 @@ input[type="button"].btn-block {
 }
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url('../../../../../../../atmj/dashboard/vendors/parsleyjs/bower_components/bootstrap/fonts/glyphicons-halflings-regular.eot');
-  src: url('../../../../../../../atmj/dashboard/vendors/parsleyjs/bower_components/bootstrap/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../../../../../../../atmj/dashboard/vendors/parsleyjs/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff') format('woff'), url('../../../../../../../atmj/dashboard/vendors/parsleyjs/bower_components/bootstrap/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../../../../../../../atmj/dashboard/vendors/parsleyjs/bower_components/bootstrap/fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
+  src: url('../fonts/glyphicons-halflings-regular.eot');
+  src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
 }
 .glyphicon {
   position: relative;

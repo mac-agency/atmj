@@ -1,4 +1,4 @@
-@import '../../atmj/css/settings-panel.css';
+@import 'settings-panel.css';
 
 html,
 body {
@@ -8,7 +8,7 @@ body {
 
 body {
 	font-family: Open Sans,'Helvetica Neue',Arial,sans-serif;
-	/* [disabled]background: #FFF url("../../atmj/images/pattern/pattern11.png") fixed; */
+	/* [disabled]background: #FFF url("../images/pattern/pattern11.png") fixed; */
 }
 
 a {
@@ -982,43 +982,43 @@ z-index: 999999;
 }
 
 .page_header_parallax {
-	background: #000 url(../../atmj/images/bg/p_header.jpg) no-repeat fixed center;
+	background: #000 url(../images/bg/p_header.jpg) no-repeat fixed center;
 	background-size: cover;
 	padding: 80px 0 80px;
 }
 
 .page_header_parallax2 {
-	background: #000 url(../../atmj/images/bg/p_header2.jpg) no-repeat fixed center;
+	background: #000 url(../images/bg/p_header2.jpg) no-repeat fixed center;
 	background-size: cover;
 	padding: 80px 0 80px;
 }
 
 .page_header_parallax3 {
-	background: #000 url(../../atmj/images/bg/p_header3.jpg) no-repeat fixed center;
+	background: #000 url(../images/bg/p_header3.jpg) no-repeat fixed center;
 	background-size: cover;
 	padding: 80px 0 80px;
 }
 
 .page_header_parallax4 {
-	background: #000 url(../../atmj/images/bg/p_header4.jpg) no-repeat fixed center;
+	background: #000 url(../images/bg/p_header4.jpg) no-repeat fixed center;
 	background-size: cover;
 	padding: 80px 0 80px;
 }
 
 .page_header_parallax5 {
-	background: #000 url(../../atmj/images/bg/p_header5.jpg) no-repeat fixed center;
+	background: #000 url(../images/bg/p_header5.jpg) no-repeat fixed center;
 	background-size: cover;
 	padding: 80px 0 80px;
 }
 
 .page_header_parallax6 {
-	background: #000 url(../../atmj/images/bg/p_header6.jpg) no-repeat fixed center;
+	background: #000 url(../images/bg/p_header6.jpg) no-repeat fixed center;
 	background-size: cover;
 	padding: 80px 0 80px;
 }
 
 .page_header_parallax7 {
-	background: #000 url(../../atmj/images/bg/p_header7.jpg) no-repeat fixed center;
+	background: #000 url(../images/bg/p_header7.jpg) no-repeat fixed center;
 	background-size: cover;
 	padding: 80px 0 80px;
 }
@@ -1046,7 +1046,7 @@ z-index: 999999;
 }
 
 .page_header.career-head {
-	background: #000 url(../../atmj/images/other/career.jpg) no-repeat fixed top center;
+	background: #000 url(../images/other/career.jpg) no-repeat fixed top center;
 	background-position: 0 -35%;
 }
 
@@ -1086,7 +1086,7 @@ height:47px;
 }
 
 footer {
-	background: #282828 url(../../atmj/images/footer-bg.png) no-repeat bottom right;
+	background: #282828 url(../images/footer-bg.png) no-repeat bottom right;
 	background-size: 80%;
 	/* [disabled]padding-top: 50px; */
 	padding-right: 0;
@@ -2301,13 +2301,13 @@ margin-left:85px;
 }
 
 .parallax-bg1 {
-	background: url(../../atmj/images/bg/parallax/1.jpg) no-repeat center center fixed  !important;
+	background: url(../images/bg/parallax/1.jpg) no-repeat center center fixed !important;
 	position: relative;
 	background-size: cover !important;
 }
 
 .parallax-bg2 {
-	background: url(../../atmj/images/bg/parallax/2.jpg) no-repeat center center fixed  !important;
+	background: url(../images/bg/parallax/2.jpg) no-repeat center center fixed !important;
 	position: relative;
 	background-size: cover !important;
 }
@@ -2315,87 +2315,87 @@ margin-left:85px;
 .parallax-bg3 {
 	background-repeat: no-repeat;
 	background-position: center center fixed;
-	background-image: url(../../atmj/images/bg/parallax/bg1.jpg);
+	background-image: url(../images/bg/parallax/bg1.jpg);
 	background-attachment: fixed;
 	position: relative;
 	background-size: cover !important;
 }
 
 .parallax-bg4 {
-	background: url(../../atmj/images/bg/parallax/4.jpg) no-repeat center center fixed  !important;
+	background: url(../images/bg/parallax/4.jpg) no-repeat center center fixed !important;
 	position: relative;
 	background-size: cover !important;
 }
 
 .parallax-bg5 {
-	background: url(../../atmj/images/bg/parallax/5.jpg) no-repeat center center fixed  !important;
+	background: url(../images/bg/parallax/5.jpg) no-repeat center center fixed !important;
 	position: relative;
 	background-size: cover !important;
 }
 
 .parallax-bg6 {
-	background: url(../../atmj/images/bg/parallax/6.jpg) no-repeat center center fixed  !important;
+	background: url(../images/bg/parallax/6.jpg) no-repeat center center fixed !important;
 	position: relative;
 	background-size: cover !important;
 }
 
 #one-res .parallax-bg5 {
-	background: url(../../atmj/images/onepage/3/5.jpg) no-repeat center center fixed  !important;
+	background: url(../images/onepage/3/5.jpg) no-repeat center center fixed !important;
 	position: relative;
 	background-size: cover !important;
 }
 
 #one-res .parallax-bg6 {
-	background: url(../../atmj/images/onepage/3/7.jpg) no-repeat center center fixed  !important;
+	background: url(../images/onepage/3/7.jpg) no-repeat center center fixed !important;
 	position: relative;
 	background-size: cover !important;
 }
 
 #one-res .parallax-bg1 {
-	background: url(../../atmj/images/onepage/3/9.jpg) no-repeat center center fixed  !important;
+	background: url(../images/onepage/3/9.jpg) no-repeat center center fixed !important;
 	position: relative;
 	background-size: cover !important;
 }
 
 #one-medical .parallax-bg2 {
-	background: url(../../atmj/images/onepage/4/3.jpg) fixed  !important;
+	background: url(../images/onepage/4/3.jpg) fixed !important;
 	position: relative;
 	background-size: auto !important;
 }
 
 #one-law .parallax-bg2 {
-	background: url(../../atmj/images/onepage/4/3.jpg) fixed  !important;
+	background: url(../images/onepage/4/3.jpg) fixed !important;
 	position: relative;
 	background-size: auto !important;
 }
 
 #one-hosting .parallax-bg2 {
-	background: url(../../atmj/images/onepage/4/3.jpg) fixed  !important;
+	background: url(../images/onepage/4/3.jpg) fixed !important;
 	position: relative;
 	background-size: auto !important;
 }
 
 
 #one-medical .parallax-bg3 {
-	background: url(../../atmj/images/onepage/4/1.jpg) no-repeat center center fixed  !important;
+	background: url(../images/onepage/4/1.jpg) no-repeat center center fixed !important;
 	position: relative;
 	background-size: cover !important;
 }
 
 #one-charity .parallax-bg5 {
-	background: url(../../atmj/images/onepage/5/volunter.jpg) no-repeat bottom center fixed  !important;
+	background: url(../images/onepage/5/volunter.jpg) no-repeat bottom center fixed !important;
 	position: relative;
 	background-size: cover !important;
 }
 
 #one-gym .parallax-bg5 {
-	background: url(../../atmj/images/onepage/6/5.jpg) no-repeat bottom center fixed  !important;
+	background: url(../images/onepage/6/5.jpg) no-repeat bottom center fixed !important;
 	position: relative;
 	background-size: cover !important;
 }
 
 #one-gym .parallax-bg2 {
-	background: url(../../atmj/images/onepage/6/6.jpg) no-repeat bottom center fixed  !important;
+	background: url(../images/onepage/6/6.jpg) no-repeat bottom center fixed !important;
 	position: relative;
 	background-size: cover !important;
 }
@@ -2413,11 +2413,11 @@ margin-left:85px;
 }
 
 .pattern-bg1 {
-	background: url(../../atmj/images/bg/pattern/1.png) repeat fixed  !important;
+	background: url(../images/bg/pattern/1.png) repeat fixed !important;
 }
 
 .pattern-bg2 {
-	background: url(../../atmj/images/bg/pattern/2.png) repeat fixed  !important;
+	background: url(../images/bg/pattern/2.png) repeat fixed !important;
 }
 
 .stats3-info i {
@@ -3507,7 +3507,7 @@ footer p {
 }
 
 .c-info {
-	background: transparent url("../../atmj/images/map.png") no-repeat scroll left bottom / 55% auto;
+	background: transparent url("../images/map.png") no-repeat scroll left bottom / 55% auto;
 	background-position: 0 100%;
 	overflow: visible;
 	/* [disabled]padding-bottom: 78px; */
@@ -3609,7 +3609,7 @@ transition:.4s;
 .f-subscribe small {
 	width: 85px;
 	height: 76px;
-	background: transparent url("../../atmj/images/bubble.png") no-repeat scroll center center;
+	background: transparent url("../images/bubble.png") no-repeat scroll center center;
 	display: table;
 	border-radius: 50%;
 	float: left;
@@ -3660,7 +3660,7 @@ transition:.4s;
 .f-tweet small {
 	width: 85px;
 	height: 76px;
-	background: transparent url("../../atmj/images/bubble.png") no-repeat scroll center center;
+	background: transparent url("../images/bubble.png") no-repeat scroll center center;
 	display: table;
 	border-radius: 50%;
 	float: left;
@@ -5074,7 +5074,7 @@ color:#8dc73f;
 
 #about-section2 .content-tab {
 	padding-top: 65px;
-	background: url('../../atmj/images/bg/parallax/4.jpg') center top fixed;
+	background: url('../images/bg/parallax/4.jpg') center top fixed;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -5687,7 +5687,7 @@ top:2px;
 }
 
 .intro-wrap {
-	background:url(../../atmj/images/slider/9.jpg) no-repeat center;
+	background:url(../images/slider/9.jpg) no-repeat center;
 	background-size:cover;
 }
 

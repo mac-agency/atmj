@@ -5,9 +5,9 @@
   <head>
     <title>Javascript code prettifier</title>
 
-    <link href="../../../../atmj/dashboard/vendors/google-code-prettify/src/prettify.css" type="text/css" rel="stylesheet" />
+    <link href="src/prettify.css" type="text/css" rel="stylesheet" />
 
-    <script src="../../../../atmj/dashboard/vendors/google-code-prettify/src/prettify.js" type="text/javascript"></script>
+    <script src="src/prettify.js" type="text/javascript"></script>
 
     <style type="text/css">
       body { margin-left: .5in }
@@ -17,7 +17,7 @@
   </head>
 
   <body onload="prettyPrint()" bgcolor="white">
-    <small style="float: right">Languages : <a href="../../../../atmj/dashboard/vendors/google-code-prettify/README-zh-Hans.html">CH</a></small>
+    <small style="float: right">Languages : <a href="README-zh-Hans.html">CH</a></small>
     <h1>Javascript code prettifier</h1>
 
     <h2>Setup</h2>
@@ -131,11 +131,11 @@ public:
 
     <h3>Which browsers does it work with?</h3>
     <p>It's been tested with IE 6, Firefox 1.5 &amp; 2, and Safari 2.0.4.
-    Look at <a href="../../../../atmj/dashboard/vendors/google-code-prettify/tests/prettify_test.html">the test page</a> to see if it
+    Look at <a href="tests/prettify_test.html">the test page</a> to see if it
     works in your browser.</p>
 
     <h3>What's changed?</h3>
-    <p>See the <a href="../../../../atmj/dashboard/vendors/google-code-prettify/CHANGES.html">change log</a></p>
+    <p>See the <a href="CHANGES.html">change log</a></p>
 
     <h3>Why doesn't Prettyprinting of strings work on WordPress?</h3>
     <p>Apparently wordpress does "smart quoting" which changes close quotes.
@@ -189,7 +189,7 @@ int y = bar();
 </pre>
 
     <p>For a more complete example see the issue22
-    <a href="../../../../atmj/dashboard/vendors/google-code-prettify/tests/prettify_test.html#issue22">testcase</a>.</p>
+    <a href="tests/prettify_test.html#issue22">testcase</a>.</p>
 
     <h3>I get an error message "a is not a function" or "opt_whenDone is not a function"</h3>
     <p>If you are calling <code>prettyPrint</code> via an event handler, wrap it in a function.

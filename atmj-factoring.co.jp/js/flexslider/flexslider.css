@@ -87,7 +87,7 @@ html[xmlns] .slides {display: block;}
 #psingle-slider .flex-direction-nav .flex-disabled { opacity: 0!important; filter:alpha(opacity=0); cursor: default; }
 #psingle-slider .flex-direction-nav a.flex-next:before  { content: '\f054'; }
 #psingle-slider .flex-direction-nav .flex-prev:hover ,#psingle-slider .flex-direction-nav .flex-next:hover {
-background:url(../../../atmj/images/before.png) no-repeat top right;
+background:url(../../images/before.png) no-repeat top right;
 background-color: #1b9cff;
  -webkit-transition: all 0s ease-in-out;
   -moz-transition: all 0s ease-in-out;
@@ -107,7 +107,7 @@ background-color: #1b9cff;
 #post-slider .flex-direction-nav .flex-disabled { opacity: 0!important; filter:alpha(opacity=0); cursor: default; }
 #post-slider .flex-direction-nav a.flex-next:before  { content: '\f054'; }
 #post-slider .flex-direction-nav .flex-prev:hover ,#post-slider .flex-direction-nav .flex-next:hover {
-background:url(../../../atmj/images/before.png) no-repeat top right;
+background:url(../../images/before.png) no-repeat top right;
 background-color: #1b9cff;
  -webkit-transition: all 0s ease-in-out;
   -moz-transition: all 0s ease-in-out;

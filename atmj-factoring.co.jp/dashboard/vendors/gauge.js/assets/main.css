@@ -2,7 +2,7 @@ html, body {
   margin: 0;
 }
 html {
-  background: url(../../../../../atmj/dashboard/vendors/gauge.js/assets/bg.png);
+  background: url(bg.png);
 }
 body {
   color: #333;
@@ -38,7 +38,7 @@ ul {
   width: 100%;
 }
 #footer a.github {
-   background: url(../../../../../atmj/dashboard/vendors/gauge.js/assets/github.gif) no-repeat;
+   background: url(github.gif) no-repeat;
    width: 68px;
    height: 30px;
    text-indent: -999em;
@@ -110,7 +110,7 @@ h3 {
   position: absolute;
   top: 0;
   left: 0;
-  background: url(../../../../../atmj/dashboard/vendors/gauge.js/assets/bg.png) -100px 0;
+  background: url(bg.png) -100px 0;
   width: 240px;
   height: 85px;
 }
@@ -127,7 +127,7 @@ h3 {
   right: 0;
   width: 149px;
   height: 149px;
-  background:url(../../../../../atmj/dashboard/vendors/gauge.js/assets/ribbon.png);
+  background:url(ribbon.png);
   _background: none;
   _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=ribbon.png);
 }
@@ -241,7 +241,7 @@ input.color{
   -webkit-user-select: none;
   -o-user-select: none;
   user-select: none;
-  background: url(../../../../../atmj/dashboard/vendors/gauge.js/assets/strike.png);
+  background: url(strike.png);
   width: 347px; height: 248px;
 }
 #its-coffee{

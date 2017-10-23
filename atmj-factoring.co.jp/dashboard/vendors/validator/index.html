@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Total Form Validation</title>
     <meta name="viewport" content="width=device-width, user-scalable=no">
-	<link rel="stylesheet" href="../../../../atmj/dashboard/vendors/validator/fv.css" type="text/css" />
+	<link rel="stylesheet" href="fv.css" type="text/css" />
 	<!--[if IE]>
 	<style>
 		.item .tooltip .content{ display:none; opacity:1; }
@@ -195,7 +195,7 @@
 					<div class="item">
 						<label>
 							<span>message</span>
-							<textarea required name='message'></textarea>
+							<textarea required="required" name='message'></textarea>
 						</label>
 					</div>
 				</fieldset>
@@ -208,8 +208,8 @@
 		</section>
 	</div>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <script src="../../../../atmj/dashboard/vendors/validator/multifield.js"></script>
-    <script src="../../../../atmj/dashboard/vendors/validator/validator.js"></script>
+    <script src="multifield.js"></script>
+    <script src="validator.js"></script>
 	<script>
 		// initialize the validator function
 		validator.message['date'] = 'not a real date';

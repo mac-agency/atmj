@@ -8,7 +8,7 @@
 
   <p>
     Select2 supports custom themes using the
-    <a href="../../../../../../../atmj/dashboard/vendors/select2/docs/_includes/examples/options.html#theme">theme option</a>
+    <a href="options.html#theme">theme option</a>
     so you can style Select2 to match the rest of your application.
   </p>
 
@@ -48,8 +48,8 @@ $(".js-example-theme-multiple").select2({
 
 <p>
   Templating is primarily controlled by the
-  <a href="../../../../../../../atmj/dashboard/vendors/select2/docs/_includes/examples/options.html#templateResult"><code>templateResult</code></a>
-  and <a href="../../../../../../../atmj/dashboard/vendors/select2/docs/_includes/examples/options.html#templateSelection"><code>templateSelection</code></a>
+  <a href="options.html#templateResult"><code>templateResult</code></a>
+  and <a href="options.html#templateSelection"><code>templateSelection</code></a>
   options.
 </p>
 
@@ -63,7 +63,7 @@ $(".js-example-theme-multiple").select2({
 function formatState (state) {
   if (!state.id) { return state.text; }
   var $state = $(
-    '<span><img src="../../../../../../../atmj/dashboard/vendors/select2/docs/_includes/examples/vendor/images/flags/' + state.element.value.toLowerCase() + '.png" class="img-flag" /> ' + state.text + '</span>'
+    '<span><img src="vendor/images/flags/' + state.element.value.toLowerCase() + '.png" class="img-flag" /> ' + state.text + '</span>'
   );
   return $state;
 };

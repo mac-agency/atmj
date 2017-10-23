@@ -52,7 +52,7 @@ define(function (require) {
             var lang = model.get('lang');
             var html = ''
                 + '<body style="margin:0;">'
-                + '<img src="../../../../../../../../atmj/dashboard/vendors/echarts/src/component/toolbox/feature/' + url + '" style="max-width:100%;" title="' + ((lang && lang[0]) || '') + '" />'
+                + '<img src="' + url + '" style="max-width:100%;" title="' + ((lang && lang[0]) || '') + '" />'
                 + '</body>';
             var tab = window.open();
             tab.document.write(html);

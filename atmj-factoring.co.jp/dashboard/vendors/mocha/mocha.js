@@ -89,10 +89,10 @@ var JsDiff = (function() {
   }
   function escapeHTML(s) {
     var n = s;
-    n = n.replace(/&/g, '&');
+    n = n.replace(/&/g, '&amp;');
     n = n.replace(/</g, '&lt;');
-    n = n.replace(/>/g, '>');
-    n = n.replace(/"/g, '"');
+    n = n.replace(/>/g, '&gt;');
+    n = n.replace(/"/g, '&quot;');
 
     return n;
   }
@@ -2646,7 +2646,7 @@ function HTML(runner, root) {
 
     // suite
     var url = self.suiteURL(suite);
-    var el = fragment('<li class="suite"><h1><a href="../../../../atmj/dashboard/vendors/mocha/%s">%s</a></h1></li>', url, escape(suite.title));
+    var el = fragment('<li class="suite"><h1><a href="%s">%s</a></h1></li>', url, escape(suite.title));
 
     // container
     stack[0].appendChild(el);
@@ -2677,11 +2677,11 @@ function HTML(runner, root) {
     // test
     if ('passed' == test.state) {
       var url = self.testURL(test);
-      var el = fragment('<li class="test pass %e"><h2>%e<span class="duration">%ems</span> <a href="../../../../atmj/dashboard/vendors/mocha/%s" class="replay">‣</a></h2></li>', test.speed, test.title, test.duration, url);
+      var el = fragment('<li class="test pass %e"><h2>%e<span class="duration">%ems</span> <a href="%s" class="replay">‣</a></h2></li>', test.speed, test.title, test.duration, url);
     } else if (test.pending) {
       var el = fragment('<li class="test pass pending"><h2>%e</h2></li>', test.title);
     } else {
-      var el = fragment('<li class="test fail"><h2>%e <a href="../../../../atmj/dashboard/vendors/mocha/?grep=%e" class="replay">‣</a></h2></li>', test.title, encodeURIComponent(test.fullTitle()));
+      var el = fragment('<li class="test fail"><h2>%e <a href="?grep=%e" class="replay">‣</a></h2></li>', test.title, encodeURIComponent(test.fullTitle()));
       var str = test.err.stack || test.err.toString();
 
       // FF / Opera do not add the message
@@ -5382,10 +5382,10 @@ var ignore = ['node_modules', '.git'];
 
 exports.escape = function(html){
   return String(html)
-    .replace(/&/g, '&')
-    .replace(/"/g, '"')
+    .replace(/&/g, '&amp;')
+    .replace(/"/g, '&quot;')
     .replace(/</g, '&lt;')
-    .replace(/>/g, '>');
+    .replace(/>/g, '&gt;');
 };
 
 /**
@@ -5634,7 +5634,7 @@ exports.parseQuery = function(qs){
 function highlight(js) {
   return js
     .replace(/</g, '&lt;')
-    .replace(/>/g, '>')
+    .replace(/>/g, '&gt;')
     .replace(/\/\/(.*)/gm, '<span class="comment">//$1</span>')
     .replace(/('.*?')/gm, '<span class="string">$1</span>')
     .replace(/(\d+\.\d+)/gm, '<span class="number">$1</span>')

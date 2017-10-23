@@ -2380,7 +2380,7 @@ function HTML(runner) {
 
     // suite
     var url = self.suiteURL(suite);
-    var el = fragment('<li class="suite"><h1><a href="../../../../../../atmj/dashboard/vendors/parsleyjs/bower_components/mocha/%s">%s</a></h1></li>', url, escape(suite.title));
+    var el = fragment('<li class="suite"><h1><a href="%s">%s</a></h1></li>', url, escape(suite.title));
 
     // container
     stack[0].appendChild(el);
@@ -2418,11 +2418,11 @@ function HTML(runner) {
     var el;
     if (test.state === 'passed') {
       var url = self.testURL(test);
-      el = fragment('<li class="test pass %e"><h2>%e<span class="duration">%ems</span> <a href="../../../../../../atmj/dashboard/vendors/parsleyjs/bower_components/mocha/%s" class="replay">‣</a></h2></li>', test.speed, test.title, test.duration, url);
+      el = fragment('<li class="test pass %e"><h2>%e<span class="duration">%ems</span> <a href="%s" class="replay">‣</a></h2></li>', test.speed, test.title, test.duration, url);
     } else if (test.pending) {
       el = fragment('<li class="test pass pending"><h2>%e</h2></li>', test.title);
     } else {
-      el = fragment('<li class="test fail"><h2>%e <a href="../../../../../../atmj/dashboard/vendors/parsleyjs/bower_components/mocha/%e" class="replay">‣</a></h2></li>', test.title, self.testURL(test));
+      el = fragment('<li class="test fail"><h2>%e <a href="%e" class="replay">‣</a></h2></li>', test.title, self.testURL(test));
       var stackString; // Note: Includes leading newline
       var message = test.err.toString();
 
@@ -5513,10 +5513,10 @@ exports.inherits = require('util').inherits;
  */
 exports.escape = function(html) {
   return String(html)
-    .replace(/&/g, '&')
-    .replace(/"/g, '"')
+    .replace(/&/g, '&amp;')
+    .replace(/"/g, '&quot;')
     .replace(/</g, '&lt;')
-    .replace(/>/g, '>');
+    .replace(/>/g, '&gt;');
 };
 
 /**
@@ -5795,7 +5795,7 @@ exports.parseQuery = function(qs) {
 function highlight(js) {
   return js
     .replace(/</g, '&lt;')
-    .replace(/>/g, '>')
+    .replace(/>/g, '&gt;')
     .replace(/\/\/(.*)/gm, '<span class="comment">//$1</span>')
     .replace(/('.*?')/gm, '<span class="string">$1</span>')
     .replace(/(\d+\.\d+)/gm, '<span class="number">$1</span>')
@@ -11424,10 +11424,10 @@ function hasOwnProperty(obj, prop) {
   }
   function escapeHTML(s) {
     var n = s;
-    n = n.replace(/&/g, '&');
+    n = n.replace(/&/g, '&amp;');
     n = n.replace(/</g, '&lt;');
-    n = n.replace(/>/g, '>');
-    n = n.replace(/"/g, '"');
+    n = n.replace(/>/g, '&gt;');
+    n = n.replace(/"/g, '&quot;');
 
     return n;
   }

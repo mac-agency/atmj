@@ -2012,7 +2012,7 @@ QUnit.dump = ( function() {
 			},
 
 			separator: function() {
-				return this.multiline ? this.HTML ? "<br />" : "\n" : this.HTML ? " " : " ";
+				return this.multiline ? this.HTML ? "<br />" : "\n" : this.HTML ? "&#160;" : " ";
 			},
 
 			// Extra can be a number, shortcut for increasing-calling-decreasing
@@ -2022,7 +2022,7 @@ QUnit.dump = ( function() {
 				}
 				var chr = this.indentChar;
 				if ( this.HTML ) {
-					chr = chr.replace( /\t/g, "   " ).replace( / /g, " " );
+					chr = chr.replace( /\t/g, "   " ).replace( / /g, "&#160;" );
 				}
 				return new Array( this.depth + ( extra || 0 ) ).join( chr );
 			},
@@ -2104,8 +2104,8 @@ QUnit.dump = ( function() {
 				},
 				node: function( node ) {
 					var len, i, val,
-						open = dump.HTML ? "<" : "<",
-						close = dump.HTML ? ">" : ">",
+						open = dump.HTML ? "&lt;" : "<",
+						close = dump.HTML ? "&gt;" : ">",
 						tag = node.nodeName.toLowerCase(),
 						ret = open + tag,
 						attrs = node.attributes;
@@ -2410,15 +2410,15 @@ function escapeText( s ) {
 	return s.replace( /['"<>&]/g, function( s ) {
 		switch ( s ) {
 		case "'":
-			return "'";
+			return "&#039;";
 		case "\"":
-			return """;
+			return "&quot;";
 		case "<":
-			return "<";
+			return "&lt;";
 		case ">":
-			return ">";
+			return "&gt;";
 		case "&":
-			return "&";
+			return "&amp;";
 		}
 	} );
 }
@@ -2738,7 +2738,7 @@ function appendHeader() {
 	var header = id( "qunit-header" );
 
 	if ( header ) {
-		header.innerHTML = "<a href='../../../../../../atmj/dashboard/vendors/select2/tests/vendor/" + escapeText( unfilteredUrl ) + "'>" + header.innerHTML +
+		header.innerHTML = "<a href='" + escapeText( unfilteredUrl ) + "'>" + header.innerHTML +
 			"</a> ";
 	}
 }
@@ -2765,7 +2765,7 @@ function appendTestResults() {
 		result.id = "qunit-testresult";
 		result.className = "result";
 		tests.parentNode.insertBefore( result, tests );
-		result.innerHTML = "Running...<br /> ";
+		result.innerHTML = "Running...<br />&#160;";
 	}
 }
 
@@ -2783,7 +2783,7 @@ function appendFilteredTest() {
 	}
 	return "<div id='qunit-filteredTest'>Rerunning selected tests: " +
 		escapeText( testId.join( ", " ) ) +
-		" <a id='qunit-clearFilter' href='../../../../../../atmj/dashboard/vendors/select2/tests/vendor/" +
+		" <a id='qunit-clearFilter' href='" +
 		escapeText( unfilteredUrl ) +
 		"'>Run all tests</a></div>";
 }
@@ -2981,7 +2981,7 @@ QUnit.testStart( function( details ) {
 function stripHtml( string ) {
 
 	// Strip tags, html entity and whitespaces
-	return string.replace( /<\/?[^>]+(>|$)/g, "" ).replace( /\"/g, "" ).replace( /\s+/g, "" );
+	return string.replace( /<\/?[^>]+(>|$)/g, "" ).replace( /\&quot;/g, "" ).replace( /\s+/g, "" );
 }
 
 QUnit.log( function( details ) {

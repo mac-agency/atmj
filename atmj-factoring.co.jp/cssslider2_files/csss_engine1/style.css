@@ -3,11 +3,11 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 @font-face {
 	font-family: "cs-ctrl-basic";
-	src: url("../../../atmj/cssslider2_files/csss_engine1/cs-ctrl-basic.eot");
-	src: url("../../../atmj/cssslider2_files/csss_engine1/cs-ctrl-basic.eot#iefix") format("embedded-opentype"),
-url("../../../atmj/cssslider2_files/csss_engine1/cs-ctrl-basic.woff") format("woff"),
-url("../../../atmj/cssslider2_files/csss_engine1/cs-ctrl-basic.ttf") format("truetype"),
-url("../../../atmj/cssslider2_files/csss_engine1/cs-ctrl-basic.svg#basic") format("svg");
+	src: url("cs-ctrl-basic.eot");
+	src: url("cs-ctrl-basic.eot#iefix") format("embedded-opentype"),
+			url("cs-ctrl-basic.woff") format("woff"),
+			url("cs-ctrl-basic.ttf") format("truetype"),
+			url("cs-ctrl-basic.svg#basic") format("svg");
 	font-weight: normal;
 	font-style: normal;
 }

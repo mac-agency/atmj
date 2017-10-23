@@ -368,7 +368,7 @@
 
 						if (container.data('aimg')!=undefined) {
 							if ((container.data('aie8')=="enabled" && isIE(8)) || (container.data('amobile')=="enabled" && is_mobile()))
-								container.html('<img class="tp-slider-alternative-image" src="../../../../atmj/js/rs-plugin/js/'+container.data("aimg")+'">');
+								container.html('<img class="tp-slider-alternative-image" src="'+container.data("aimg")+'">');
 						}
 						// PREPARE FALL BACK SETTINGS
 						if (opt.navigationStyle=="preview1" ||  opt.navigationStyle=="preview3" || opt.navigationStyle=="preview4") {
@@ -1805,7 +1805,7 @@
 
 				if (isIE(8)) {
 					pari.find('.tp-bgimg').css({backgroundImage:"none",'background-image':'none'});
-					pari.find('.tp-bgimg').append('<img class="ieeightfallbackimage defaultimg" src="../../../../atmj/js/rs-plugin/js/'+src+'" style="width:100%">');
+					pari.find('.tp-bgimg').append('<img class="ieeightfallbackimage defaultimg" src="'+src+'" style="width:100%">');
 				}
 
 				img.css({'opacity':0});
@@ -1926,7 +1926,7 @@
 
 								if (isIE(8)) {
 
-									sh.find('.slot ').last().find('.slotslide').append('<img src="../../../../atmj/js/rs-plugin/js/'+imgsrc+'">');
+									sh.find('.slot ').last().find('.slotslide').append('<img src="'+imgsrc+'">');
 									ieimgposition(sh,opt);
 								}
 
@@ -1968,7 +1968,7 @@
 									if (scalestart!=undefined && rotatestart!=undefined)
 										punchgs.TweenLite.set(sh.find('.slot').last(),{rotationZ:rotatestart});
 									if (isIE(8)) {
-									   sh.find('.slot ').last().find('.slotslide').append('<img class="ieeightfallbackimage" src="../../../../atmj/js/rs-plugin/js/'+imgsrc+'" style="width:100%;height:auto">');
+									   sh.find('.slot ').last().find('.slotslide').append('<img class="ieeightfallbackimage" src="'+imgsrc+'" style="width:100%;height:auto">');
 									   ieimgposition(sh,opt);
 								}
 							}
@@ -2000,7 +2000,7 @@
 									if (scalestart!=undefined && rotatestart!=undefined)
 										punchgs.TweenLite.set(sh.find('.slot').last(),{rotationZ:rotatestart});
 									if (isIE(8)) {
-								    	sh.find('.slot ').last().find('.slotslide').append('<img class="ieeightfallbackimage" src="../../../../atmj/js/rs-plugin/js/'+imgsrc+'" style="width:100%;height:auto;">');
+								    	sh.find('.slot ').last().find('.slotslide').append('<img class="ieeightfallbackimage" src="'+imgsrc+'" style="width:100%;height:auto;">');
 								    	ieimgposition(sh,opt);
 									}
 							}
@@ -3925,18 +3925,18 @@
 											if (videocontrols!="controls") videocontrols="";
 											var apptxt = '<video style="visible:hidden" class="" '+videoloop+' preload="'+videopreload+'" width="'+vidw+'" height="'+vidh+'"';
 											/*if (nextcaption.data('videoposter')!=undefined)
-												apptxt = apptxt + 'poster="../../../../atmj/js/rs-plugin/js/'+nextcaption.data('videoposter')+'">';
-												apptxt = apptxt + '<source src="../../../../atmj/js/rs-plugin/js/'+videomp+'" type="video/mp4" />';
-												apptxt = apptxt + '<source src="../../../../atmj/js/rs-plugin/js/'+videowebm+'" type="video/webm" />';
-												apptxt = apptxt + '<source src="../../../../atmj/js/rs-plugin/js/'+videoogv+'" type="video/ogg" />';
+												apptxt = apptxt + 'poster="'+nextcaption.data('videoposter')+'">';
+												apptxt = apptxt + '<source src="'+videomp+'" type="video/mp4" />';
+												apptxt = apptxt + '<source src="'+videowebm+'" type="video/webm" />';
+												apptxt = apptxt + '<source src="'+videoogv+'" type="video/ogg" />';
 												apptxt = apptxt + '</video>';
 											nextcaption.append(apptxt);*/
 											
 											if (nextcaption.data('videoposter')!=undefined)
 												if (nextcaption.data('videoposter') != undefined) apptxt = apptxt + 'poster="'+nextcaption.data('videoposter')+'">';
-												if (videowebm!=undefined && get_browser().toLowerCase()=="firefox") apptxt = apptxt + '<source src="../../../../atmj/js/rs-plugin/js/'+videowebm+'" type="video/webm" />';
-												if (videomp!=undefined) apptxt = apptxt + '<source src="../../../../atmj/js/rs-plugin/js/'+videomp+'" type="video/mp4" />';
-												if (videoogv!=undefined) apptxt = apptxt + '<source src="../../../../atmj/js/rs-plugin/js/'+videoogv+'" type="video/ogg" />';
+												if (videowebm!=undefined && get_browser().toLowerCase()=="firefox") apptxt = apptxt + '<source src="'+videowebm+'" type="video/webm" />';
+												if (videomp!=undefined) apptxt = apptxt + '<source src="'+videomp+'" type="video/mp4" />';
+												if (videoogv!=undefined) apptxt = apptxt + '<source src="'+videoogv+'" type="video/ogg" />';
 												apptxt = apptxt + '</video>';
 											nextcaption.append(apptxt);
 
@@ -5745,7 +5745,7 @@
 			nextsh.find('.defaultimg').each(function() {
 				var defimg = jQuery(this);
 				if (nextsh.find('.kenburnimg').length==0)
-					nextsh.append('<div class="kenburnimg" style="position:absolute;z-index:1;width:100%;height:100%;top:0px;left:0px;"><img src="../../../../atmj/js/rs-plugin/js/'+defimg.attr('src')+'" style="-webkit-touch-callout: none;-webkit-user-select: none;-khtml-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;position:absolute;width:'+imgobj.w+'%;height:'+imgobj.h+'%;"></div>');
+					nextsh.append('<div class="kenburnimg" style="position:absolute;z-index:1;width:100%;height:100%;top:0px;left:0px;"><img src="'+defimg.attr('src')+'" style="-webkit-touch-callout: none;-webkit-user-select: none;-khtml-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;position:absolute;width:'+imgobj.w+'%;height:'+imgobj.h+'%;"></div>');
 				else {
 					nextsh.find('.kenburnimg img').css({width:imgobj.w+'%',height:imgobj.h+'%'});
 				}
@@ -6112,7 +6112,7 @@
 								var src=li.find("img:first").attr('src');
 
 
-							bullets.append('<div class="bullet thumb" style="background-color:'+bgcolor+';position:relative;width:'+opt.thumbWidth+'px;height:'+opt.thumbHeight+'px;background-image:url('../../../../atmj/js/rs-plugin/js/+src+') !important;background-size:cover;background-position:center center;"></div>');
+							bullets.append('<div class="bullet thumb" style="background-color:'+bgcolor+';position:relative;width:'+opt.thumbWidth+'px;height:'+opt.thumbHeight+'px;background-image:url('+src+') !important;background-size:cover;background-position:center center;"></div>');
 							var bullet= bullets.find('.bullet:first');
 				});
 			//bullets.append('<div style="clear:both"></div>');
@@ -6258,8 +6258,8 @@
 function revslider_showDoubleJqueryError(sliderID) {
 	var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
 	errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
-	errorMessage += "<br><br> To fix it you can:<br>    1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
-	errorMessage += "<br>    2. Find the double jquery.js include and remove it.";
+	errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+	errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
 	errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>"
 		jQuery(sliderID).show().html(errorMessage);
 }

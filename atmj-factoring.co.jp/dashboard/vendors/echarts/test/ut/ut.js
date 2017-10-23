@@ -1,4 +1,4 @@
-document.write('<script src="../../../../../../atmj/dashboard/vendors/echarts/test/ut/core/utHelper.js"><\/script>');
+document.write('<script src="core/utHelper.js"><\/script>');
 
 // Specs ...
 document.write('<script src="spec/util/graphic.js"><\/script>');
