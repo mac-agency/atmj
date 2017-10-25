@@ -38,6 +38,13 @@
 	line-height: 1.8em;
 	font-size: 18px;
 }
+.messageIntro2 {
+	color: hsla(0,0%,26%,1.00);
+	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+	font-weight: normal;
+	line-height: 1.5em;
+	font-size: 15px;
+}
 
 .logoRead {
 	color: hsla(0,0%,32%,1.00);
