@@ -929,7 +929,7 @@ background: linear-gradient(#0cdb00, #169900);
 }
 
 .newsBg {
-	background-color: hsla(218,53%,91%,1.00);
+  background-color: hsla(0,0%,100%,1.00);
 }
 
 .newsDate {
@@ -969,16 +969,17 @@ background: linear-gradient(#0cdb00, #169900);
 	padding: 5px 10px;
 }
 .newsDate3 {
-	margin-top: 10px;
-	margin-bottom: 10px;
-	color: hsla(0,0%,100%,1.00);
-	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
-	font-size: 16px;
-	text-align: center;
-	background-color: #0071BC;
-	margin-left: 10px;
-	line-height: 3em;
-	padding: 5px 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: hsla(0,0%,100%,1.00);
+  font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  font-size: 14px;
+  text-align: center;
+  background-color: #0071BC;
+  margin-left: 10px;
+  line-height: 2.8em;
+  padding: 7px 10px;
+  border-radius: 5px;
 }
 
 .newsContent {
@@ -1007,23 +1008,20 @@ background: linear-gradient(#0cdb00, #169900);
 }
 
 .graOrange {
-background : -moz-linear-gradient(0% 50% 0deg,rgba(231, 56, 40, 1) 0%,rgba(235, 96, 43, 1) 42.52%,rgba(240, 147, 46, 1) 100%);
-  background : -webkit-linear-gradient(0deg, rgba(231, 56, 40, 1) 0%, rgba(235, 96, 43, 1) 42.52%, rgba(240, 147, 46, 1) 100%);
-  background : -webkit-gradient(linear,0% 50% ,100% 50% ,color-stop(0,rgba(231, 56, 40, 1) ),color-stop(0.4252,rgba(235, 96, 43, 1) ),color-stop(1,rgba(240, 147, 46, 1) ));
-  background : -o-linear-gradient(0deg, rgba(231, 56, 40, 1) 0%, rgba(235, 96, 43, 1) 42.52%, rgba(240, 147, 46, 1) 100%);
-  background : -ms-linear-gradient(0deg, rgba(231, 56, 40, 1) 0%, rgba(235, 96, 43, 1) 42.52%, rgba(240, 147, 46, 1) 100%);
-  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#E73828', endColorstr='#F0932E' ,GradientType=0)";
-  background : linear-gradient(90deg, rgba(231, 56, 40, 1) 0%, rgba(235, 96, 43, 1) 42.52%, rgba(240, 147, 46, 1) 100%);
+  /* [disabled]background : -moz-linear-gradient(0% 50% 0deg,rgba(231, 56, 40, 1) 0%,rgba(235, 96, 43, 1) 42.52%,rgba(240, 147, 46, 1) 100%); */
+  /* [disabled]background : -webkit-linear-gradient(0deg, rgba(231, 56, 40, 1) 0%, rgba(235, 96, 43, 1) 42.52%, rgba(240, 147, 46, 1) 100%); */
+  /* [disabled]-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#E73828', endColorstr='#F0932E' ,GradientType=0)"; */
+  background-color: #EB962F;
 }
 
 .graBlue {
-background : -moz-linear-gradient(0% 50% 0deg,rgba(0, 159, 232, 1) 0%,rgba(23, 28, 97, 1) 100%);
-  background : -webkit-linear-gradient(0deg, rgba(0, 159, 232, 1) 0%, rgba(23, 28, 97, 1) 100%);
-  background : -webkit-gradient(linear,0% 50% ,100% 50% ,color-stop(0,rgba(0, 159, 232, 1) ),color-stop(1,rgba(23, 28, 97, 1) ));
-  background : -o-linear-gradient(0deg, rgba(0, 159, 232, 1) 0%, rgba(23, 28, 97, 1) 100%);
-  background : -ms-linear-gradient(0deg, rgba(0, 159, 232, 1) 0%, rgba(23, 28, 97, 1) 100%);
-  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#009FE8', endColorstr='#171C61' ,GradientType=0)";
-  background : linear-gradient(90deg, rgba(0, 159, 232, 1) 0%, rgba(23, 28, 97, 1) 100%);
+  /* [disabled]background : -moz-linear-gradient(0% 50% 0deg,rgba(0, 159, 232, 1) 0%,rgba(23, 28, 97, 1) 100%); */
+  /* [disabled]background : -webkit-linear-gradient(0deg, rgba(0, 159, 232, 1) 0%, rgba(23, 28, 97, 1) 100%); */
+  /* [disabled]background : -webkit-gradient(linear,0% 50% ,100% 50% ,color-stop(0,rgba(0, 159, 232, 1) ),color-stop(1,rgba(23, 28, 97, 1) )); */
+  /* [disabled]background : -o-linear-gradient(0deg, rgba(0, 159, 232, 1) 0%, rgba(23, 28, 97, 1) 100%); */
+  /* [disabled]background : -ms-linear-gradient(0deg, rgba(0, 159, 232, 1) 0%, rgba(23, 28, 97, 1) 100%); */
+  /* [disabled]-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#009FE8', endColorstr='#171C61' ,GradientType=0)"; */
+  background-color: #009FD4;
 }
 
 .graBlue2 {
@@ -1037,13 +1035,13 @@ background : -moz-linear-gradient(0% 50% 0deg,rgba(0, 159, 232, 1) 0%,rgba(23, 2
 }
 
 .graGreen {
- background : -moz-linear-gradient(0% 50% 0deg,rgba(0, 105, 52, 1) 0%,rgba(148, 184, 51, 1) 100%);
-  background : -webkit-linear-gradient(0deg, rgba(0, 105, 52, 1) 0%, rgba(148, 184, 51, 1) 100%);
-  background : -webkit-gradient(linear,0% 50% ,100% 50% ,color-stop(0,rgba(0, 105, 52, 1) ),color-stop(1,rgba(148, 184, 51, 1) ));
-  background : -o-linear-gradient(0deg, rgba(0, 105, 52, 1) 0%, rgba(148, 184, 51, 1) 100%);
-  background : -ms-linear-gradient(0deg, rgba(0, 105, 52, 1) 0%, rgba(148, 184, 51, 1) 100%);
-  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#006934', endColorstr='#94B833' ,GradientType=0)";
-  background : linear-gradient(90deg, rgba(0, 105, 52, 1) 0%, rgba(148, 184, 51, 1) 100%);
+  /* [disabled]background : -moz-linear-gradient(0% 50% 0deg,rgba(0, 105, 52, 1) 0%,rgba(148, 184, 51, 1) 100%); */
+  /* [disabled]background : -webkit-linear-gradient(0deg, rgba(0, 105, 52, 1) 0%, rgba(148, 184, 51, 1) 100%); */
+  /* [disabled]background : -webkit-gradient(linear,0% 50% ,100% 50% ,color-stop(0,rgba(0, 105, 52, 1) ),color-stop(1,rgba(148, 184, 51, 1) )); */
+  /* [disabled]background : -o-linear-gradient(0deg, rgba(0, 105, 52, 1) 0%, rgba(148, 184, 51, 1) 100%); */
+  /* [disabled]background : -ms-linear-gradient(0deg, rgba(0, 105, 52, 1) 0%, rgba(148, 184, 51, 1) 100%); */
+  /* [disabled]-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#006934', endColorstr='#94B833' ,GradientType=0)"; */
+  background-color: #87B857;
 }
 
 .subMenutitle {
@@ -1425,6 +1423,57 @@ a:hover img {
 	/* [disabled]height: 30px; */
 }
 
+.news_title {
+  font-size: 27px;
+  font-weight: bolder;
+}
+
+.news_read {
+  font-size: 19px;
+  line-height: 1.5em;
+  font-weight: bold;
+  color: #000000;
+}
+
+.news_toptitle {
+  font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  font-weight: bold;
+  font-size: 16pt;
+  line-height: 1.6em;
+  color: hsla(0,0%,100%,1.00);
+  padding-left: 15px;
+  background-color: #0071BC;
+}
+
+.left_padding10 {
+  padding-left: 10px;
+}
+
+.left_padding20 {
+  padding-left: 20px;
+}
+
+.left_padding30 {
+  padding-left: 30px;
+}
+
+.left_padding40 {
+  padding-left: 40px;
+}
+
+.left_padding50 {
+  padding-left: 50px;
+}
+
+.news_left_padding20 {
+  padding-left: 20px;
+}
+
+.bosyuu_text {
+  color: #000000;
+  font-size: 21px;
+}
+
 
 
 @media (max-width:375px) and (min-width:374px){
@@ -1445,11 +1494,11 @@ a:hover img {
 }
 
 .table_right_text {
-	color: #5A5A5A;
-	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
-	font-size: 13px;
-	line-height: 1.5em;
-	padding-left: 5px;
+  color: #5A5A5A;
+  font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  font-size: 11px;
+  line-height: 1.5em;
+  padding-left: 2px;
 }
 .right_padding20 {
 	padding-left: 20px;
@@ -1936,10 +1985,11 @@ body > div > footer > div > div > div:nth-child(3) > h4 {
 }
 
 .menu_word {
-	width: 180px;
-	text-align: center;
-	font-size: 15px;
-	color: #3F3F3F;
+  width: 100%;
+  text-align: left;
+  font-size: 15px;
+  color: #3F3F3F;
+  border-bottom: 1px solid #D8D8D8;
 }
 
 .right_b {
@@ -2073,6 +2123,10 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 .message_padding {
 	padding-left: 5px;
 	padding-right: 5px;
+}
+
+.arrow_color {
+  color: #999999;
 }
 }
 
@@ -2473,11 +2527,11 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 }
 
 .table_right_text {
-	color: #5A5A5A;
-	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
-	font-size: 8px;
-	line-height: 1.5em;
-	padding-left: 15px;
+  color: #5A5A5A;
+  font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  font-size: 10px;
+  line-height: 1.5em;
+  padding-left: 0px;
 }
 
 .recruitRead {
@@ -2586,6 +2640,47 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 	font-weight: normal;
 	line-height: 1.5em;
 	font-size: 13px;
+}
+
+.menu_word2 {
+  width: 100%;
+  text-align: left;
+  color: #000000;
+  height: 28px;
+  margin-top: 5px;
+  font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  font-weight: normal;
+  font-size: 12px;
+  margin-bottom: 5px;
+  padding-left: 10px;
+  background-color: #D8D8D8;
+  border-radius: 5px;
+}
+
+.news_title {
+  font-size: 19px;
+  font-weight: bolder;
+}
+
+.news_read {
+  font-size: 12px;
+  line-height: 1.5em;
+  font-weight: bold;
+  color: #000000;
+}
+
+.news_left_padding20 {
+  padding-left: 0px;
+}
+
+.news_toptitle {
+  font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  font-weight: bold;
+  font-size: 13pt;
+  line-height: 1.6em;
+  color: hsla(0,0%,100%,1.00);
+  padding-left: 15px;
+  background-color: #033582;
 }
 }
 
@@ -2920,6 +3015,59 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 	font-size: 17px;
 	text-align: center;
 }
+
+.menu_word2 {
+  width: 146px;
+  text-align: left;
+  color: #000000;
+  height: 28px;
+  margin-top: 5px;
+  font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  font-weight: normal;
+  font-size: 12px;
+  margin-bottom: 5px;
+}
+
+.menu_word2 {
+  width: 100%;
+  text-align: left;
+  color: #000000;
+  height: 28px;
+  margin-top: 5px;
+  font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  font-weight: normal;
+  font-size: 12px;
+  margin-bottom: 5px;
+  padding-left: 10px;
+  background-color: #D8D8D8;
+  border-radius: 5px;
+}
+
+.news_read {
+  font-size: 13px;
+  line-height: 1.5em;
+  font-weight: bold;
+  color: #000000;
+}
+
+.news_title {
+  font-size: 23px;
+  font-weight: bolder;
+}
+
+.news_left_padding20 {
+  padding-left: 0px;
+}
+
+.news_toptitle {
+  font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  font-weight: bold;
+  font-size: 13pt;
+  line-height: 1.6em;
+  color: hsla(0,0%,100%,1.00);
+  padding-left: 15px;
+  background-color: #033582;
+}
 }
 
 
@@ -3169,11 +3317,11 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 }
 
 .table_right_text {
-	color: #5A5A5A;
-	font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
-	font-size: 11px;
-	line-height: 1.5em;
-	padding-left: 10px;
+  color: #5A5A5A;
+  font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  font-size: 12px;
+  line-height: 1.5em;
+  padding-left: 10px;
 }
 
 .companyText {
@@ -3249,6 +3397,59 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 .mainFormtext {
 	font-size: 14px;
 	text-align: center;
+}
+
+.menu_word2 {
+  width: 146px;
+  text-align: left;
+  color: #000000;
+  height: 28px;
+  margin-top: 5px;
+  font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  font-weight: normal;
+  font-size: 12px;
+  margin-bottom: 5px;
+}
+
+.menu_word2 {
+  width: 100%;
+  text-align: left;
+  color: #000000;
+  height: 28px;
+  margin-top: 5px;
+  font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  font-weight: normal;
+  font-size: 12px;
+  margin-bottom: 5px;
+  padding-left: 10px;
+  background-color: #D8D8D8;
+  border-radius: 5px;
+}
+
+.news_title {
+  font-size: 23px;
+  font-weight: bolder;
+}
+
+.news_read {
+  font-size: 15px;
+  line-height: 1.5em;
+  font-weight: bold;
+  color: #000000;
+}
+
+.news_left_padding20 {
+  padding-left: 0px;
+}
+
+.news_toptitle {
+  font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  font-weight: bold;
+  font-size: 14pt;
+  line-height: 1.6em;
+  color: hsla(0,0%,100%,1.00);
+  padding-left: 15px;
+  background-color: #033582;
 }
 }
 
@@ -3390,6 +3591,33 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 	text-align: left;
 	line-height: 1.4em;
 }
+
+.menu_word2 {
+  width: 146px;
+  text-align: left;
+  color: #000000;
+  height: 28px;
+  margin-top: 10px;
+  font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  font-weight: normal;
+  font-size: 13px;
+  margin-bottom: 10px;
+}
+
+.menu_word2 {
+  width: 100%;
+  text-align: left;
+  color: #000000;
+  height: 28px;
+  margin-top: 5px;
+  font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  font-weight: normal;
+  font-size: 12px;
+  margin-bottom: 5px;
+  padding-left: 10px;
+  background-color: #D8D8D8;
+  border-radius: 5px;
+}
 }
 
 
@@ -3465,6 +3693,19 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 .fac_menu {
 	font-size: 14px;
 }
+
+.menu_word2 {
+  width: 121px;
+  text-align: center;
+  color: #000000;
+  height: 28px;
+  margin-top: 10px;
+  font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  font-weight: normal;
+  font-size: 10px;
+  margin-bottom: 10px;
+  /* [disabled]line-height: 1.4em; */
+}
 }
 
 @media (min-width:769px) and (max-width:1024px){
@@ -3511,6 +3752,35 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 	font-size: 52px;
 	line-height: 2em;
 }
+
+.menu_word2 {
+  width: 121px;
+  text-align: center;
+  color: #000000;
+  height: 28px;
+  margin-top: 10px;
+  font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  font-weight: normal;
+  font-size: 10px;
+  margin-bottom: 10px;
+  /* [disabled]line-height: 1.4em; */
+}
+
+.top_bn_cyousei {
+  width: 200px;
+  margin-top: 15px;
+}
+
+.menu_word {
+  width: 120px;
+  text-align: center;
+  color: #FFFFFF;
+  height: 28px;
+  margin-top: 0px;
+  font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  font-weight: normal;
+  font-size: 11px;
+}
 }
 
 @media (min-width:1025px){
@@ -3544,8 +3814,11 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
         display: none!important;
     }
     .navbar-nav {
-        float: none!important;
-        margin: 7.5px -15px;
+  float: none!important;
+  margin-top: 7.5px;
+  /* [disabled]margin-right: 5px; */
+  /* [disabled]margin-left: 5px; */
+  margin-bottom: 7.5px;
     }
     /*.navbar-nav>li {
         float: none;
@@ -3567,5 +3840,23 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 
 .nav_margin_cyousei {
 	margin-bottom: 65px;
+}
+}
+
+@media (max-width:736px){
+
+.footer_list_boader {
+  /* [disabled]border-left-color: hsla(0,0%,0%,1.00); */
+  /* [disabled]border-left-style: dashed; */
+  /* [disabled]border-left-width: 1px; */
+  /* [disabled]border-right-color: hsla(0,0%,0%,1.00); */
+  /* [disabled]border-right-style: dashed; */
+  border-right-width: 0px;
+  /* [disabled]border-collapse: collapse; */
+}
+
+.sm_footer_cont {
+  padding-left: 5px;
+  padding-right: 5px;
 }
 }
