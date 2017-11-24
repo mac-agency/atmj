@@ -292,9 +292,154 @@
 	font-size: 13px;
 }
 
+.table_right_text {
+  color: #5A5A5A;
+  font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  font-size: 15px;
+  line-height: 1.5em;
+  padding-left: 30px;
+}
+
+.left_b_table {
+  border-left: 1px solid #ddd;
+}
+
+.top_margin5 {
+  margin-top: 5px;
+}
+
+.top_margin10 {
+  margin-top: 10px;
+}
+
+.top_margin20 {
+  margin-top: 20px;
+}
+
+.fact_underbar {
+  border-bottom: 2px solid hsla(113,100%,28%,1.00);
+}
+
+.top_margin30 {
+  margin-top: 30px;
+}
+
+.top_margin40 {
+  margin-top: 40px;
+}
+
+.top_margin50 {
+  margin-top: 50px;
+}
+.bottom_margin5 {
+  margin-bottom: 5px;
+}
+.bottom_margin10 {
+  margin-bottom: 10px;
+}
+
+.bottom_margin20 {
+  margin-bottom: 20px;
+}
+
+.bottom_margin30 {
+  margin-bottom: 30px;
+}
+
+.bottom_margin40 {
+  margin-bottom: 40px;
+}
+
+.bottom_margin50 {
+  margin-bottom: 50px;
+}
+
+.top_padding5 {
+  padding-top: 5px;
+}
+
+.top_padding10 {
+  padding-top: 10px;
+}
+
+.top_padding20 {
+  padding-top: 20px;
+}
+
+.top_padding30 {
+  padding-top: 30px;
+}
+
+.top_padding40 {
+  padding-top: 40px;
+}
+
+.top_padding50 {
+  padding-top: 50px;
+}
+
+.bottom_padding5 {
+  padding-bottom: 5px;
+}
+
+.bottom_padding10 {
+  padding-bottom: 10px;
+}
+
+.bottom_padding20 {
+  padding-bottom: 20px;
+}
+
+.bottom_padding30 {
+  padding-bottom: 30px;
+}
+
+.bottom_padding40 {
+  padding-bottom: 40px;
+}
+
+.bottom_padding50 {
+  padding-bottom: 50px;
+}
+
+.messageIntro2 {
+  color: hsla(0,0%,26%,1.00);
+  /* [disabled]font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif; */
+  font-weight: normal;
+  line-height: 1.5em;
+  font-size: 15px;
+}
+
+.newToptitle2 {
+  /* [disabled]font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif; */
+  font-weight: bold;
+  font-size: 14pt;
+  line-height: 1.5em;
+  color: hsla(0,0%,25%,1.00);
+}
+
+.message_padding {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.bg-gray {
+  border: 2px solid hsla(0,0%,25%,1.00);
+  background-color: rgba(244,244,244,1.00);
+}
+
+.sayuuPadding20 {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
 
 
 @media (max-width:320px){
+
+.top_margin5 {
+  margin-top: 5px;
+}
 .welcome-content h2 {
 	font-size: 24px;
 	font-weight: 300;
@@ -898,4 +1043,56 @@ body > div > footer > div > div > div:nth-child(3) > h4 {
 	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
 	margin-top: 0px;
 }
+}
+
+@media (max-width:320px){
+
+.table_right_text {
+  color: #5A5A5A;
+  font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  font-size: 10px;
+  line-height: 1.5em;
+  padding-left: 5px;
+}
+}
+
+@media (min-width:321px) and (max-width:375px){
+
+.table_right_text {
+  color: #5A5A5A;
+  font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  font-size: 11px;
+  line-height: 1.5em;
+  padding-left: 5px;
+}
+}
+
+@media (min-width:376px) and (max-width:414px){
+
+.table_right_text {
+  color: #5A5A5A;
+  font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  font-size: 13px;
+  line-height: 1.5em;
+  padding-left: 5px;
+}
+
+.companyText {
+  font-size: 13px;
+}
+}
+
+@media (min-width:415px) and (max-width:736px){
+}
+
+@media (min-width:737px) and (max-width:768px){
+}
+
+@media (min-width:769px) and (max-width:812px){
+}
+
+@media (min-width:813px) and (max-width:1024px){
+}
+
+@media (min-width:1025px){
 }
