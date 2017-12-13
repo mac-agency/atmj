@@ -8,82 +8,87 @@
 
 <url>
   <loc>http://atmanagement-japan.com/</loc>
-  <lastmod>2017-02-27T10:23:11+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-11-16T10:34:38+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://atmanagement-japan.com/about_factoring/</loc>
-  <lastmod>2017-02-27T10:21:40+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>http://atmanagement-japan.com/index.html</loc>
+  <lastmod>2017-11-16T10:34:38+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://atmanagement-japan.com/manga/</loc>
-  <lastmod>2017-02-27T10:24:19+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>http://atmanagement-japan.com/about_factoring/index.html</loc>
+  <lastmod>2017-11-16T10:28:41+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://atmanagement-japan.com/factoring_menu/</loc>
-  <lastmod>2017-02-27T10:21:46+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>http://atmanagement-japan.com/factoring_menu/index.html</loc>
+  <lastmod>2017-11-16T10:32:37+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://atmanagement-japan.com/urikake/</loc>
-  <lastmod>2017-02-27T10:24:55+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>http://atmanagement-japan.com/urikake/index.html</loc>
+  <lastmod>2017-11-16T10:36:44+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://atmanagement-japan.com/shinryou/</loc>
-  <lastmod>2017-02-27T10:24:48+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>http://atmanagement-japan.com/shinryou/index.html</loc>
+  <lastmod>2017-11-16T10:36:36+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://atmanagement-japan.com/kaigo/</loc>
-  <lastmod>2017-02-27T10:23:44+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>http://atmanagement-japan.com/kaigo/index.html</loc>
+  <lastmod>2017-11-16T10:35:11+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://atmanagement-japan.com/product/</loc>
-  <lastmod>2017-02-27T10:24:44+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>http://atmanagement-japan.com/product/index.html</loc>
+  <lastmod>2017-11-16T10:36:31+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://atmanagement-japan.com/yachin/</loc>
-  <lastmod>2017-02-27T10:25:00+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>http://atmanagement-japan.com/yachin/index.html</loc>
+  <lastmod>2017-11-16T10:36:50+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://atmanagement-japan.com/company/</loc>
-  <lastmod>2017-02-27T10:21:40+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>http://atmanagement-japan.com/company/index.html</loc>
+  <lastmod>2017-11-16T10:32:21+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://atmanagement-japan.com/faq/</loc>
-  <lastmod>2017-02-27T10:21:46+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>http://atmanagement-japan.com/company/corporate_philosophy.html</loc>
+  <lastmod>2017-11-16T10:32:15+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://atmanagement-japan.com/contact/</loc>
-  <lastmod>2017-02-27T10:21:41+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>http://atmanagement-japan.com/faq/index.html</loc>
+  <lastmod>2017-11-16T10:32:38+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://atmanagement-japan.com/privacy_policy/</loc>
-  <lastmod>2017-02-27T10:24:33+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>http://atmanagement-japan.com/contact/index.html</loc>
+  <lastmod>2017-11-16T10:32:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://atmanagement-japan.com/site_map/</loc>
-  <lastmod>2017-02-27T10:24:51+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>http://atmanagement-japan.com/privacy_policy/index.html</loc>
+  <lastmod>2017-11-16T10:36:21+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://atmanagement-japan.com/message/</loc>
-  <lastmod>2017-02-27T10:24:21+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>http://atmanagement-japan.com/site_map/index.html</loc>
+  <lastmod>2017-11-16T10:36:38+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://atmanagement-japan.com/performance/</loc>
-  <lastmod>2017-02-27T10:24:31+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>http://atmanagement-japan.com/performance/index.html</loc>
+  <lastmod>2017-11-16T10:36:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://atmanagement-japan.com/message/index.html</loc>
+  <lastmod>2017-11-16T10:36:10+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 </urlset>

@@ -8,142 +8,207 @@
 
 <url>
   <loc>http://atmj-factoring.co.jp/</loc>
-  <lastmod>2017-10-24T08:03:50+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-11-27T01:40:44+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/index.html</loc>
-  <lastmod>2017-10-24T08:03:50+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://atmj-factoring.co.jp/about_factoring/index.html</loc>
-  <lastmod>2017-10-24T08:01:14+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://atmj-factoring.co.jp/factoring_menu/goriyou.html</loc>
-  <lastmod>2017-10-24T08:01:34+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://atmj-factoring.co.jp/financial_management/purpose.html</loc>
-  <lastmod>2017-10-24T08:01:44+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://atmj-factoring.co.jp/faq/index.html</loc>
-  <lastmod>2017-10-24T08:01:40+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://atmj-factoring.co.jp/company/corporate_profile.html</loc>
-  <lastmod>2017-10-24T08:11:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://atmj-factoring.co.jp/message/index.html</loc>
-  <lastmod>2017-10-24T08:04:27+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://atmj-factoring.co.jp/company/corporate_philosophy.html</loc>
-  <lastmod>2017-10-24T08:01:18+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://atmj-factoring.co.jp/company/portfolio.html</loc>
-  <lastmod>2017-10-24T08:01:23+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://atmj-factoring.co.jp/access/index.html</loc>
-  <lastmod>2017-10-24T08:01:16+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://atmj-factoring.co.jp/company/recruit.html</loc>
-  <lastmod>2017-10-24T08:01:24+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-11-27T01:40:44+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/contact/index.html</loc>
-  <lastmod>2017-10-24T08:01:28+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-11-23T02:12:29+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://atmj-factoring.co.jp/contact/shindan.html</loc>
-  <lastmod>2017-10-24T08:01:28+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>http://atmj-factoring.co.jp/about_factoring/index.html</loc>
+  <lastmod>2017-11-23T02:15:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://atmj-factoring.co.jp/factoring_menu/index.html</loc>
-  <lastmod>2017-10-24T08:01:38+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <loc>http://atmj-factoring.co.jp/factoring_menu/goriyou.html</loc>
+  <lastmod>2017-11-23T02:15:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/financial_management/purpose.html</loc>
+  <lastmod>2017-11-23T02:15:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/faq/index.html</loc>
+  <lastmod>2017-11-23T02:14:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/company/corporate_profile.html</loc>
+  <lastmod>2017-11-23T02:16:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/message/index.html</loc>
+  <lastmod>2017-11-23T02:14:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/company/corporate_philosophy.html</loc>
+  <lastmod>2017-11-23T02:16:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/company/portfolio.html</loc>
+  <lastmod>2017-11-27T05:55:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/access/index.html</loc>
+  <lastmod>2017-11-27T05:29:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/company/recruit.html</loc>
+  <lastmod>2017-11-23T02:16:01+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/news/index.html</loc>
-  <lastmod>2017-10-24T08:04:32+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-11-27T01:43:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/news/news_2017_11_27.html</loc>
+  <lastmod>2017-11-27T01:43:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/news/news_2017_11_24.html</loc>
+  <lastmod>2017-11-27T01:43:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/news/news_2017_11_22.html</loc>
+  <lastmod>2017-11-27T01:43:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/news/news_2017_11_20.html</loc>
+  <lastmod>2017-11-27T01:43:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/contact/shindan.html</loc>
+  <lastmod>2017-11-23T02:12:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/conditions/index.html</loc>
+  <lastmod>2017-11-23T02:14:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/factoring_menu/index.html</loc>
+  <lastmod>2017-11-23T02:15:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/privacy_policy/index.html</loc>
+  <lastmod>2017-11-23T02:15:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/compliance/index.html</loc>
+  <lastmod>2017-11-23T02:14:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/site_map/index.html</loc>
+  <lastmod>2017-11-23T02:15:43+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/shinsa_moushikomi.pdf</loc>
   <lastmod>2017-10-23T06:19:33+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://atmj-factoring.co.jp/conditions/index.html</loc>
-  <lastmod>2017-10-24T08:01:26+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://atmj-factoring.co.jp/privacy_policy/index.html</loc>
-  <lastmod>2017-10-24T08:04:41+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://atmj-factoring.co.jp/compliance/index.html</loc>
-  <lastmod>2017-10-24T08:01:25+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://atmj-factoring.co.jp/site_map/index.html</loc>
-  <lastmod>2017-10-24T08:04:44+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/flow/index.html</loc>
-  <lastmod>2017-10-24T08:01:48+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-11-23T02:16:22+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/about_factoring/factoring_merit.pdf</loc>
-  <lastmod>2017-10-23T04:08:21+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-11-09T10:04:06+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/about_factoring/factoring_demerit.pdf</loc>
-  <lastmod>2017-10-23T04:08:20+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-11-09T10:04:06+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/financial_management/configuration.html</loc>
-  <lastmod>2017-10-24T08:01:40+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-11-23T02:15:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/financial_management/utilization.html</loc>
-  <lastmod>2017-10-24T08:01:44+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-11-23T02:15:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/financial_management/control.html</loc>
-  <lastmod>2017-10-24T08:01:41+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-11-23T02:14:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/message/officer.html</loc>
+  <lastmod>2017-11-23T02:14:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/news/economic_2017_11_17.html</loc>
+  <lastmod>2017-11-27T01:43:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/news/economic_2017_11_15.html</loc>
+  <lastmod>2017-11-27T01:43:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/news/economic.html</loc>
+  <lastmod>2017-11-27T01:43:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/news/fta.html</loc>
+  <lastmod>2017-11-27T01:43:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/news/site_renewal.html</loc>
+  <lastmod>2017-11-27T01:43:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/news/office_relocation.html</loc>
+  <lastmod>2017-11-27T01:43:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/news/logo_renewal.html</loc>
+  <lastmod>2017-11-27T01:43:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/news/resources.html</loc>
+  <lastmod>2017-11-27T01:43:21+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/financial_management/index.html</loc>
-  <lastmod>2017-10-24T08:01:44+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-11-23T02:14:55+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 </urlset>
