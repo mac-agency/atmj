@@ -1510,6 +1510,37 @@ a:hover img {
   background-color: hsla(30,99%,47%,1.00);
 }
 
+.cp_midashi {
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.5em;
+}
+
+.cp_read {
+  color: hsla(0,0%,16%,1.00);
+  font-size: 14px;
+  line-height: 1.4em;
+  margin-top: 5px;
+  padding-left: 48px;
+}
+
+.cp_table_padding {
+  padding-left: 57px;
+  padding-top: 10px;
+}
+
+.cp_table_width {
+  width: 15%;
+}
+
+.cp_title {
+  font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  font-weight: bold;
+  font-size: 16pt;
+  line-height: 1.5em;
+  color: hsla(0,0%,25%,1.00);
+}
+
 
 
 @media (max-width:375px) and (min-width:374px){
@@ -2741,6 +2772,37 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
   border-radius: 5px;
   line-height: 2.8em;
 }
+
+.cp_midashi {
+  font-size: 13px;
+  font-weight: bold;
+  line-height: 1.5em;
+}
+
+.cp_table_padding {
+  padding-left: 0px;
+  padding-top: 10px;
+}
+
+.cp_read {
+  color: hsla(0,0%,16%,1.00);
+  font-size: 12px;
+  line-height: 1.4em;
+  margin-top: 5px;
+  padding-left: 0px;
+}
+
+.cp_table_width {
+  width: 20%;
+}
+
+.cp_title {
+  font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  font-weight: bold;
+  font-size: 12pt;
+  line-height: 1.5em;
+  color: hsla(0,0%,25%,1.00);
+}
 }
 
 
@@ -3150,6 +3212,37 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
   border-radius: 5px;
   line-height: 2.8em;
 }
+
+.cp_midashi {
+  font-size: 13px;
+  font-weight: bold;
+  line-height: 1.5em;
+}
+
+.cp_table_padding {
+  padding-left: 0px;
+  padding-top: 10px;
+}
+
+.cp_read {
+  color: hsla(0,0%,16%,1.00);
+  font-size: 12px;
+  line-height: 1.4em;
+  margin-top: 5px;
+  padding-left: 0px;
+}
+
+.cp_table_width {
+  width: 20%;
+}
+
+.cp_title {
+  font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  font-weight: bold;
+  font-size: 12pt;
+  line-height: 1.5em;
+  color: hsla(0,0%,25%,1.00);
+}
 }
 
 
@@ -3555,6 +3648,37 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
   padding: 7px 40px;
   border-radius: 5px;
   line-height: 2.8em;
+}
+
+.cp_midashi {
+  font-size: 13px;
+  font-weight: bold;
+  line-height: 1.5em;
+}
+
+.cp_table_padding {
+  padding-left: 0px;
+  padding-top: 10px;
+}
+
+.cp_read {
+  color: hsla(0,0%,16%,1.00);
+  font-size: 13px;
+  line-height: 1.4em;
+  margin-top: 5px;
+  padding-left: 0px;
+}
+
+.cp_table_width {
+  width: 25%;
+}
+
+.cp_title {
+  font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  font-weight: bold;
+  font-size: 12pt;
+  line-height: 1.5em;
+  color: hsla(0,0%,25%,1.00);
 }
 }
 

@@ -433,6 +433,33 @@
   padding-right: 20px;
 }
 
+.cp_midashi {
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.5em;
+}
+
+.cp_read {
+  color: hsla(0,0%,16%,1.00);
+  font-size: 14px;
+  line-height: 1.4em;
+  margin-top: 5px;
+  padding-left: 48px;
+}
+
+.cp_table_padding {
+  padding-left: 57px;
+  padding-top: 10px;
+}
+
+.cp_table_width {
+  width: 15%;
+}
+
+#contact_policy h2 {
+  font-size: 32px;
+}
+
 
 
 @media (max-width:320px){
@@ -1054,6 +1081,33 @@ body > div > footer > div > div > div:nth-child(3) > h4 {
   line-height: 1.5em;
   padding-left: 5px;
 }
+
+.cp_midashi {
+  font-size: 13px;
+  font-weight: bold;
+  line-height: 1.5em;
+}
+
+.cp_read {
+  color: hsla(0,0%,16%,1.00);
+  font-size: 12px;
+  line-height: 1.4em;
+  margin-top: 5px;
+  padding-left: 0px;
+}
+
+.cp_table_padding {
+  padding-left: 0px;
+  padding-top: 10px;
+}
+
+.cp_table_width {
+  width: 22%;
+}
+
+#contact_policy h2 {
+  font-size: 23px;
+}
 }
 
 @media (min-width:321px) and (max-width:375px){
@@ -1064,6 +1118,33 @@ body > div > footer > div > div > div:nth-child(3) > h4 {
   font-size: 11px;
   line-height: 1.5em;
   padding-left: 5px;
+}
+
+.cp_midashi {
+  font-size: 13px;
+  font-weight: bold;
+  line-height: 1.5em;
+}
+
+.cp_read {
+  color: hsla(0,0%,16%,1.00);
+  font-size: 13px;
+  line-height: 1.4em;
+  margin-top: 5px;
+  padding-left: 0px;
+}
+
+.cp_table_padding {
+  padding-left: 0px;
+  padding-top: 10px;
+}
+
+.cp_table_width {
+  width: 22%;
+}
+
+#contact_policy h2 {
+  font-size: 21px;
 }
 }
 
@@ -1079,6 +1160,38 @@ body > div > footer > div > div > div:nth-child(3) > h4 {
 
 .companyText {
   font-size: 13px;
+}
+
+.cp_midashi {
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 1.5em;
+}
+
+.cp_read {
+  color: hsla(0,0%,16%,1.00);
+  font-size: 13px;
+  line-height: 1.4em;
+  margin-top: 5px;
+  padding-left: 0px;
+}
+
+.cp_table_padding {
+  padding-left: 0px;
+  padding-top: 10px;
+}
+
+.cp_table_width {
+  width: 24%;
+}
+
+#contact_policy h2 {
+  font-size: 24px;
+}
+
+.welcome-content h2 {
+  font-size: 25px;
+  font-weight: 500;
 }
 }
 

@@ -68,7 +68,7 @@
 </url>
 <url>
   <loc>http://atmanagement-japan.com/contact/index.html</loc>
-  <lastmod>2017-11-16T10:32:24+00:00</lastmod>
+  <lastmod>2017-12-26T05:01:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -80,6 +80,11 @@
   <loc>http://atmanagement-japan.com/site_map/index.html</loc>
   <lastmod>2017-11-16T10:36:38+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://atmanagement-japan.com/privacy_policy/contact_policy.html</loc>
+  <lastmod>2017-12-26T05:06:50+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://atmanagement-japan.com/performance/index.html</loc>
