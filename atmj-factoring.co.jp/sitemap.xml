@@ -6,14 +6,15 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
   <loc>http://atmj-factoring.co.jp/</loc>
-  <lastmod>2017-12-25T01:19:24+00:00</lastmod>
+  <lastmod>2018-01-15T00:57:17+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/index.html</loc>
-  <lastmod>2017-12-25T01:19:24+00:00</lastmod>
+  <lastmod>2018-01-15T00:57:17+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -23,12 +24,12 @@
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/about_factoring/index.html</loc>
-  <lastmod>2017-11-23T02:15:04+00:00</lastmod>
+  <lastmod>2018-01-05T00:05:26+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/factoring_menu/goriyou.html</loc>
-  <lastmod>2017-11-23T02:15:37+00:00</lastmod>
+  <lastmod>2018-01-05T00:06:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -38,7 +39,7 @@
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/faq/index.html</loc>
-  <lastmod>2017-11-23T02:14:30+00:00</lastmod>
+  <lastmod>2018-01-05T00:04:43+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -73,32 +74,37 @@
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/news/index.html</loc>
-  <lastmod>2017-12-25T01:21:42+00:00</lastmod>
+  <lastmod>2018-01-15T01:00:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://atmj-factoring.co.jp/news/news_2017_12_25.html</loc>
-  <lastmod>2017-12-25T01:21:47+00:00</lastmod>
+  <loc>http://atmj-factoring.co.jp/news/news_2018_1_15-a.html</loc>
+  <lastmod>2018-01-15T01:00:35+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://atmj-factoring.co.jp/news/news_2017_12_22.html</loc>
-  <lastmod>2017-12-25T01:21:41+00:00</lastmod>
+  <loc>http://atmj-factoring.co.jp/news/news_2018_1_15.html</loc>
+  <lastmod>2018-01-15T01:00:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://atmj-factoring.co.jp/news/news_2017_12_20.html</loc>
-  <lastmod>2017-12-25T01:21:49+00:00</lastmod>
+  <loc>http://atmj-factoring.co.jp/news/news_2018_1_12.html</loc>
+  <lastmod>2018-01-15T01:00:36+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://atmj-factoring.co.jp/news/news_2017_12_18.html</loc>
-  <lastmod>2017-12-25T01:21:41+00:00</lastmod>
+  <loc>http://atmj-factoring.co.jp/news/news_2018_1_10.html</loc>
+  <lastmod>2018-01-15T01:00:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/news/news_2018_1_5.html</loc>
+  <lastmod>2018-01-15T01:00:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/contact/shindan.html</loc>
-  <lastmod>2017-11-23T02:12:30+00:00</lastmod>
+  <lastmod>2018-01-05T00:02:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -172,108 +178,143 @@
   <priority>0.64</priority>
 </url>
 <url>
+  <loc>http://atmj-factoring.co.jp/news/news_2018_1_4.html</loc>
+  <lastmod>2018-01-15T01:00:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/news/news_2017_12_29.html</loc>
+  <lastmod>2018-01-15T01:00:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/news/news_2017_12_27.html</loc>
+  <lastmod>2018-01-15T01:00:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/news/news_2017_12_25.html</loc>
+  <lastmod>2018-01-15T01:00:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/news/news_2017_12_22.html</loc>
+  <lastmod>2018-01-15T01:00:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/news/news_2017_12_20.html</loc>
+  <lastmod>2018-01-15T01:00:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://atmj-factoring.co.jp/news/news_2017_12_18.html</loc>
+  <lastmod>2018-01-15T01:00:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
   <loc>http://atmj-factoring.co.jp/news/news_2017_12_15.html</loc>
-  <lastmod>2017-12-25T01:21:42+00:00</lastmod>
+  <lastmod>2018-01-15T01:00:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/news/news_2017_12_13.html</loc>
-  <lastmod>2017-12-25T01:21:46+00:00</lastmod>
+  <lastmod>2018-01-15T01:00:08+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/news/news_2017_12_11.html</loc>
-  <lastmod>2017-12-25T01:21:49+00:00</lastmod>
+  <lastmod>2018-01-15T01:00:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/news/news_2017_12_8.html</loc>
-  <lastmod>2017-12-25T01:21:46+00:00</lastmod>
+  <lastmod>2018-01-15T01:00:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/news/news_2017_12_6.html</loc>
-  <lastmod>2017-12-25T01:21:48+00:00</lastmod>
+  <lastmod>2018-01-15T01:00:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/news/news_2017_12_4.html</loc>
-  <lastmod>2017-12-25T01:21:45+00:00</lastmod>
+  <lastmod>2018-01-15T01:00:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/news/news_2017_12_1.html</loc>
-  <lastmod>2017-12-25T01:21:51+00:00</lastmod>
+  <lastmod>2018-01-15T01:00:36+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/news/news_2017_11_29.html</loc>
-  <lastmod>2017-12-25T01:21:42+00:00</lastmod>
+  <lastmod>2018-01-15T01:00:02+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/news/news_2017_11_28.html</loc>
-  <lastmod>2017-12-25T01:21:40+00:00</lastmod>
+  <lastmod>2018-01-15T01:00:00+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/news/news_2017_11_27.html</loc>
-  <lastmod>2017-12-25T01:21:50+00:00</lastmod>
+  <lastmod>2018-01-15T01:00:36+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/news/news_2017_11_24.html</loc>
-  <lastmod>2017-12-25T01:21:41+00:00</lastmod>
+  <lastmod>2018-01-15T01:00:00+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/news/news_2017_11_22.html</loc>
-  <lastmod>2017-12-25T01:21:45+00:00</lastmod>
+  <lastmod>2018-01-15T01:00:06+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/news/news_2017_11_20.html</loc>
-  <lastmod>2017-12-25T01:21:48+00:00</lastmod>
+  <lastmod>2018-01-15T01:00:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/news/economic_2017_11_17.html</loc>
-  <lastmod>2017-12-25T01:21:51+00:00</lastmod>
+  <lastmod>2018-01-15T01:00:36+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/news/economic_2017_11_15.html</loc>
-  <lastmod>2017-12-25T01:21:43+00:00</lastmod>
+  <lastmod>2018-01-15T01:00:03+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/news/economic.html</loc>
-  <lastmod>2017-12-25T01:21:47+00:00</lastmod>
+  <lastmod>2018-01-15T01:00:08+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/news/fta.html</loc>
-  <lastmod>2017-12-25T01:21:49+00:00</lastmod>
+  <lastmod>2018-01-15T01:00:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/news/site_renewal.html</loc>
-  <lastmod>2017-12-25T01:21:48+00:00</lastmod>
+  <lastmod>2018-01-15T01:00:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/news/office_relocation.html</loc>
-  <lastmod>2017-12-25T01:21:45+00:00</lastmod>
+  <lastmod>2018-01-15T01:00:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/news/logo_renewal.html</loc>
-  <lastmod>2017-12-25T01:21:50+00:00</lastmod>
+  <lastmod>2018-01-15T01:00:36+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://atmj-factoring.co.jp/news/resources.html</loc>
-  <lastmod>2017-12-25T01:21:47+00:00</lastmod>
+  <lastmod>2018-01-15T01:00:10+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -281,4 +322,6 @@
   <lastmod>2017-11-23T02:14:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
+
+
 </urlset>
