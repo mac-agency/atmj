@@ -85,6 +85,7 @@
 <!-- TemplateParam name="OptionalRegion20" type="boolean" value="true" -->
 <!-- TemplateParam name="OptionalRegion21" type="boolean" value="false" -->
 <!-- TemplateParam name="news" type="boolean" value="false" -->
+<!-- TemplateParam name="proof" type="boolean" value="false" -->
 </head>
 <body class="mincyouText">
 
@@ -997,6 +998,21 @@
 	      
 			</div>
 	</div>
+	</div>
+	<!-- TemplateEndIf -->
+	
+	<!-- TemplateBeginIf cond="proof" -->
+	<div class="container top_margin20">
+		<div class="row">
+			<div class="col-sm-2 col-sm-offset-5">
+			<table class="center-block" width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications.">
+<tr>
+<td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.websecurity.norton.com/getseal?host_name=atmj-factoring.co.jp&amp;size=L&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=ja"></script><br />
+<a href="https://www.symantec.com/ja/jp/products-solutions/families/?fid=ssl-certificates" target="_blank"  style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">SSL&#12395;&#12388;&#12356;&#12390;</a></td>
+</tr>
+				</table>
+			</div>
+		</div>
 	</div>
 	<!-- TemplateEndIf -->
 	
