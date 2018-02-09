@@ -460,6 +460,10 @@
   font-size: 32px;
 }
 
+.ploof {
+  float: right;
+}
+
 
 
 @media (max-width:320px){

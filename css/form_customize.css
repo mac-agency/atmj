@@ -3,6 +3,10 @@
 	margin-top: 30px;
 }
 
+.non {
+  display: none;
+}
+
 .markWrap {
 	float: right;
 	padding-right: 5px;
