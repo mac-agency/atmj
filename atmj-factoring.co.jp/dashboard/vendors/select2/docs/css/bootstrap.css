@@ -1,6 +1,10 @@
 /*
 Error: Invalid CSS after "...trap/variables"": expected "{", was ";"
+<<<<<<< HEAD
         on line 11 of /Users/yamano_masashi/site/atmj/atmj-factoring.co.jp/dashboard/vendors/select2/docs/css/bootstrap.scss
+=======
+        on line 11 of /Users/yamano/Sites/at_management_japan/atmj-factoring.co.jp/dashboard/vendors/select2/docs/css/bootstrap.scss
+>>>>>>> origin/atmj
 
 6:  * Copyright 2011-2015 Twitter, Inc.
 7:  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
@@ -15,7 +19,11 @@ Error: Invalid CSS after "...trap/variables"": expected "{", was ";"
 16: @import "vendor/bootstrap/print";
 
 Backtrace:
+<<<<<<< HEAD
 /Users/yamano_masashi/site/atmj/atmj-factoring.co.jp/dashboard/vendors/select2/docs/css/bootstrap.scss:11
+=======
+/Users/yamano/Sites/at_management_japan/atmj-factoring.co.jp/dashboard/vendors/select2/docs/css/bootstrap.scss:11
+>>>>>>> origin/atmj
 /Applications/Adobe Dreamweaver CC 2018/Adobe Dreamweaver CC 2018.app/Contents/Resources/gems/rubygems/gems/sass-3.5.3/lib/sass/scss/parser.rb:1278:in `expected'
 /Applications/Adobe Dreamweaver CC 2018/Adobe Dreamweaver CC 2018.app/Contents/Resources/gems/rubygems/gems/sass-3.5.3/lib/sass/scss/parser.rb:1208:in `expected'
 /Applications/Adobe Dreamweaver CC 2018/Adobe Dreamweaver CC 2018.app/Contents/Resources/gems/rubygems/gems/sass-3.5.3/lib/sass/scss/parser.rb:1203:in `tok!'
@@ -38,4 +46,8 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
+<<<<<<< HEAD
   content: "Error: Invalid CSS after \"...trap/variables\"\": expected \"{\", was \";\"\A         on line 11 of /Users/yamano_masashi/site/atmj/atmj-factoring.co.jp/dashboard/vendors/select2/docs/css/bootstrap.scss\A \A 6:  * Copyright 2011-2015 Twitter, Inc.\A 7:  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)\A 8:  */\A 9: \A 10: // Core variables and mixins\A 11: @import \"vendor/bootstrap/variables\";\A 12: @import \"vendor/bootstrap/mixins\";\A 13: \A 14: // Reset and dependencies\A 15: @import \"vendor/bootstrap/normalize\";\A 16: @import \"vendor/bootstrap/print\";"; }
+=======
+  content: "Error: Invalid CSS after \"...trap/variables\"\": expected \"{\", was \";\"\A         on line 11 of /Users/yamano/Sites/at_management_japan/atmj-factoring.co.jp/dashboard/vendors/select2/docs/css/bootstrap.scss\A \A 6:  * Copyright 2011-2015 Twitter, Inc.\A 7:  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)\A 8:  */\A 9: \A 10: // Core variables and mixins\A 11: @import \"vendor/bootstrap/variables\";\A 12: @import \"vendor/bootstrap/mixins\";\A 13: \A 14: // Reset and dependencies\A 15: @import \"vendor/bootstrap/normalize\";\A 16: @import \"vendor/bootstrap/print\";"; }
+>>>>>>> origin/atmj

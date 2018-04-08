@@ -1,6 +1,10 @@
 /*
 Error: Invalid CSS after "...trap/variables"": expected "{", was ";"
+<<<<<<< HEAD
         on line 4 of /Users/yamano_masashi/site/atmj/atmj-factoring.co.jp/dashboard/vendors/select2/docs/css/s2-docs.scss
+=======
+        on line 4 of /Users/yamano/Sites/at_management_japan/atmj-factoring.co.jp/dashboard/vendors/select2/docs/css/s2-docs.scss
+>>>>>>> origin/atmj
 
 1: ---
 2: ---
@@ -13,7 +17,11 @@ Error: Invalid CSS after "...trap/variables"": expected "{", was ";"
 9: @import "code";
 
 Backtrace:
+<<<<<<< HEAD
 /Users/yamano_masashi/site/atmj/atmj-factoring.co.jp/dashboard/vendors/select2/docs/css/s2-docs.scss:4
+=======
+/Users/yamano/Sites/at_management_japan/atmj-factoring.co.jp/dashboard/vendors/select2/docs/css/s2-docs.scss:4
+>>>>>>> origin/atmj
 /Applications/Adobe Dreamweaver CC 2018/Adobe Dreamweaver CC 2018.app/Contents/Resources/gems/rubygems/gems/sass-3.5.3/lib/sass/scss/parser.rb:1278:in `expected'
 /Applications/Adobe Dreamweaver CC 2018/Adobe Dreamweaver CC 2018.app/Contents/Resources/gems/rubygems/gems/sass-3.5.3/lib/sass/scss/parser.rb:1208:in `expected'
 /Applications/Adobe Dreamweaver CC 2018/Adobe Dreamweaver CC 2018.app/Contents/Resources/gems/rubygems/gems/sass-3.5.3/lib/sass/scss/parser.rb:1203:in `tok!'
@@ -36,4 +44,8 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
+<<<<<<< HEAD
   content: "Error: Invalid CSS after \"...trap/variables\"\": expected \"{\", was \";\"\A         on line 4 of /Users/yamano_masashi/site/atmj/atmj-factoring.co.jp/dashboard/vendors/select2/docs/css/s2-docs.scss\A \A 1: ---\A 2: ---\A 3: \A 4: @import \"vendor/bootstrap/variables\";\A 5: \A 6: @import \"result-repository\";\A 7: @import \"sidenav\";\A 8: @import \"hamburger\";\A 9: @import \"code\";"; }
+=======
+  content: "Error: Invalid CSS after \"...trap/variables\"\": expected \"{\", was \";\"\A         on line 4 of /Users/yamano/Sites/at_management_japan/atmj-factoring.co.jp/dashboard/vendors/select2/docs/css/s2-docs.scss\A \A 1: ---\A 2: ---\A 3: \A 4: @import \"vendor/bootstrap/variables\";\A 5: \A 6: @import \"result-repository\";\A 7: @import \"sidenav\";\A 8: @import \"hamburger\";\A 9: @import \"code\";"; }
+>>>>>>> origin/atmj
