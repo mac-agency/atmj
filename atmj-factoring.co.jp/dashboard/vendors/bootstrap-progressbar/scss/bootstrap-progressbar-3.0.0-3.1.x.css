@@ -1,10 +1,6 @@
 /*
 Error: Undefined variable: "$line-height-computed".
-<<<<<<< HEAD
         on line 1 of /Users/yamano_masashi/site/atmj/atmj-factoring.co.jp/dashboard/vendors/bootstrap-progressbar/scss/bootstrap-progressbar-3.0.0-3.1.x.scss
-=======
-        on line 1 of /Users/yamano/Sites/at_management_japan/atmj-factoring.co.jp/dashboard/vendors/bootstrap-progressbar/scss/bootstrap-progressbar-3.0.0-3.1.x.scss
->>>>>>> origin/atmj
 
 1: $progressbarVerticalWidth: $line-height-computed;
 2: $progressbarFontSize: $font-size-small;
@@ -14,11 +10,7 @@ Error: Undefined variable: "$line-height-computed".
 6: 
 
 Backtrace:
-<<<<<<< HEAD
 /Users/yamano_masashi/site/atmj/atmj-factoring.co.jp/dashboard/vendors/bootstrap-progressbar/scss/bootstrap-progressbar-3.0.0-3.1.x.scss:1
-=======
-/Users/yamano/Sites/at_management_japan/atmj-factoring.co.jp/dashboard/vendors/bootstrap-progressbar/scss/bootstrap-progressbar-3.0.0-3.1.x.scss:1
->>>>>>> origin/atmj
 /Applications/Adobe Dreamweaver CC 2018/Adobe Dreamweaver CC 2018.app/Contents/Resources/gems/rubygems/gems/sass-3.5.3/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Applications/Adobe Dreamweaver CC 2018/Adobe Dreamweaver CC 2018.app/Contents/Resources/gems/rubygems/gems/sass-3.5.3/lib/sass/script/tree/node.rb:50:in `perform'
 /Applications/Adobe Dreamweaver CC 2018/Adobe Dreamweaver CC 2018.app/Contents/Resources/gems/rubygems/gems/sass-3.5.3/lib/sass/tree/visitors/perform.rb:482:in `visit_variable'
@@ -53,8 +45,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-<<<<<<< HEAD
   content: "Error: Undefined variable: \"$line-height-computed\".\A         on line 1 of /Users/yamano_masashi/site/atmj/atmj-factoring.co.jp/dashboard/vendors/bootstrap-progressbar/scss/bootstrap-progressbar-3.0.0-3.1.x.scss\A \A 1: $progressbarVerticalWidth: $line-height-computed;\A 2: $progressbarFontSize: $font-size-small;\A 3: \A 4: // bootstrap-progressbar global styles\A 5: // -----------------------------------\A 6: "; }
-=======
-  content: "Error: Undefined variable: \"$line-height-computed\".\A         on line 1 of /Users/yamano/Sites/at_management_japan/atmj-factoring.co.jp/dashboard/vendors/bootstrap-progressbar/scss/bootstrap-progressbar-3.0.0-3.1.x.scss\A \A 1: $progressbarVerticalWidth: $line-height-computed;\A 2: $progressbarFontSize: $font-size-small;\A 3: \A 4: // bootstrap-progressbar global styles\A 5: // -----------------------------------\A 6: "; }
->>>>>>> origin/atmj
