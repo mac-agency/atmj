@@ -464,6 +464,32 @@
   float: right;
 }
 
+.syamei {
+  color: hsla(0,0%,32%,1.00);
+  font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  font-size: 14px;
+  clear: both;
+  float: right;
+}
+
+.nameWrap {
+  float: right;
+  clear: both;
+  margin-top: 5px;
+}
+
+.yakusyoku {
+  color: hsla(0,0%,59%,1.00);
+  font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  font-size: 14px;
+}
+
+.name {
+  color: hsla(0,0%,32%,1.00);
+  font-family: "HG明朝E", "ヒラギノ明朝 Pro W3", "游明朝", YuMincho, "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  font-size: 25px;
+}
+
 
 
 @media (max-width:320px){
